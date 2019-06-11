@@ -25,8 +25,8 @@ rdd = input.flatMap(lambda x: x.split('\t'))\
 df = rdd.toDF()
 
 #
-sc._jsc.hadoopConfiguration().set("fs.s3.awsAccessKeyId", "AKIAIJOOCS3FE4QLGFKA")
-sc._jsc.hadoopConfiguration().set("fs.s3.awsSecretAccessKey", "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")
+sc._jsc.hadoopConfiguration().set("fs.s3.awsAccessKeyId", "")
+sc._jsc.hadoopConfiguration().set("fs.s3.awsSecretAccessKey", "")
 
 # df = sc.read \
 #   .format("com.databricks.spark.redshift") \
