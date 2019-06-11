@@ -1,1000 +1,1000 @@
-2019-06-08 15:05:03.100020	  google	purchase	water
-2019-06-08 15:05:03.100335	  yahoo	 page_view	 wheet
-2019-06-08 15:05:03.100563	  google	purchase	 axe
-2019-06-08 15:05:03.100814	facebook	purchase	 a table
-2019-06-08 15:05:03.100937	  google	 page_view	 chicken
-2019-06-08 15:05:03.101222	  yahoo	 add_to_cart	 table
-2019-06-08 15:05:03.101472	 bing	 page_view	 rocket fire
-2019-06-08 15:05:03.101612	  yahoo	 page_view	 chicken
-2019-06-08 15:05:03.101824	  twitter	 page_view	 axe
-2019-06-08 15:05:03.101959	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.102358	  google	purchase	 house
-2019-06-08 15:05:03.102494	facebook	purchase	 fire rocket
-2019-06-08 15:05:03.102802	  twitter	 page_view	 flour
-2019-06-08 15:05:03.103035	 bing	 add_to_cart	 shirt
-2019-06-08 15:05:03.103171	  yahoo	purchase	 chicken
-2019-06-08 15:05:03.103381	  twitter	 add_to_cart	 pants
-2019-06-08 15:05:03.103517	  twitter	purchase	 coat
-2019-06-08 15:05:03.103919	  yahoo	purchase	 table
-2019-06-08 15:05:03.104055	 bing	 add_to_cart	 werehouse
-2019-06-08 15:05:03.104338	  twitter	 add_to_cart	 sword
-2019-06-08 15:05:03.104504	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.104632	  google	 page_view	 axe
-2019-06-08 15:05:03.104753	facebook	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.104873	  google	purchase	 bread
-2019-06-08 15:05:03.104994	  google	 add_to_cart	 wheet
-2019-06-08 15:05:03.105112	  yahoo	 page_view	 house
-2019-06-08 15:05:03.105228	  yahoo	 add_to_cart	 bread
-2019-06-08 15:05:03.105345	 bing	 page_view	 bruhkfest
-2019-06-08 15:05:03.105463	  twitter	 page_view	 chardonei
-2019-06-08 15:05:03.105579	  google	 add_to_cart	 coat
-2019-06-08 15:05:03.105707	  yahoo	purchase	 pants
-2019-06-08 15:05:03.105897	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.106046	  google	purchase	 rug
-2019-06-08 15:05:03.106316	  twitter	purchase	 chardonei
-2019-06-08 15:05:03.106594	  google	 add_to_cart	 not water
-2019-06-08 15:05:03.106845	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.107004	  twitter	 add_to_cart	 chardonei
-2019-06-08 15:05:03.107130	facebook	purchase	 chicken
-2019-06-08 15:05:03.107255	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.107375	 bing	purchase	 flour
-2019-06-08 15:05:03.107494	  twitter	 page_view	 a table
-2019-06-08 15:05:03.107613	 bing	purchase	 pants
-2019-06-08 15:05:03.107732	facebook	 add_to_cart	 sword
-2019-06-08 15:05:03.107850	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.107969	facebook	 add_to_cart	 bread
-2019-06-08 15:05:03.108089	  yahoo	 add_to_cart	 chair
-2019-06-08 15:05:03.108206	  yahoo	 add_to_cart	 sword
-2019-06-08 15:05:03.108324	 bing	 page_view	 shirt
-2019-06-08 15:05:03.108442	  google	purchase	 fire rocket
-2019-06-08 15:05:03.108561	  twitter	purchase	 steak
-2019-06-08 15:05:03.108680	 bing	 page_view	 table
-2019-06-08 15:05:03.108797	  twitter	 page_view	 rug
-2019-06-08 15:05:03.108917	  yahoo	 page_view	 pants
-2019-06-08 15:05:03.109034	 bing	 page_view	 axe
-2019-06-08 15:05:03.109152	  yahoo	 page_view	 flour
-2019-06-08 15:05:03.109286	  google	 add_to_cart	 table
-2019-06-08 15:05:03.109409	 bing	 add_to_cart	 not water
-2019-06-08 15:05:03.109531	 bing	 add_to_cart	water
-2019-06-08 15:05:03.109652	  yahoo	purchase	 not water
-2019-06-08 15:05:03.109774	 bing	 page_view	 axe
-2019-06-08 15:05:03.109909	  yahoo	purchase	 rocket fire
-2019-06-08 15:05:03.110101	  google	 page_view	 boots
-2019-06-08 15:05:03.110242	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.110363	  yahoo	 page_view	 chair
-2019-06-08 15:05:03.110479	  yahoo	 add_to_cart	 chicken
-2019-06-08 15:05:03.110594	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.110710	 bing	 add_to_cart	 chair
-2019-06-08 15:05:03.110824	facebook	 add_to_cart	 wine
-2019-06-08 15:05:03.110939	  twitter	 page_view	 shirt
-2019-06-08 15:05:03.111052	facebook	purchase	 chardonei
-2019-06-08 15:05:03.111165	 bing	 add_to_cart	 flour
-2019-06-08 15:05:03.111279	  google	 add_to_cart	 shirt
-2019-06-08 15:05:03.111393	  google	purchase	 wheet
-2019-06-08 15:05:03.111512	facebook	 page_view	 wheet
-2019-06-08 15:05:03.111705	  yahoo	 add_to_cart	 chicken
-2019-06-08 15:05:03.111831	  yahoo	 page_view	 coat
-2019-06-08 15:05:03.112170	 bing	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.112348	 bing	 add_to_cart	 wheet
-2019-06-08 15:05:03.112486	  google	 add_to_cart	 a table
-2019-06-08 15:05:03.112669	  google	purchase	 chardonei
-2019-06-08 15:05:03.112802	 bing	 page_view	 flour
-2019-06-08 15:05:03.112929	  twitter	 add_to_cart	 boots
-2019-06-08 15:05:03.113053	  google	purchase	 rocket fire
-2019-06-08 15:05:03.113176	  twitter	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.113303	  yahoo	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.113424	facebook	 add_to_cart	 chair
-2019-06-08 15:05:03.113547	  yahoo	purchase	 wheet
-2019-06-08 15:05:03.113668	 bing	 add_to_cart	 coat
-2019-06-08 15:05:03.113789	  yahoo	purchase	 rocket fire
-2019-06-08 15:05:03.113909	  twitter	 page_view	 sword
-2019-06-08 15:05:03.114030	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.114150	 bing	purchase	 fire rocket
-2019-06-08 15:05:03.114271	 bing	purchase	 not water
-2019-06-08 15:05:03.114394	facebook	purchase	 coat
-2019-06-08 15:05:03.114514	 bing	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.114635	facebook	 add_to_cart	 chair
-2019-06-08 15:05:03.114755	  google	 page_view	 a table
-2019-06-08 15:05:03.114875	facebook	purchase	 axe
-2019-06-08 15:05:03.115009	  twitter	 page_view	 chair
-2019-06-08 15:05:03.115257	  google	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.115381	 bing	 page_view	 not water
-2019-06-08 15:05:03.115502	  yahoo	purchase	 house
-2019-06-08 15:05:03.115625	  twitter	 add_to_cart	 flour
-2019-06-08 15:05:03.115746	facebook	 add_to_cart	 house
-2019-06-08 15:05:03.115867	 bing	 page_view	 not water
-2019-06-08 15:05:03.115988	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.116109	  yahoo	 add_to_cart	 chardonei
-2019-06-08 15:05:03.116231	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.116353	facebook	purchase	 rug
-2019-06-08 15:05:03.116474	  twitter	 add_to_cart	 axe
-2019-06-08 15:05:03.116595	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.116716	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.116837	  yahoo	 page_view	 wheet
-2019-06-08 15:05:03.116958	  google	purchase	 bruhkfest
-2019-06-08 15:05:03.117081	  twitter	 page_view	 fire rocket
-2019-06-08 15:05:03.117201	  twitter	 page_view	water
-2019-06-08 15:05:03.117321	  google	 add_to_cart	 house
-2019-06-08 15:05:03.117442	  yahoo	purchase	 wine
-2019-06-08 15:05:03.117563	  twitter	 page_view	 chicken
-2019-06-08 15:05:03.117686	 bing	 add_to_cart	 not water
-2019-06-08 15:05:03.117806	 bing	purchase	 table
-2019-06-08 15:05:03.117929	facebook	 add_to_cart	 boots
-2019-06-08 15:05:03.118050	  google	 page_view	 chair
-2019-06-08 15:05:03.118170	  twitter	 add_to_cart	 flour
-2019-06-08 15:05:03.118290	facebook	 page_view	 chardonei
-2019-06-08 15:05:03.118410	  google	 add_to_cart	 chicken
-2019-06-08 15:05:03.118531	  twitter	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.118652	  yahoo	 page_view	 sword
-2019-06-08 15:05:03.118775	facebook	 page_view	water
-2019-06-08 15:05:03.118896	  google	 page_view	 flour
-2019-06-08 15:05:03.119017	  yahoo	 add_to_cart	 flour
-2019-06-08 15:05:03.119137	  google	purchase	 wheet
-2019-06-08 15:05:03.119258	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.119379	  google	purchase	 not water
-2019-06-08 15:05:03.119515	  twitter	 page_view	 wine
-2019-06-08 15:05:03.119655	  twitter	purchase	 rocket fire
-2019-06-08 15:05:03.119758	  twitter	purchase	 werehouse
-2019-06-08 15:05:03.119861	  google	 page_view	 pants
-2019-06-08 15:05:03.119965	  twitter	 add_to_cart	 chicken
-2019-06-08 15:05:03.120068	  google	 page_view	 house
-2019-06-08 15:05:03.120172	facebook	 page_view	water
-2019-06-08 15:05:03.120275	  google	purchase	 not water
-2019-06-08 15:05:03.120383	  google	 add_to_cart	 axe
-2019-06-08 15:05:03.120487	  yahoo	 add_to_cart	 flour
-2019-06-08 15:05:03.120591	 bing	purchase	 boots
-2019-06-08 15:05:03.120695	facebook	purchase	 rocket fire
-2019-06-08 15:05:03.120799	facebook	 page_view	 table
-2019-06-08 15:05:03.120903	  google	 add_to_cart	 coat
-2019-06-08 15:05:03.121026	  twitter	purchase	 flour
-2019-06-08 15:05:03.121353	  twitter	 add_to_cart	 sword
-2019-06-08 15:05:03.121461	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.121567	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.121671	facebook	 add_to_cart	 not water
-2019-06-08 15:05:03.121775	  twitter	purchase	 coat
-2019-06-08 15:05:03.121880	  yahoo	 add_to_cart	 flour
-2019-06-08 15:05:03.121991	  yahoo	purchase	 shirt
-2019-06-08 15:05:03.122095	  google	purchase	 a table
-2019-06-08 15:05:03.122199	  google	purchase	 rug
-2019-06-08 15:05:03.122303	  yahoo	purchase	 wheet
-2019-06-08 15:05:03.122406	  yahoo	purchase	 rocket fire
-2019-06-08 15:05:03.122511	  twitter	 add_to_cart	 rug
-2019-06-08 15:05:03.122614	  google	 page_view	 axe
-2019-06-08 15:05:03.122729	  twitter	purchase	 flour
-2019-06-08 15:05:03.122833	 bing	purchase	 bruhkfest
-2019-06-08 15:05:03.122936	facebook	 page_view	 sword
-2019-06-08 15:05:03.123040	  google	purchase	 fire rocket
-2019-06-08 15:05:03.123143	  twitter	purchase	 wine
-2019-06-08 15:05:03.123248	  yahoo	 page_view	 pants
-2019-06-08 15:05:03.123351	 bing	purchase	 chardonei
-2019-06-08 15:05:03.123457	  twitter	 page_view	 chardonei
-2019-06-08 15:05:03.123562	 bing	 add_to_cart	 pants
-2019-06-08 15:05:03.123665	  yahoo	 add_to_cart	 table
-2019-06-08 15:05:03.123770	 bing	 page_view	 bread
-2019-06-08 15:05:03.123885	  twitter	 add_to_cart	 pants
-2019-06-08 15:05:03.123990	  google	purchase	water
-2019-06-08 15:05:03.124095	 bing	purchase	 shirt
-2019-06-08 15:05:03.124210	  yahoo	 add_to_cart	 boots
-2019-06-08 15:05:03.124314	  yahoo	 add_to_cart	 coat
-2019-06-08 15:05:03.124417	facebook	 page_view	 a table
-2019-06-08 15:05:03.124522	  google	 page_view	 coat
-2019-06-08 15:05:03.124633	  twitter	purchase	 shirt
-2019-06-08 15:05:03.124737	  yahoo	 page_view	 rug
-2019-06-08 15:05:03.124841	 bing	purchase	 shirt
-2019-06-08 15:05:03.124949	  yahoo	 page_view	 shirt
-2019-06-08 15:05:03.125053	  yahoo	 page_view	 sword
-2019-06-08 15:05:03.125156	facebook	 add_to_cart	 sword
-2019-06-08 15:05:03.125260	 bing	purchase	 wheet
-2019-06-08 15:05:03.125364	 bing	 add_to_cart	 steak
-2019-06-08 15:05:03.125467	facebook	purchase	 chair
-2019-06-08 15:05:03.125571	 bing	 page_view	 wine
-2019-06-08 15:05:03.125677	  google	purchase	 werehouse
-2019-06-08 15:05:03.125781	  twitter	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.125884	  yahoo	purchase	water
-2019-06-08 15:05:03.125988	  yahoo	 add_to_cart	 coat
-2019-06-08 15:05:03.126091	facebook	 add_to_cart	 sword
-2019-06-08 15:05:03.126196	  yahoo	 add_to_cart	 wine
-2019-06-08 15:05:03.126299	  yahoo	 page_view	 flour
-2019-06-08 15:05:03.126406	  twitter	 page_view	 rocket fire
-2019-06-08 15:05:03.126516	  google	 page_view	 axe
-2019-06-08 15:05:03.126621	  yahoo	purchase	 fire rocket
-2019-06-08 15:05:03.126725	  google	 page_view	 chair
-2019-06-08 15:05:03.126829	  twitter	 page_view	 boots
-2019-06-08 15:05:03.126933	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.127037	  google	purchase	 rocket fire
-2019-06-08 15:05:03.127143	facebook	 add_to_cart	 axe
-2019-06-08 15:05:03.127247	  yahoo	 add_to_cart	 bread
-2019-06-08 15:05:03.127351	  google	 page_view	 rocket fire
-2019-06-08 15:05:03.127454	 bing	 page_view	 bread
-2019-06-08 15:05:03.127558	facebook	purchase	 werehouse
-2019-06-08 15:05:03.127661	 bing	 page_view	water
-2019-06-08 15:05:03.127765	  google	 page_view	 flour
-2019-06-08 15:05:03.127876	facebook	 add_to_cart	 table
-2019-06-08 15:05:03.127979	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.128082	  yahoo	 add_to_cart	 wine
-2019-06-08 15:05:03.128186	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.128290	facebook	 page_view	 sword
-2019-06-08 15:05:03.128394	  google	 add_to_cart	 coat
-2019-06-08 15:05:03.128497	 bing	 add_to_cart	 a table
-2019-06-08 15:05:03.128603	  twitter	 page_view	 chair
-2019-06-08 15:05:03.128706	  twitter	 page_view	 boots
-2019-06-08 15:05:03.128811	 bing	 add_to_cart	 sword
-2019-06-08 15:05:03.128913	  yahoo	 add_to_cart	 table
-2019-06-08 15:05:03.129017	facebook	 add_to_cart	 wheet
-2019-06-08 15:05:03.129121	 bing	 page_view	 chicken
-2019-06-08 15:05:03.129225	facebook	purchase	 not water
-2019-06-08 15:05:03.129385	facebook	 add_to_cart	 chicken
-2019-06-08 15:05:03.129490	facebook	 add_to_cart	 chicken
-2019-06-08 15:05:03.129594	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.129697	  yahoo	purchase	 bruhkfest
-2019-06-08 15:05:03.129801	  yahoo	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.129905	 bing	 add_to_cart	 rug
-2019-06-08 15:05:03.130011	facebook	purchase	 not water
-2019-06-08 15:05:03.130114	  twitter	 add_to_cart	 boots
-2019-06-08 15:05:03.130218	  yahoo	 add_to_cart	 steak
-2019-06-08 15:05:03.130322	  twitter	purchase	 bruhkfest
-2019-06-08 15:05:03.130426	 bing	purchase	 a table
-2019-06-08 15:05:03.130529	  yahoo	purchase	 rug
-2019-06-08 15:05:03.130633	facebook	 add_to_cart	 flour
-2019-06-08 15:05:03.130740	  twitter	 page_view	 axe
-2019-06-08 15:05:03.130845	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.130948	facebook	purchase	 a table
-2019-06-08 15:05:03.131053	facebook	 add_to_cart	 not water
-2019-06-08 15:05:03.131157	  google	purchase	 werehouse
-2019-06-08 15:05:03.131260	facebook	purchase	 table
-2019-06-08 15:05:03.131363	 bing	 add_to_cart	 rug
-2019-06-08 15:05:03.131478	 bing	 page_view	 coat
-2019-06-08 15:05:03.131582	  yahoo	purchase	 a table
-2019-06-08 15:05:03.131686	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.131790	  google	 page_view	water
-2019-06-08 15:05:03.131894	 bing	 add_to_cart	 axe
-2019-06-08 15:05:03.131998	  yahoo	 add_to_cart	 bread
-2019-06-08 15:05:03.132190	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.132443	  yahoo	purchase	 werehouse
-2019-06-08 15:05:03.132559	  google	 add_to_cart	 boots
-2019-06-08 15:05:03.132668	  google	 add_to_cart	 boots
-2019-06-08 15:05:03.132773	  google	 page_view	 rocket fire
-2019-06-08 15:05:03.132877	  google	purchase	 coat
-2019-06-08 15:05:03.132980	  twitter	 add_to_cart	water
-2019-06-08 15:05:03.133081	facebook	 add_to_cart	 chair
-2019-06-08 15:05:03.133185	facebook	 add_to_cart	 chair
-2019-06-08 15:05:03.133287	  yahoo	 page_view	 fire rocket
-2019-06-08 15:05:03.133388	  google	 add_to_cart	 a table
-2019-06-08 15:05:03.133489	  yahoo	 add_to_cart	 not water
-2019-06-08 15:05:03.133589	  yahoo	 page_view	 house
-2019-06-08 15:05:03.133691	  google	 page_view	 fire rocket
-2019-06-08 15:05:03.133792	  google	purchase	 wheet
-2019-06-08 15:05:03.133897	facebook	purchase	 flour
-2019-06-08 15:05:03.133999	  google	 page_view	 table
-2019-06-08 15:05:03.134101	  twitter	purchase	 boots
-2019-06-08 15:05:03.134204	  google	 add_to_cart	 chair
-2019-06-08 15:05:03.134306	  twitter	 add_to_cart	 wine
-2019-06-08 15:05:03.134406	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.134508	 bing	 add_to_cart	 steak
-2019-06-08 15:05:03.134612	  yahoo	 add_to_cart	 wine
-2019-06-08 15:05:03.134714	facebook	 page_view	 not water
-2019-06-08 15:05:03.134817	 bing	 page_view	 rocket fire
-2019-06-08 15:05:03.134919	facebook	purchase	 boots
-2019-06-08 15:05:03.135021	facebook	 page_view	 steak
-2019-06-08 15:05:03.135155	  yahoo	 page_view	 rocket fire
-2019-06-08 15:05:03.135293	  google	purchase	 rocket fire
-2019-06-08 15:05:03.135464	  twitter	 add_to_cart	 coat
-2019-06-08 15:05:03.135575	 bing	purchase	 pants
-2019-06-08 15:05:03.135682	  twitter	 add_to_cart	 not water
-2019-06-08 15:05:03.135787	  twitter	 add_to_cart	 chair
-2019-06-08 15:05:03.135892	facebook	purchase	 wine
-2019-06-08 15:05:03.135996	  yahoo	 page_view	 flour
-2019-06-08 15:05:03.136099	 bing	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.136204	  twitter	 add_to_cart	 house
-2019-06-08 15:05:03.136306	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.136410	facebook	 page_view	 bread
-2019-06-08 15:05:03.136514	 bing	purchase	 not water
-2019-06-08 15:05:03.136618	facebook	purchase	 chardonei
-2019-06-08 15:05:03.136724	facebook	 page_view	 axe
-2019-06-08 15:05:03.136828	 bing	purchase	 shirt
-2019-06-08 15:05:03.136934	facebook	purchase	 sword
-2019-06-08 15:05:03.137038	  yahoo	purchase	 pants
-2019-06-08 15:05:03.137143	  google	 page_view	 flour
-2019-06-08 15:05:03.137248	  google	 page_view	 boots
-2019-06-08 15:05:03.137352	  google	 page_view	 rug
-2019-06-08 15:05:03.137516	  google	 page_view	 table
-2019-06-08 15:05:03.137623	  twitter	 page_view	 sword
-2019-06-08 15:05:03.137725	 bing	purchase	 house
-2019-06-08 15:05:03.137827	facebook	purchase	 wine
-2019-06-08 15:05:03.137928	  twitter	purchase	 wheet
-2019-06-08 15:05:03.138030	  yahoo	 page_view	 rocket fire
-2019-06-08 15:05:03.138131	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.138232	  yahoo	 add_to_cart	 table
-2019-06-08 15:05:03.138336	  yahoo	purchase	 wheet
-2019-06-08 15:05:03.138437	  google	 add_to_cart	 sword
-2019-06-08 15:05:03.138539	  google	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.138640	  twitter	 add_to_cart	 chicken
-2019-06-08 15:05:03.138743	  google	purchase	 house
-2019-06-08 15:05:03.138845	facebook	purchase	 chicken
-2019-06-08 15:05:03.138945	 bing	 add_to_cart	 sword
-2019-06-08 15:05:03.139060	facebook	 add_to_cart	 flour
-2019-06-08 15:05:03.139161	  google	 page_view	 shirt
-2019-06-08 15:05:03.139264	  yahoo	purchase	water
-2019-06-08 15:05:03.139366	facebook	 add_to_cart	 bread
-2019-06-08 15:05:03.139468	  google	purchase	 table
-2019-06-08 15:05:03.139569	 bing	purchase	 bread
-2019-06-08 15:05:03.139671	facebook	 add_to_cart	 werehouse
-2019-06-08 15:05:03.139774	  yahoo	purchase	 werehouse
-2019-06-08 15:05:03.139875	  twitter	 page_view	 wine
-2019-06-08 15:05:03.139976	facebook	 page_view	 wheet
-2019-06-08 15:05:03.140078	 bing	purchase	water
-2019-06-08 15:05:03.140181	  yahoo	purchase	 werehouse
-2019-06-08 15:05:03.140282	  twitter	purchase	 bread
-2019-06-08 15:05:03.140383	  google	 page_view	 boots
-2019-06-08 15:05:03.140487	  google	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.140587	  yahoo	 add_to_cart	 coat
-2019-06-08 15:05:03.140689	facebook	 page_view	 shirt
-2019-06-08 15:05:03.140790	facebook	 page_view	 table
-2019-06-08 15:05:03.140891	  google	purchase	 bruhkfest
-2019-06-08 15:05:03.140991	facebook	purchase	 rug
-2019-06-08 15:05:03.141091	facebook	purchase	 axe
-2019-06-08 15:05:03.141195	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.141295	 bing	purchase	 a table
-2019-06-08 15:05:03.141397	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.141498	  google	 page_view	 steak
-2019-06-08 15:05:03.141598	  google	 add_to_cart	water
-2019-06-08 15:05:03.141699	 bing	purchase	 pants
-2019-06-08 15:05:03.141799	facebook	purchase	 a table
-2019-06-08 15:05:03.141902	  yahoo	purchase	 steak
-2019-06-08 15:05:03.142004	  google	 add_to_cart	 steak
-2019-06-08 15:05:03.142105	  twitter	purchase	 rug
-2019-06-08 15:05:03.142206	  google	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.142307	facebook	purchase	 shirt
-2019-06-08 15:05:03.142408	facebook	 page_view	 chardonei
-2019-06-08 15:05:03.142509	 bing	 add_to_cart	 pants
-2019-06-08 15:05:03.142622	  twitter	purchase	 flour
-2019-06-08 15:05:03.142723	  google	purchase	 fire rocket
-2019-06-08 15:05:03.142825	  twitter	 page_view	 shirt
-2019-06-08 15:05:03.142926	  google	 add_to_cart	 coat
-2019-06-08 15:05:03.143028	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.143130	  yahoo	 add_to_cart	 not water
-2019-06-08 15:05:03.143231	  yahoo	 add_to_cart	 chardonei
-2019-06-08 15:05:03.143335	  google	 page_view	 shirt
-2019-06-08 15:05:03.143479	  google	purchase	 boots
-2019-06-08 15:05:03.143608	  google	purchase	 chardonei
-2019-06-08 15:05:03.143816	  google	 page_view	 axe
-2019-06-08 15:05:03.143920	facebook	 page_view	 wheet
-2019-06-08 15:05:03.144022	  google	purchase	 wine
-2019-06-08 15:05:03.144121	  google	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.144223	  yahoo	 page_view	 axe
-2019-06-08 15:05:03.144323	  twitter	 page_view	 sword
-2019-06-08 15:05:03.144422	  yahoo	 page_view	 fire rocket
-2019-06-08 15:05:03.144520	 bing	 page_view	 a table
-2019-06-08 15:05:03.144618	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.144716	  yahoo	purchase	 table
-2019-06-08 15:05:03.144814	  google	purchase	 wine
-2019-06-08 15:05:03.144914	  twitter	purchase	 a table
-2019-06-08 15:05:03.145013	  google	 page_view	 bread
-2019-06-08 15:05:03.145112	facebook	purchase	 steak
-2019-06-08 15:05:03.145211	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.145309	  yahoo	 page_view	 boots
-2019-06-08 15:05:03.145462	  google	 page_view	 wine
-2019-06-08 15:05:03.145568	 bing	 page_view	 shirt
-2019-06-08 15:05:03.145670	 bing	 page_view	 chair
-2019-06-08 15:05:03.145772	  twitter	 page_view	 coat
-2019-06-08 15:05:03.145873	  google	 page_view	 wine
-2019-06-08 15:05:03.145975	facebook	 add_to_cart	 chair
-2019-06-08 15:05:03.146077	facebook	purchase	 not water
-2019-06-08 15:05:03.146179	  yahoo	 add_to_cart	 flour
-2019-06-08 15:05:03.146282	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.146383	facebook	 page_view	 pants
-2019-06-08 15:05:03.146485	  google	 page_view	 bruhkfest
-2019-06-08 15:05:03.146587	  twitter	purchase	 bread
-2019-06-08 15:05:03.146688	  twitter	 page_view	 chair
-2019-06-08 15:05:03.146790	  twitter	purchase	 wheet
-2019-06-08 15:05:03.146890	  twitter	 add_to_cart	 werehouse
-2019-06-08 15:05:03.147003	facebook	purchase	 shirt
-2019-06-08 15:05:03.147103	  twitter	purchase	 axe
-2019-06-08 15:05:03.147205	  google	 add_to_cart	 steak
-2019-06-08 15:05:03.147307	  yahoo	purchase	 axe
-2019-06-08 15:05:03.147408	  twitter	 page_view	 table
-2019-06-08 15:05:03.147511	facebook	 add_to_cart	 chicken
-2019-06-08 15:05:03.147612	  twitter	purchase	 bread
-2019-06-08 15:05:03.147715	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.147816	  yahoo	 page_view	 chair
-2019-06-08 15:05:03.147917	  twitter	 add_to_cart	water
-2019-06-08 15:05:03.148019	facebook	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.148120	  google	purchase	 flour
-2019-06-08 15:05:03.148221	  google	 page_view	 flour
-2019-06-08 15:05:03.148323	facebook	 add_to_cart	 werehouse
-2019-06-08 15:05:03.148426	facebook	 add_to_cart	water
-2019-06-08 15:05:03.148527	  google	 page_view	 pants
-2019-06-08 15:05:03.148628	  google	 add_to_cart	 house
-2019-06-08 15:05:03.148729	facebook	 page_view	 shirt
-2019-06-08 15:05:03.148831	 bing	 page_view	 bruhkfest
-2019-06-08 15:05:03.148932	  twitter	purchase	 rug
-2019-06-08 15:05:03.149034	 bing	 page_view	 fire rocket
-2019-06-08 15:05:03.149137	facebook	 page_view	 boots
-2019-06-08 15:05:03.149239	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.149340	  yahoo	 add_to_cart	 table
-2019-06-08 15:05:03.149441	 bing	 page_view	 steak
-2019-06-08 15:05:03.149542	  twitter	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.149644	facebook	 add_to_cart	 rug
-2019-06-08 15:05:03.149745	  google	purchase	 bread
-2019-06-08 15:05:03.149848	 bing	 add_to_cart	 coat
-2019-06-08 15:05:03.149949	  twitter	 add_to_cart	 sword
-2019-06-08 15:05:03.150051	 bing	purchase	 chardonei
-2019-06-08 15:05:03.150152	  twitter	purchase	 pants
-2019-06-08 15:05:03.150254	  yahoo	purchase	 pants
-2019-06-08 15:05:03.150355	 bing	 page_view	 wine
-2019-06-08 15:05:03.150456	  google	 page_view	 rug
-2019-06-08 15:05:03.150569	  twitter	 page_view	 chardonei
-2019-06-08 15:05:03.150670	 bing	 page_view	 chicken
-2019-06-08 15:05:03.150771	  yahoo	 add_to_cart	 house
-2019-06-08 15:05:03.150872	  google	 add_to_cart	 werehouse
-2019-06-08 15:05:03.150972	  google	 page_view	 house
-2019-06-08 15:05:03.151073	  twitter	 page_view	 not water
-2019-06-08 15:05:03.151174	  yahoo	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.151277	  yahoo	 page_view	 werehouse
-2019-06-08 15:05:03.151378	  yahoo	purchase	 chicken
-2019-06-08 15:05:03.151479	facebook	 add_to_cart	 sword
-2019-06-08 15:05:03.151580	  twitter	purchase	 wheet
-2019-06-08 15:05:03.151681	  twitter	 add_to_cart	 boots
-2019-06-08 15:05:03.151783	  twitter	purchase	 axe
-2019-06-08 15:05:03.151883	  twitter	 page_view	 rug
-2019-06-08 15:05:03.151986	  twitter	 page_view	 rug
-2019-06-08 15:05:03.152087	  google	 page_view	 werehouse
-2019-06-08 15:05:03.152187	  twitter	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.152288	  google	 page_view	 flour
-2019-06-08 15:05:03.152389	 bing	 page_view	 steak
-2019-06-08 15:05:03.152490	facebook	purchase	 axe
-2019-06-08 15:05:03.152591	  yahoo	purchase	 axe
-2019-06-08 15:05:03.152695	  yahoo	 page_view	 bruhkfest
-2019-06-08 15:05:03.152796	 bing	purchase	 wine
-2019-06-08 15:05:03.152897	  google	purchase	 house
-2019-06-08 15:05:03.152998	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.153157	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.153259	facebook	 page_view	 shirt
-2019-06-08 15:05:03.153363	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.153465	 bing	purchase	 rocket fire
-2019-06-08 15:05:03.153566	  google	purchase	 steak
-2019-06-08 15:05:03.153668	  twitter	purchase	 chardonei
-2019-06-08 15:05:03.153771	 bing	purchase	 bruhkfest
-2019-06-08 15:05:03.153872	  yahoo	 page_view	 werehouse
-2019-06-08 15:05:03.153974	facebook	 add_to_cart	 steak
-2019-06-08 15:05:03.154087	facebook	purchase	 fire rocket
-2019-06-08 15:05:03.154188	facebook	 page_view	 bruhkfest
-2019-06-08 15:05:03.154290	  twitter	purchase	 house
-2019-06-08 15:05:03.154391	 bing	 add_to_cart	 chardonei
-2019-06-08 15:05:03.154493	facebook	purchase	 fire rocket
-2019-06-08 15:05:03.154642	facebook	 page_view	 rug
-2019-06-08 15:05:03.154775	  twitter	 page_view	 pants
-2019-06-08 15:05:03.154941	  yahoo	 page_view	 house
-2019-06-08 15:05:03.155051	  google	 page_view	 chardonei
-2019-06-08 15:05:03.155157	facebook	 page_view	 chair
-2019-06-08 15:05:03.155262	facebook	purchase	 sword
-2019-06-08 15:05:03.155365	 bing	purchase	 fire rocket
-2019-06-08 15:05:03.155469	  twitter	purchase	 chicken
-2019-06-08 15:05:03.155573	 bing	purchase	 a table
-2019-06-08 15:05:03.155678	  twitter	purchase	 house
-2019-06-08 15:05:03.155782	facebook	 page_view	 chair
-2019-06-08 15:05:03.155884	  twitter	purchase	 sword
-2019-06-08 15:05:03.155987	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.156089	  yahoo	purchase	 fire rocket
-2019-06-08 15:05:03.156193	  twitter	 page_view	 wine
-2019-06-08 15:05:03.156296	  google	 add_to_cart	 chardonei
-2019-06-08 15:05:03.156404	facebook	 page_view	 not water
-2019-06-08 15:05:03.156507	  twitter	 add_to_cart	water
-2019-06-08 15:05:03.156610	facebook	purchase	 sword
-2019-06-08 15:05:03.156714	  yahoo	 add_to_cart	water
-2019-06-08 15:05:03.156817	 bing	 page_view	 boots
-2019-06-08 15:05:03.156922	  twitter	purchase	 rocket fire
-2019-06-08 15:05:03.157025	  yahoo	 page_view	 shirt
-2019-06-08 15:05:03.157131	  yahoo	purchase	 chardonei
-2019-06-08 15:05:03.157234	 bing	purchase	 house
-2019-06-08 15:05:03.157339	facebook	 page_view	 wine
-2019-06-08 15:05:03.157442	  google	 page_view	 a table
-2019-06-08 15:05:03.157547	  yahoo	 page_view	 chair
-2019-06-08 15:05:03.157651	facebook	purchase	 rug
-2019-06-08 15:05:03.157755	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.157860	facebook	 page_view	 shirt
-2019-06-08 15:05:03.157965	  twitter	purchase	 rug
-2019-06-08 15:05:03.158069	  yahoo	 add_to_cart	 house
-2019-06-08 15:05:03.158172	  twitter	purchase	water
-2019-06-08 15:05:03.158276	  twitter	purchase	 bruhkfest
-2019-06-08 15:05:03.158379	 bing	 add_to_cart	 axe
-2019-06-08 15:05:03.158482	facebook	 add_to_cart	 axe
-2019-06-08 15:05:03.158589	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.158695	 bing	 page_view	 house
-2019-06-08 15:05:03.158799	  google	purchase	 not water
-2019-06-08 15:05:03.158903	 bing	purchase	 axe
-2019-06-08 15:05:03.159007	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.159110	 bing	purchase	 pants
-2019-06-08 15:05:03.159213	 bing	 add_to_cart	 not water
-2019-06-08 15:05:03.159330	  yahoo	 page_view	 wheet
-2019-06-08 15:05:03.159432	  google	 page_view	 table
-2019-06-08 15:05:03.159535	  twitter	purchase	 bruhkfest
-2019-06-08 15:05:03.159638	  google	 page_view	 werehouse
-2019-06-08 15:05:03.159741	  twitter	 page_view	 bruhkfest
-2019-06-08 15:05:03.159844	  yahoo	 page_view	 coat
-2019-06-08 15:05:03.159948	  google	purchase	 wine
-2019-06-08 15:05:03.160053	  twitter	 add_to_cart	 house
-2019-06-08 15:05:03.160156	  yahoo	 add_to_cart	 chardonei
-2019-06-08 15:05:03.160260	  google	 page_view	 flour
-2019-06-08 15:05:03.160363	 bing	 add_to_cart	 sword
-2019-06-08 15:05:03.160466	  twitter	 add_to_cart	 table
-2019-06-08 15:05:03.160569	  google	 add_to_cart	 werehouse
-2019-06-08 15:05:03.160672	  yahoo	 page_view	 chardonei
-2019-06-08 15:05:03.160778	facebook	purchase	 sword
-2019-06-08 15:05:03.160882	 bing	purchase	 shirt
-2019-06-08 15:05:03.160985	  yahoo	 add_to_cart	 flour
-2019-06-08 15:05:03.161147	facebook	 page_view	 wheet
-2019-06-08 15:05:03.161253	 bing	purchase	 rocket fire
-2019-06-08 15:05:03.161358	 bing	 add_to_cart	 coat
-2019-06-08 15:05:03.161469	  google	purchase	 coat
-2019-06-08 15:05:03.161573	  yahoo	 page_view	 chair
-2019-06-08 15:05:03.161677	  google	purchase	 house
-2019-06-08 15:05:03.161796	facebook	purchase	 wine
-2019-06-08 15:05:03.161975	  yahoo	purchase	 a table
-2019-06-08 15:05:03.162189	  twitter	 add_to_cart	 house
-2019-06-08 15:05:03.162310	 bing	 add_to_cart	 boots
-2019-06-08 15:05:03.162423	  twitter	 add_to_cart	 chardonei
-2019-06-08 15:05:03.162528	facebook	 page_view	 axe
-2019-06-08 15:05:03.162633	 bing	purchase	 sword
-2019-06-08 15:05:03.162735	facebook	purchase	 coat
-2019-06-08 15:05:03.162837	  google	 add_to_cart	 house
-2019-06-08 15:05:03.162939	  google	purchase	 not water
-2019-06-08 15:05:03.163039	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.163146	  twitter	purchase	 rug
-2019-06-08 15:05:03.163251	 bing	purchase	 pants
-2019-06-08 15:05:03.163360	  yahoo	 page_view	 wheet
-2019-06-08 15:05:03.163520	facebook	 add_to_cart	 pants
-2019-06-08 15:05:03.163710	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.163814	facebook	purchase	 bread
-2019-06-08 15:05:03.163916	  yahoo	purchase	 flour
-2019-06-08 15:05:03.164021	  google	 page_view	 house
-2019-06-08 15:05:03.164124	facebook	purchase	 rocket fire
-2019-06-08 15:05:03.164226	  google	 page_view	 axe
-2019-06-08 15:05:03.164328	facebook	purchase	 axe
-2019-06-08 15:05:03.164429	  google	 add_to_cart	 coat
-2019-06-08 15:05:03.164531	  twitter	 add_to_cart	 chardonei
-2019-06-08 15:05:03.164632	facebook	purchase	 wheet
-2019-06-08 15:05:03.164746	  google	 add_to_cart	 sword
-2019-06-08 15:05:03.164848	  yahoo	purchase	 rug
-2019-06-08 15:05:03.164950	facebook	 add_to_cart	 not water
-2019-06-08 15:05:03.165051	  yahoo	 add_to_cart	 axe
-2019-06-08 15:05:03.165153	 bing	 page_view	 a table
-2019-06-08 15:05:03.165254	 bing	 add_to_cart	 axe
-2019-06-08 15:05:03.165355	  yahoo	 add_to_cart	 chicken
-2019-06-08 15:05:03.165506	facebook	 page_view	 a table
-2019-06-08 15:05:03.165618	  google	purchase	 shirt
-2019-06-08 15:05:03.165726	  twitter	 page_view	 coat
-2019-06-08 15:05:03.165829	 bing	 add_to_cart	 table
-2019-06-08 15:05:03.165931	facebook	purchase	 shirt
-2019-06-08 15:05:03.166032	facebook	 page_view	 steak
-2019-06-08 15:05:03.166133	 bing	purchase	 wheet
-2019-06-08 15:05:03.166245	  google	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.166346	  google	purchase	 bread
-2019-06-08 15:05:03.166448	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.166549	 bing	 page_view	 pants
-2019-06-08 15:05:03.166650	 bing	 add_to_cart	 wine
-2019-06-08 15:05:03.166751	  yahoo	 add_to_cart	 pants
-2019-06-08 15:05:03.166852	  google	 page_view	 fire rocket
-2019-06-08 15:05:03.166954	  yahoo	 page_view	 shirt
-2019-06-08 15:05:03.167056	facebook	 add_to_cart	 wine
-2019-06-08 15:05:03.167158	  twitter	 add_to_cart	 rug
-2019-06-08 15:05:03.167259	  google	 page_view	water
-2019-06-08 15:05:03.167360	  google	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.167461	 bing	purchase	 house
-2019-06-08 15:05:03.167562	facebook	 add_to_cart	 coat
-2019-06-08 15:05:03.167665	 bing	purchase	 not water
-2019-06-08 15:05:03.167766	  twitter	purchase	 axe
-2019-06-08 15:05:03.167867	  yahoo	purchase	 rug
-2019-06-08 15:05:03.167968	  google	purchase	 not water
-2019-06-08 15:05:03.168070	  twitter	 add_to_cart	 a table
-2019-06-08 15:05:03.168170	 bing	 page_view	 sword
-2019-06-08 15:05:03.168272	  yahoo	purchase	 sword
-2019-06-08 15:05:03.168376	facebook	 page_view	 wheet
-2019-06-08 15:05:03.168515	 bing	purchase	 not water
-2019-06-08 15:05:03.168646	  twitter	purchase	 chair
-2019-06-08 15:05:03.168814	  google	purchase	 rocket fire
-2019-06-08 15:05:03.168924	  yahoo	purchase	 steak
-2019-06-08 15:05:03.169030	 bing	 add_to_cart	 flour
-2019-06-08 15:05:03.169136	facebook	purchase	 a table
-2019-06-08 15:05:03.169243	  yahoo	purchase	 chair
-2019-06-08 15:05:03.169347	  twitter	purchase	 wine
-2019-06-08 15:05:03.169450	  twitter	 add_to_cart	 chardonei
-2019-06-08 15:05:03.169625	  twitter	 page_view	 rug
-2019-06-08 15:05:03.169732	  google	 page_view	 flour
-2019-06-08 15:05:03.169835	  google	 add_to_cart	 sword
-2019-06-08 15:05:03.169942	  yahoo	purchase	 sword
-2019-06-08 15:05:03.170045	  yahoo	 page_view	 house
-2019-06-08 15:05:03.170149	  google	purchase	 coat
-2019-06-08 15:05:03.170253	  yahoo	 page_view	 chardonei
-2019-06-08 15:05:03.170357	facebook	 add_to_cart	 shirt
-2019-06-08 15:05:03.170461	 bing	 page_view	 werehouse
-2019-06-08 15:05:03.170564	 bing	 page_view	 steak
-2019-06-08 15:05:03.170680	  yahoo	purchase	 flour
-2019-06-08 15:05:03.170784	  yahoo	 add_to_cart	 rug
-2019-06-08 15:05:03.170888	 bing	 page_view	 fire rocket
-2019-06-08 15:05:03.170992	facebook	 add_to_cart	 chardonei
-2019-06-08 15:05:03.171096	  google	 add_to_cart	 chair
-2019-06-08 15:05:03.171199	  google	purchase	 chicken
-2019-06-08 15:05:03.171303	  google	purchase	 bread
-2019-06-08 15:05:03.171464	  twitter	 add_to_cart	 wine
-2019-06-08 15:05:03.171585	 bing	 add_to_cart	 chardonei
-2019-06-08 15:05:03.171817	  yahoo	purchase	 house
-2019-06-08 15:05:03.171937	 bing	 add_to_cart	 wheet
-2019-06-08 15:05:03.172142	facebook	purchase	 axe
-2019-06-08 15:05:03.172247	  twitter	 add_to_cart	 steak
-2019-06-08 15:05:03.172351	  yahoo	 page_view	 steak
-2019-06-08 15:05:03.172456	  google	 page_view	water
-2019-06-08 15:05:03.172557	 bing	 add_to_cart	 a table
-2019-06-08 15:05:03.172658	facebook	 add_to_cart	 chardonei
-2019-06-08 15:05:03.172759	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.172861	facebook	 add_to_cart	 shirt
-2019-06-08 15:05:03.172963	facebook	 add_to_cart	 a table
-2019-06-08 15:05:03.173064	facebook	purchase	 table
-2019-06-08 15:05:03.173168	 bing	 page_view	 pants
-2019-06-08 15:05:03.173270	  yahoo	 page_view	 table
-2019-06-08 15:05:03.173372	  google	 add_to_cart	 house
-2019-06-08 15:05:03.173474	  yahoo	 add_to_cart	 chair
-2019-06-08 15:05:03.173574	  yahoo	 page_view	 bruhkfest
-2019-06-08 15:05:03.173675	  google	purchase	 chair
-2019-06-08 15:05:03.173776	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.173879	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.173980	  yahoo	 add_to_cart	 chicken
-2019-06-08 15:05:03.174081	  google	 page_view	 house
-2019-06-08 15:05:03.174182	 bing	 page_view	 bruhkfest
-2019-06-08 15:05:03.174284	  twitter	 page_view	 not water
-2019-06-08 15:05:03.174386	  google	purchase	 a table
-2019-06-08 15:05:03.174487	  google	 add_to_cart	 chair
-2019-06-08 15:05:03.174599	  twitter	 add_to_cart	 table
-2019-06-08 15:05:03.174700	facebook	 page_view	 not water
-2019-06-08 15:05:03.174802	  google	purchase	 shirt
-2019-06-08 15:05:03.174903	  yahoo	 page_view	 pants
-2019-06-08 15:05:03.175004	 bing	 add_to_cart	 steak
-2019-06-08 15:05:03.175106	  google	 page_view	 pants
-2019-06-08 15:05:03.175206	facebook	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.175309	  yahoo	 page_view	 fire rocket
-2019-06-08 15:05:03.175410	  google	 page_view	 chair
-2019-06-08 15:05:03.175512	  google	 add_to_cart	 house
-2019-06-08 15:05:03.175613	 bing	purchase	 pants
-2019-06-08 15:05:03.175714	  google	 page_view	 house
-2019-06-08 15:05:03.175815	  twitter	 page_view	 house
-2019-06-08 15:05:03.175921	  google	purchase	 flour
-2019-06-08 15:05:03.176024	  twitter	 page_view	 rocket fire
-2019-06-08 15:05:03.176123	  yahoo	purchase	 rug
-2019-06-08 15:05:03.176224	  twitter	 add_to_cart	 shirt
-2019-06-08 15:05:03.176325	  yahoo	purchase	 fire rocket
-2019-06-08 15:05:03.176426	facebook	 add_to_cart	 axe
-2019-06-08 15:05:03.176613	facebook	 add_to_cart	 pants
-2019-06-08 15:05:03.176760	  yahoo	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.176876	  twitter	 add_to_cart	 steak
-2019-06-08 15:05:03.176985	  google	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.177092	  twitter	 page_view	 werehouse
-2019-06-08 15:05:03.177198	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.177303	  twitter	 page_view	 wine
-2019-06-08 15:05:03.177407	  yahoo	purchase	 not water
-2019-06-08 15:05:03.177511	  twitter	 page_view	 chardonei
-2019-06-08 15:05:03.177617	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.177783	  yahoo	 page_view	water
-2019-06-08 15:05:03.177889	  twitter	 page_view	 axe
-2019-06-08 15:05:03.177993	  twitter	 add_to_cart	 chicken
-2019-06-08 15:05:03.178097	  google	 page_view	water
-2019-06-08 15:05:03.178201	 bing	 add_to_cart	 a table
-2019-06-08 15:05:03.178308	 bing	 add_to_cart	 steak
-2019-06-08 15:05:03.178412	  twitter	 add_to_cart	 table
-2019-06-08 15:05:03.178516	  yahoo	 page_view	 chardonei
-2019-06-08 15:05:03.178620	  yahoo	purchase	 coat
-2019-06-08 15:05:03.178724	  google	purchase	water
-2019-06-08 15:05:03.178829	 bing	 page_view	 chair
-2019-06-08 15:05:03.178933	facebook	purchase	 shirt
-2019-06-08 15:05:03.179039	  twitter	 page_view	 axe
-2019-06-08 15:05:03.179144	 bing	purchase	 steak
-2019-06-08 15:05:03.179249	  twitter	 page_view	 house
-2019-06-08 15:05:03.179353	  google	purchase	 werehouse
-2019-06-08 15:05:03.179456	 bing	 page_view	 flour
-2019-06-08 15:05:03.179560	  twitter	purchase	 wine
-2019-06-08 15:05:03.179663	  google	purchase	 sword
-2019-06-08 15:05:03.179777	  yahoo	 page_view	 fire rocket
-2019-06-08 15:05:03.179881	  twitter	 add_to_cart	 sword
-2019-06-08 15:05:03.179985	  yahoo	purchase	 wheet
-2019-06-08 15:05:03.180089	facebook	purchase	 rocket fire
-2019-06-08 15:05:03.180193	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.180296	 bing	purchase	 bruhkfest
-2019-06-08 15:05:03.180400	 bing	purchase	 flour
-2019-06-08 15:05:03.180518	  yahoo	purchase	 sword
-2019-06-08 15:05:03.180622	 bing	purchase	 house
-2019-06-08 15:05:03.180727	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.180830	 bing	 add_to_cart	 bread
-2019-06-08 15:05:03.180933	  yahoo	 add_to_cart	 steak
-2019-06-08 15:05:03.181039	 bing	 add_to_cart	water
-2019-06-08 15:05:03.181142	facebook	 add_to_cart	 chardonei
-2019-06-08 15:05:03.181256	  google	 page_view	 steak
-2019-06-08 15:05:03.181360	facebook	 page_view	 chicken
-2019-06-08 15:05:03.181464	  google	 add_to_cart	 chair
-2019-06-08 15:05:03.181568	facebook	 add_to_cart	 flour
-2019-06-08 15:05:03.181672	  twitter	 add_to_cart	 shirt
-2019-06-08 15:05:03.181775	facebook	 page_view	 bruhkfest
-2019-06-08 15:05:03.181880	  twitter	purchase	 not water
-2019-06-08 15:05:03.181995	facebook	 page_view	 coat
-2019-06-08 15:05:03.182099	  twitter	 add_to_cart	 steak
-2019-06-08 15:05:03.182203	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.182307	facebook	purchase	 sword
-2019-06-08 15:05:03.182411	  google	 page_view	 chardonei
-2019-06-08 15:05:03.182515	  twitter	 page_view	 chair
-2019-06-08 15:05:03.182618	  google	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.182724	  twitter	purchase	 bread
-2019-06-08 15:05:03.182835	  yahoo	 add_to_cart	 chardonei
-2019-06-08 15:05:03.182939	 bing	purchase	 chardonei
-2019-06-08 15:05:03.183042	  twitter	purchase	 sword
-2019-06-08 15:05:03.183146	  google	 add_to_cart	water
-2019-06-08 15:05:03.183250	  google	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.183354	  google	 page_view	 pants
-2019-06-08 15:05:03.183460	facebook	 page_view	 werehouse
-2019-06-08 15:05:03.183565	  twitter	purchase	 fire rocket
-2019-06-08 15:05:03.183668	 bing	 add_to_cart	 werehouse
-2019-06-08 15:05:03.183773	  yahoo	 add_to_cart	 rug
-2019-06-08 15:05:03.183877	  yahoo	 page_view	 shirt
-2019-06-08 15:05:03.183981	facebook	 add_to_cart	 rug
-2019-06-08 15:05:03.184085	  twitter	 page_view	 sword
-2019-06-08 15:05:03.184191	  twitter	 add_to_cart	 werehouse
-2019-06-08 15:05:03.184293	facebook	 page_view	 fire rocket
-2019-06-08 15:05:03.184397	  google	purchase	 house
-2019-06-08 15:05:03.184501	  yahoo	 add_to_cart	 shirt
-2019-06-08 15:05:03.184604	  google	 page_view	 a table
-2019-06-08 15:05:03.184707	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.184811	  yahoo	 page_view	 axe
-2019-06-08 15:05:03.184922	facebook	purchase	 steak
-2019-06-08 15:05:03.185025	 bing	 add_to_cart	 shirt
-2019-06-08 15:05:03.185129	  google	 add_to_cart	 a table
-2019-06-08 15:05:03.185232	facebook	 add_to_cart	 rug
-2019-06-08 15:05:03.185336	  google	 page_view	 chardonei
-2019-06-08 15:05:03.185439	  google	purchase	 not water
-2019-06-08 15:05:03.185542	  yahoo	 page_view	 a table
-2019-06-08 15:05:03.185714	facebook	purchase	 bread
-2019-06-08 15:05:03.185819	facebook	 page_view	 boots
-2019-06-08 15:05:03.185923	  yahoo	purchase	 chardonei
-2019-06-08 15:05:03.186055	  google	purchase	 wine
-2019-06-08 15:05:03.186185	  google	 page_view	 shirt
-2019-06-08 15:05:03.186391	  twitter	 add_to_cart	 werehouse
-2019-06-08 15:05:03.186500	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.186617	  yahoo	 page_view	 wheet
-2019-06-08 15:05:03.186746	facebook	 add_to_cart	 coat
-2019-06-08 15:05:03.186948	  google	 add_to_cart	 wheet
-2019-06-08 15:05:03.187051	facebook	 add_to_cart	 boots
-2019-06-08 15:05:03.187154	 bing	 add_to_cart	 a table
-2019-06-08 15:05:03.187254	  twitter	purchase	 werehouse
-2019-06-08 15:05:03.187360	 bing	purchase	 pants
-2019-06-08 15:05:03.187461	 bing	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.187561	  twitter	 page_view	 table
-2019-06-08 15:05:03.187662	  yahoo	purchase	 table
-2019-06-08 15:05:03.187763	facebook	 add_to_cart	 chicken
-2019-06-08 15:05:03.187865	facebook	purchase	 fire rocket
-2019-06-08 15:05:03.187966	 bing	 add_to_cart	 flour
-2019-06-08 15:05:03.188068	facebook	 add_to_cart	 wheet
-2019-06-08 15:05:03.188169	facebook	purchase	 flour
-2019-06-08 15:05:03.188271	 bing	 page_view	 chardonei
-2019-06-08 15:05:03.188372	  yahoo	 add_to_cart	 werehouse
-2019-06-08 15:05:03.188473	 bing	purchase	 a table
-2019-06-08 15:05:03.188574	  yahoo	 add_to_cart	 chair
-2019-06-08 15:05:03.188675	 bing	 page_view	 table
-2019-06-08 15:05:03.188778	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.188879	 bing	 page_view	water
-2019-06-08 15:05:03.188980	  twitter	 add_to_cart	 axe
-2019-06-08 15:05:03.189081	  yahoo	 add_to_cart	 chair
-2019-06-08 15:05:03.189181	 bing	 add_to_cart	 coat
-2019-06-08 15:05:03.189283	  twitter	 page_view	 fire rocket
-2019-06-08 15:05:03.189384	facebook	 page_view	water
-2019-06-08 15:05:03.189486	facebook	 page_view	 boots
-2019-06-08 15:05:03.189588	facebook	purchase	 chicken
-2019-06-08 15:05:03.189689	  yahoo	 add_to_cart	 rug
-2019-06-08 15:05:03.189789	  google	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.189890	  twitter	purchase	 pants
-2019-06-08 15:05:03.189990	 bing	purchase	 boots
-2019-06-08 15:05:03.190123	  yahoo	purchase	 chair
-2019-06-08 15:05:03.190363	facebook	purchase	 house
-2019-06-08 15:05:03.190526	facebook	purchase	water
-2019-06-08 15:05:03.190635	  yahoo	 add_to_cart	 boots
-2019-06-08 15:05:03.190817	  twitter	purchase	 fire rocket
-2019-06-08 15:05:03.190925	  yahoo	 page_view	 house
-2019-06-08 15:05:03.191030	 bing	purchase	 boots
-2019-06-08 15:05:03.191144	  google	 add_to_cart	 wine
-2019-06-08 15:05:03.191255	facebook	purchase	 coat
-2019-06-08 15:05:03.191422	  twitter	purchase	 bruhkfest
-2019-06-08 15:05:03.191600	 bing	purchase	 fire rocket
-2019-06-08 15:05:03.191817	  twitter	purchase	 chicken
-2019-06-08 15:05:03.191949	  google	 add_to_cart	 sword
-2019-06-08 15:05:03.192179	facebook	purchase	 flour
-2019-06-08 15:05:03.192302	facebook	 add_to_cart	 rug
-2019-06-08 15:05:03.192417	  google	 add_to_cart	 rug
-2019-06-08 15:05:03.192525	  yahoo	purchase	 pants
-2019-06-08 15:05:03.192631	  twitter	 add_to_cart	 bread
-2019-06-08 15:05:03.192734	 bing	 page_view	 rug
-2019-06-08 15:05:03.192836	facebook	 add_to_cart	 rug
-2019-06-08 15:05:03.192938	  twitter	 add_to_cart	 table
-2019-06-08 15:05:03.193046	  google	 page_view	 rug
-2019-06-08 15:05:03.193161	  twitter	purchase	 werehouse
-2019-06-08 15:05:03.193264	  yahoo	 page_view	 coat
-2019-06-08 15:05:03.193367	facebook	purchase	 wine
-2019-06-08 15:05:03.193468	  yahoo	 page_view	 werehouse
-2019-06-08 15:05:03.193570	facebook	 add_to_cart	 chardonei
-2019-06-08 15:05:03.193671	  google	purchase	 bruhkfest
-2019-06-08 15:05:03.193773	  twitter	 page_view	 pants
-2019-06-08 15:05:03.193875	  yahoo	purchase	 werehouse
-2019-06-08 15:05:03.193977	  google	purchase	 house
-2019-06-08 15:05:03.194078	  google	purchase	 not water
-2019-06-08 15:05:03.194179	  yahoo	 page_view	 rug
-2019-06-08 15:05:03.194280	facebook	purchase	 chair
-2019-06-08 15:05:03.194381	  twitter	purchase	 fire rocket
-2019-06-08 15:05:03.194542	  google	 add_to_cart	 house
-2019-06-08 15:05:03.194645	 bing	 add_to_cart	 rug
-2019-06-08 15:05:03.194747	 bing	 add_to_cart	 flour
-2019-06-08 15:05:03.194849	 bing	 add_to_cart	 chair
-2019-06-08 15:05:03.194950	  yahoo	purchase	 coat
-2019-06-08 15:05:03.195052	  google	 add_to_cart	 table
-2019-06-08 15:05:03.195153	  google	 add_to_cart	 axe
-2019-06-08 15:05:03.195257	 bing	 page_view	 coat
-2019-06-08 15:05:03.195359	  twitter	 page_view	 chardonei
-2019-06-08 15:05:03.195460	  google	purchase	 boots
-2019-06-08 15:05:03.195561	facebook	purchase	 fire rocket
-2019-06-08 15:05:03.195662	  twitter	 add_to_cart	 rug
-2019-06-08 15:05:03.195763	facebook	 add_to_cart	 not water
-2019-06-08 15:05:03.195864	  google	 page_view	 boots
-2019-06-08 15:05:03.195967	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.196073	facebook	 add_to_cart	 coat
-2019-06-08 15:05:03.196174	  twitter	purchase	 fire rocket
-2019-06-08 15:05:03.196275	facebook	 add_to_cart	 chicken
-2019-06-08 15:05:03.196377	  twitter	purchase	 bread
-2019-06-08 15:05:03.196478	facebook	 add_to_cart	 werehouse
-2019-06-08 15:05:03.196579	  google	 add_to_cart	 table
-2019-06-08 15:05:03.196682	  yahoo	 add_to_cart	 bread
-2019-06-08 15:05:03.196783	 bing	purchase	 werehouse
-2019-06-08 15:05:03.196885	 bing	 page_view	 rocket fire
-2019-06-08 15:05:03.196986	  google	purchase	water
-2019-06-08 15:05:03.197087	  yahoo	 page_view	 steak
-2019-06-08 15:05:03.197188	  twitter	 page_view	 sword
-2019-06-08 15:05:03.197289	 bing	 add_to_cart	 wheet
-2019-06-08 15:05:03.197401	 bing	 add_to_cart	water
-2019-06-08 15:05:03.197503	 bing	 page_view	 bruhkfest
-2019-06-08 15:05:03.197604	  yahoo	 add_to_cart	 chardonei
-2019-06-08 15:05:03.197713	  google	 page_view	 bruhkfest
-2019-06-08 15:05:03.197869	  twitter	purchase	 table
-2019-06-08 15:05:03.198045	facebook	 page_view	 rocket fire
-2019-06-08 15:05:03.198156	  twitter	purchase	 bread
-2019-06-08 15:05:03.198271	 bing	 page_view	 rocket fire
-2019-06-08 15:05:03.198376	  yahoo	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.198480	  yahoo	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.198584	  yahoo	 add_to_cart	 chair
-2019-06-08 15:05:03.198687	 bing	 add_to_cart	 bread
-2019-06-08 15:05:03.198789	  google	 add_to_cart	 wheet
-2019-06-08 15:05:03.198892	facebook	 page_view	 coat
-2019-06-08 15:05:03.198998	  twitter	 add_to_cart	 chicken
-2019-06-08 15:05:03.199101	  yahoo	 page_view	 rocket fire
-2019-06-08 15:05:03.199204	  yahoo	 page_view	 wine
-2019-06-08 15:05:03.199306	facebook	purchase	 coat
-2019-06-08 15:05:03.199410	  google	purchase	 not water
-2019-06-08 15:05:03.199514	 bing	 add_to_cart	 axe
-2019-06-08 15:05:03.199618	 bing	 add_to_cart	 coat
-2019-06-08 15:05:03.199724	facebook	 page_view	 chicken
-2019-06-08 15:05:03.199829	  google	purchase	 table
-2019-06-08 15:05:03.199933	  google	 page_view	 rug
-2019-06-08 15:05:03.200036	facebook	 page_view	 shirt
-2019-06-08 15:05:03.200139	  google	purchase	 shirt
-2019-06-08 15:05:03.200243	  yahoo	 page_view	 bruhkfest
-2019-06-08 15:05:03.200347	 bing	 add_to_cart	 pants
-2019-06-08 15:05:03.200456	 bing	purchase	 not water
-2019-06-08 15:05:03.200561	  yahoo	 add_to_cart	 wine
-2019-06-08 15:05:03.200664	  yahoo	 page_view	 house
-2019-06-08 15:05:03.200768	  twitter	 add_to_cart	 wine
-2019-06-08 15:05:03.200872	  google	 add_to_cart	 table
-2019-06-08 15:05:03.200975	  yahoo	 add_to_cart	 bread
-2019-06-08 15:05:03.201079	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.201184	  twitter	purchase	water
-2019-06-08 15:05:03.201288	facebook	purchase	 chardonei
-2019-06-08 15:05:03.201452	  yahoo	 add_to_cart	 wine
-2019-06-08 15:05:03.201589	  yahoo	 add_to_cart	 werehouse
-2019-06-08 15:05:03.201809	  yahoo	 add_to_cart	 bruhkfest
-2019-06-08 15:05:03.201929	  yahoo	 page_view	 steak
-2019-06-08 15:05:03.202093	facebook	 page_view	 rocket fire
-2019-06-08 15:05:03.202200	  yahoo	 page_view	 bread
-2019-06-08 15:05:03.202303	  twitter	purchase	water
-2019-06-08 15:05:03.202407	facebook	purchase	 chair
-2019-06-08 15:05:03.202506	  twitter	 add_to_cart	 chair
-2019-06-08 15:05:03.202607	  google	purchase	 shirt
-2019-06-08 15:05:03.202774	  yahoo	 add_to_cart	 coat
-2019-06-08 15:05:03.202891	 bing	 page_view	 flour
-2019-06-08 15:05:03.203010	facebook	purchase	 table
-2019-06-08 15:05:03.203114	  yahoo	 page_view	 table
-2019-06-08 15:05:03.203215	  yahoo	 page_view	 shirt
-2019-06-08 15:05:03.203317	  twitter	 page_view	 rug
-2019-06-08 15:05:03.203419	 bing	purchase	 wheet
-2019-06-08 15:05:03.203521	  yahoo	 add_to_cart	 axe
-2019-06-08 15:05:03.203625	 bing	purchase	water
-2019-06-08 15:05:03.203727	  twitter	 page_view	 fire rocket
-2019-06-08 15:05:03.203829	facebook	 add_to_cart	 axe
-2019-06-08 15:05:03.203931	  google	 add_to_cart	 chair
-2019-06-08 15:05:03.204032	  yahoo	purchase	 pants
-2019-06-08 15:05:03.204133	 bing	 page_view	 rocket fire
-2019-06-08 15:05:03.204235	facebook	 page_view	 axe
-2019-06-08 15:05:03.204338	  google	 add_to_cart	 chicken
-2019-06-08 15:05:03.204439	  twitter	 add_to_cart	 wheet
-2019-06-08 15:05:03.204540	 bing	purchase	 pants
-2019-06-08 15:05:03.204640	facebook	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.204741	  google	purchase	water
-2019-06-08 15:05:03.204843	facebook	purchase	 a table
-2019-06-08 15:05:03.204944	 bing	purchase	 fire rocket
-2019-06-08 15:05:03.205047	 bing	 page_view	 werehouse
-2019-06-08 15:05:03.205148	  twitter	 add_to_cart	 sword
-2019-06-08 15:05:03.205249	facebook	purchase	 steak
-2019-06-08 15:05:03.205349	 bing	purchase	 coat
-2019-06-08 15:05:03.205451	facebook	 page_view	 wine
-2019-06-08 15:05:03.205552	facebook	purchase	 bruhkfest
-2019-06-08 15:05:03.205654	  yahoo	 add_to_cart	 boots
-2019-06-08 15:05:03.205758	  google	purchase	 fire rocket
-2019-06-08 15:05:03.205860	  yahoo	 page_view	 not water
-2019-06-08 15:05:03.205961	  yahoo	 page_view	 flour
-2019-06-08 15:05:03.206062	facebook	 page_view	 a table
-2019-06-08 15:05:03.206163	  yahoo	 page_view	 pants
-2019-06-08 15:05:03.206264	  google	 add_to_cart	 pants
-2019-06-08 15:05:03.206365	  yahoo	 page_view	 chair
-2019-06-08 15:05:03.206467	  twitter	 page_view	 chicken
-2019-06-08 15:05:03.206568	  google	purchase	 wheet
-2019-06-08 15:05:03.206668	 bing	 page_view	water
-2019-06-08 15:05:03.206769	  twitter	purchase	 coat
-2019-06-08 15:05:03.206870	  yahoo	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.206970	facebook	purchase	 table
-2019-06-08 15:05:03.207072	facebook	 page_view	 chair
-2019-06-08 15:05:03.207175	  twitter	 page_view	 flour
-2019-06-08 15:05:03.207275	  twitter	 page_view	 rocket fire
-2019-06-08 15:05:03.207375	  google	purchase	 table
-2019-06-08 15:05:03.207476	facebook	 page_view	 wine
-2019-06-08 15:05:03.207578	 bing	purchase	 sword
-2019-06-08 15:05:03.207679	  google	 add_to_cart	 wheet
-2019-06-08 15:05:03.207779	  twitter	 add_to_cart	 rug
-2019-06-08 15:05:03.207947	  yahoo	 page_view	 fire rocket
-2019-06-08 15:05:03.208062	  yahoo	purchase	 house
-2019-06-08 15:05:03.208262	  google	 page_view	 chair
-2019-06-08 15:05:03.208386	  google	purchase	 chicken
-2019-06-08 15:05:03.208549	  twitter	 add_to_cart	 house
-2019-06-08 15:05:03.208658	  yahoo	purchase	 pants
-2019-06-08 15:05:03.208765	  twitter	 page_view	 flour
-2019-06-08 15:05:03.208874	  twitter	 add_to_cart	water
-2019-06-08 15:05:03.208978	  twitter	 add_to_cart	 pants
-2019-06-08 15:05:03.209083	  google	 add_to_cart	 werehouse
-2019-06-08 15:05:03.209187	 bing	 add_to_cart	 wine
-2019-06-08 15:05:03.209290	  yahoo	 page_view	 sword
-2019-06-08 15:05:03.209394	  yahoo	purchase	 pants
-2019-06-08 15:05:03.209497	 bing	 add_to_cart	 steak
-2019-06-08 15:05:03.209603	 bing	purchase	 shirt
-2019-06-08 15:05:03.209707	  google	 add_to_cart	 chicken
-2019-06-08 15:05:03.209809	 bing	 page_view	water
-2019-06-08 15:05:03.209912	 bing	purchase	 axe
-2019-06-08 15:05:03.210015	 bing	purchase	 flour
-2019-06-08 15:05:03.210119	  google	purchase	 a table
-2019-06-08 15:05:03.210223	  yahoo	purchase	 steak
-2019-06-08 15:05:03.210336	facebook	 page_view	 coat
-2019-06-08 15:05:03.210439	  yahoo	 add_to_cart	 fire rocket
-2019-06-08 15:05:03.210542	facebook	 add_to_cart	 shirt
-2019-06-08 15:05:03.210645	  twitter	purchase	 steak
-2019-06-08 15:05:03.210749	  twitter	purchase	 chicken
-2019-06-08 15:05:03.210919	  yahoo	 page_view	 chicken
-2019-06-08 15:05:03.211028	 bing	purchase	 fire rocket
-2019-06-08 15:05:03.211133	  twitter	 page_view	 a table
-2019-06-08 15:05:03.211236	 bing	 add_to_cart	 sword
-2019-06-08 15:05:03.211340	 bing	 page_view	 not water
-2019-06-08 15:05:03.211444	  yahoo	 add_to_cart	 rocket fire
-2019-06-08 15:05:03.211548	facebook	purchase	 rocket fire
-2019-06-08 15:05:03.211652	 bing	 add_to_cart	 wheet
-2019-06-08 15:05:03.211768	  yahoo	purchase	 coat
-2019-06-08 15:05:03.211883	facebook	 add_to_cart	water
-2019-06-08 15:05:03.211998	  yahoo	purchase	 rocket fire
-2019-06-08 15:05:03.212113	  google	 page_view	 wine
-2019-06-08 15:05:03.212225	  twitter	 page_view	 not water
-2019-06-08 15:05:03.212333	facebook	 page_view	 flour
-2019-06-08 15:05:03.212441	 bing	 add_to_cart	 chair
-2019-06-08 15:05:03.212551	  google	 page_view	 not water
-2019-06-08 15:05:03.212657	  twitter	 page_view	 bruhkfest
-2019-06-08 15:05:03.212764	 bing	 add_to_cart	 table
-2019-06-08 15:05:03.212871	 bing	 add_to_cart	water
-2019-06-08 15:05:03.212977	  google	 add_to_cart	water
-2019-06-08 15:05:03.213085	  yahoo	 add_to_cart	 a table
-2019-06-08 15:05:03.213192	  twitter	 page_view	 wine
-2019-06-08 15:05:03.213311	 bing	 add_to_cart	 pants
-2019-06-08 15:05:03.213439	 bing	 page_view	 chardonei
+2019-06-08 23:18:55.473315	twitter	add_to_cart	table
+2019-06-08 23:18:55.473586	yahoo	purchase	chair
+2019-06-08 23:18:55.475547	bing	add_to_cart	coat
+2019-06-08 23:18:55.476087	yahoo	add_to_cart	house
+2019-06-08 23:18:55.476418	google	page_view	axe
+2019-06-08 23:18:55.476586	facebook	purchase	chair
+2019-06-08 23:18:55.476735	yahoo	purchase	rocket fire
+2019-06-08 23:18:55.476984	twitter	add_to_cart	steak
+2019-06-08 23:18:55.477148	facebook	purchase	shirt
+2019-06-08 23:18:55.477428	yahoo	page_view	table
+2019-06-08 23:18:55.477637	twitter	purchase	table
+2019-06-08 23:18:55.477772	yahoo	add_to_cart	water
+2019-06-08 23:18:55.478267	google	add_to_cart	wine
+2019-06-08 23:18:55.478438	facebook	purchase	flour
+2019-06-08 23:18:55.478709	bing	page_view	bread
+2019-06-08 23:18:55.478851	google	page_view	shirt
+2019-06-08 23:18:55.479108	bing	add_to_cart	house
+2019-06-08 23:18:55.479247	facebook	add_to_cart	boots
+2019-06-08 23:18:55.479545	bing	purchase	chair
+2019-06-08 23:18:55.479842	google	page_view	wheet
+2019-06-08 23:18:55.480084	google	page_view	rocket fire
+2019-06-08 23:18:55.480262	google	page_view	rocket fire
+2019-06-08 23:18:55.480394	facebook	page_view	chair
+2019-06-08 23:18:55.480667	twitter	purchase	wine
+2019-06-08 23:18:55.480833	bing	purchase	shirt
+2019-06-08 23:18:55.480961	twitter	page_view	bruhkfest
+2019-06-08 23:18:55.481084	facebook	page_view	flour
+2019-06-08 23:18:55.481203	facebook	purchase	rug
+2019-06-08 23:18:55.481322	twitter	page_view	table
+2019-06-08 23:18:55.481436	twitter	add_to_cart	flour
+2019-06-08 23:18:55.481705	twitter	purchase	rocket fire
+2019-06-08 23:18:55.481862	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.481991	bing	add_to_cart	water
+2019-06-08 23:18:55.482114	bing	page_view	chicken
+2019-06-08 23:18:55.482234	twitter	page_view	chardonei
+2019-06-08 23:18:55.482353	google	purchase	rug
+2019-06-08 23:18:55.482470	bing	add_to_cart	water
+2019-06-08 23:18:55.482588	facebook	purchase	chair
+2019-06-08 23:18:55.482704	google	add_to_cart	rug
+2019-06-08 23:18:55.482823	twitter	add_to_cart	not water
+2019-06-08 23:18:55.482943	facebook	purchase	chicken
+2019-06-08 23:18:55.483061	google	page_view	rug
+2019-06-08 23:18:55.483180	facebook	purchase	flour
+2019-06-08 23:18:55.483359	yahoo	add_to_cart	table
+2019-06-08 23:18:55.483510	twitter	add_to_cart	rug
+2019-06-08 23:18:55.483769	yahoo	purchase	steak
+2019-06-08 23:18:55.483942	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.484062	facebook	purchase	house
+2019-06-08 23:18:55.484178	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.484292	yahoo	page_view	wheet
+2019-06-08 23:18:55.484447	facebook	purchase	a table
+2019-06-08 23:18:55.484606	google	page_view	sword
+2019-06-08 23:18:55.484854	twitter	add_to_cart	chicken
+2019-06-08 23:18:55.485059	yahoo	add_to_cart	rocket fire
+2019-06-08 23:18:55.485237	twitter	purchase	shirt
+2019-06-08 23:18:55.485345	google	page_view	chardonei
+2019-06-08 23:18:55.485449	google	page_view	rug
+2019-06-08 23:18:55.485550	bing	add_to_cart	rug
+2019-06-08 23:18:55.485648	google	purchase	axe
+2019-06-08 23:18:55.485747	bing	purchase	steak
+2019-06-08 23:18:55.485845	twitter	add_to_cart	chardonei
+2019-06-08 23:18:55.485945	google	purchase	house
+2019-06-08 23:18:55.486063	google	add_to_cart	a table
+2019-06-08 23:18:55.486179	bing	purchase	werehouse
+2019-06-08 23:18:55.486355	yahoo	purchase	water
+2019-06-08 23:18:55.486530	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.486698	bing	purchase	house
+2019-06-08 23:18:55.486817	google	page_view	rug
+2019-06-08 23:18:55.487003	yahoo	purchase	steak
+2019-06-08 23:18:55.487151	yahoo	add_to_cart	chicken
+2019-06-08 23:18:55.487460	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.487722	twitter	add_to_cart	wheet
+2019-06-08 23:18:55.487853	bing	purchase	flour
+2019-06-08 23:18:55.487963	bing	add_to_cart	bread
+2019-06-08 23:18:55.488086	yahoo	add_to_cart	bread
+2019-06-08 23:18:55.488332	facebook	page_view	table
+2019-06-08 23:18:55.488436	yahoo	add_to_cart	werehouse
+2019-06-08 23:18:55.488535	bing	purchase	wine
+2019-06-08 23:18:55.488634	yahoo	add_to_cart	shirt
+2019-06-08 23:18:55.488732	yahoo	add_to_cart	rug
+2019-06-08 23:18:55.488830	google	add_to_cart	a table
+2019-06-08 23:18:55.489000	facebook	page_view	werehouse
+2019-06-08 23:18:55.489103	google	add_to_cart	fire rocket
+2019-06-08 23:18:55.489204	facebook	page_view	pants
+2019-06-08 23:18:55.489304	google	page_view	axe
+2019-06-08 23:18:55.489406	facebook	page_view	pants
+2019-06-08 23:18:55.489506	facebook	purchase	fire rocket
+2019-06-08 23:18:55.489612	google	add_to_cart	bread
+2019-06-08 23:18:55.489713	facebook	purchase	rocket fire
+2019-06-08 23:18:55.489814	google	purchase	not water
+2019-06-08 23:18:55.489916	bing	add_to_cart	bruhkfest
+2019-06-08 23:18:55.490018	twitter	add_to_cart	pants
+2019-06-08 23:18:55.490119	twitter	page_view	sword
+2019-06-08 23:18:55.490220	twitter	purchase	coat
+2019-06-08 23:18:55.490323	facebook	page_view	a table
+2019-06-08 23:18:55.490424	twitter	purchase	rocket fire
+2019-06-08 23:18:55.490526	twitter	page_view	chardonei
+2019-06-08 23:18:55.490627	twitter	page_view	shirt
+2019-06-08 23:18:55.490728	google	add_to_cart	boots
+2019-06-08 23:18:55.490829	google	purchase	house
+2019-06-08 23:18:55.490929	facebook	purchase	water
+2019-06-08 23:18:55.491032	facebook	purchase	boots
+2019-06-08 23:18:55.491133	google	purchase	pants
+2019-06-08 23:18:55.491234	twitter	purchase	boots
+2019-06-08 23:18:55.491334	google	add_to_cart	chicken
+2019-06-08 23:18:55.491435	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.491536	bing	page_view	not water
+2019-06-08 23:18:55.491638	facebook	page_view	rocket fire
+2019-06-08 23:18:55.491740	yahoo	purchase	chicken
+2019-06-08 23:18:55.491841	bing	purchase	table
+2019-06-08 23:18:55.491942	bing	purchase	steak
+2019-06-08 23:18:55.492042	google	add_to_cart	steak
+2019-06-08 23:18:55.492143	yahoo	purchase	bruhkfest
+2019-06-08 23:18:55.492244	facebook	page_view	chicken
+2019-06-08 23:18:55.492345	twitter	purchase	chardonei
+2019-06-08 23:18:55.492449	bing	add_to_cart	steak
+2019-06-08 23:18:55.492549	twitter	purchase	coat
+2019-06-08 23:18:55.492650	facebook	add_to_cart	coat
+2019-06-08 23:18:55.492751	yahoo	add_to_cart	rug
+2019-06-08 23:18:55.492852	google	purchase	coat
+2019-06-08 23:18:55.492954	facebook	purchase	fire rocket
+2019-06-08 23:18:55.493065	facebook	add_to_cart	bread
+2019-06-08 23:18:55.493172	facebook	purchase	shirt
+2019-06-08 23:18:55.493274	bing	purchase	bread
+2019-06-08 23:18:55.493375	bing	add_to_cart	rug
+2019-06-08 23:18:55.493476	twitter	page_view	a table
+2019-06-08 23:18:55.493577	facebook	page_view	flour
+2019-06-08 23:18:55.493677	facebook	purchase	rug
+2019-06-08 23:18:55.493778	google	purchase	flour
+2019-06-08 23:18:55.493881	twitter	purchase	werehouse
+2019-06-08 23:18:55.493982	google	purchase	fire rocket
+2019-06-08 23:18:55.494082	facebook	page_view	pants
+2019-06-08 23:18:55.494183	twitter	purchase	coat
+2019-06-08 23:18:55.494283	google	page_view	coat
+2019-06-08 23:18:55.494384	google	purchase	axe
+2019-06-08 23:18:55.494510	bing	purchase	wine
+2019-06-08 23:18:55.494776	facebook	page_view	chardonei
+2019-06-08 23:18:55.495051	yahoo	purchase	house
+2019-06-08 23:18:55.495207	google	purchase	flour
+2019-06-08 23:18:55.495394	facebook	purchase	sword
+2019-06-08 23:18:55.495520	twitter	page_view	chicken
+2019-06-08 23:18:55.495701	yahoo	purchase	flour
+2019-06-08 23:18:55.495919	facebook	add_to_cart	table
+2019-06-08 23:18:55.496170	google	purchase	shirt
+2019-06-08 23:18:55.496326	google	page_view	house
+2019-06-08 23:18:55.496504	yahoo	add_to_cart	house
+2019-06-08 23:18:55.496621	bing	purchase	wine
+2019-06-08 23:18:55.496811	bing	purchase	house
+2019-06-08 23:18:55.496938	twitter	purchase	steak
+2019-06-08 23:18:55.497058	facebook	page_view	pants
+2019-06-08 23:18:55.497176	bing	page_view	table
+2019-06-08 23:18:55.497291	facebook	page_view	chair
+2019-06-08 23:18:55.497405	google	purchase	bruhkfest
+2019-06-08 23:18:55.497517	yahoo	page_view	chair
+2019-06-08 23:18:55.497630	google	page_view	pants
+2019-06-08 23:18:55.497742	facebook	add_to_cart	bruhkfest
+2019-06-08 23:18:55.497854	twitter	purchase	not water
+2019-06-08 23:18:55.497969	twitter	purchase	wheet
+2019-06-08 23:18:55.498082	google	purchase	chair
+2019-06-08 23:18:55.498195	twitter	page_view	rug
+2019-06-08 23:18:55.498386	google	add_to_cart	chardonei
+2019-06-08 23:18:55.498500	facebook	purchase	rocket fire
+2019-06-08 23:18:55.498614	yahoo	page_view	pants
+2019-06-08 23:18:55.498740	twitter	page_view	wine
+2019-06-08 23:18:55.498853	facebook	page_view	steak
+2019-06-08 23:18:55.498966	bing	add_to_cart	boots
+2019-06-08 23:18:55.499078	bing	add_to_cart	wheet
+2019-06-08 23:18:55.499189	yahoo	purchase	rocket fire
+2019-06-08 23:18:55.499301	bing	add_to_cart	fire rocket
+2019-06-08 23:18:55.499412	bing	purchase	bread
+2019-06-08 23:18:55.499526	yahoo	page_view	pants
+2019-06-08 23:18:55.499637	twitter	page_view	wine
+2019-06-08 23:18:55.499749	bing	page_view	rug
+2019-06-08 23:18:55.499862	facebook	page_view	boots
+2019-06-08 23:18:55.499976	facebook	page_view	table
+2019-06-08 23:18:55.500088	facebook	purchase	rocket fire
+2019-06-08 23:18:55.500200	google	add_to_cart	rug
+2019-06-08 23:18:55.500325	yahoo	page_view	boots
+2019-06-08 23:18:55.500436	bing	page_view	chair
+2019-06-08 23:18:55.500547	twitter	add_to_cart	werehouse
+2019-06-08 23:18:55.500658	facebook	purchase	flour
+2019-06-08 23:18:55.500782	bing	purchase	chair
+2019-06-08 23:18:55.500933	yahoo	page_view	bread
+2019-06-08 23:18:55.501153	bing	page_view	coat
+2019-06-08 23:18:55.501419	yahoo	page_view	table
+2019-06-08 23:18:55.501574	yahoo	add_to_cart	boots
+2019-06-08 23:18:55.501751	bing	purchase	bread
+2019-06-08 23:18:55.501872	bing	purchase	rocket fire
+2019-06-08 23:18:55.502062	yahoo	purchase	rocket fire
+2019-06-08 23:18:55.502189	twitter	page_view	coat
+2019-06-08 23:18:55.502309	yahoo	purchase	not water
+2019-06-08 23:18:55.502434	google	page_view	not water
+2019-06-08 23:18:55.502558	google	add_to_cart	axe
+2019-06-08 23:18:55.502737	google	add_to_cart	rug
+2019-06-08 23:18:55.502996	google	purchase	chardonei
+2019-06-08 23:18:55.503182	yahoo	add_to_cart	bread
+2019-06-08 23:18:55.503363	facebook	purchase	not water
+2019-06-08 23:18:55.503487	twitter	purchase	water
+2019-06-08 23:18:55.503610	yahoo	purchase	bread
+2019-06-08 23:18:55.503728	google	page_view	chair
+2019-06-08 23:18:55.503845	yahoo	add_to_cart	werehouse
+2019-06-08 23:18:55.503961	yahoo	add_to_cart	coat
+2019-06-08 23:18:55.504078	google	add_to_cart	shirt
+2019-06-08 23:18:55.504192	bing	add_to_cart	chardonei
+2019-06-08 23:18:55.504306	google	add_to_cart	bread
+2019-06-08 23:18:55.504422	yahoo	page_view	steak
+2019-06-08 23:18:55.504536	facebook	page_view	pants
+2019-06-08 23:18:55.504650	google	add_to_cart	bruhkfest
+2019-06-08 23:18:55.504764	facebook	page_view	bread
+2019-06-08 23:18:55.504881	bing	purchase	werehouse
+2019-06-08 23:18:55.504995	bing	purchase	bruhkfest
+2019-06-08 23:18:55.505108	facebook	purchase	axe
+2019-06-08 23:18:55.505276	facebook	purchase	table
+2019-06-08 23:18:55.505452	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.505616	google	page_view	rocket fire
+2019-06-08 23:18:55.505763	bing	page_view	chair
+2019-06-08 23:18:55.505965	google	purchase	steak
+2019-06-08 23:18:55.506096	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.506219	twitter	page_view	a table
+2019-06-08 23:18:55.506338	facebook	purchase	steak
+2019-06-08 23:18:55.506455	yahoo	purchase	a table
+2019-06-08 23:18:55.506569	yahoo	page_view	shirt
+2019-06-08 23:18:55.506683	twitter	add_to_cart	water
+2019-06-08 23:18:55.506800	facebook	add_to_cart	coat
+2019-06-08 23:18:55.506914	bing	page_view	table
+2019-06-08 23:18:55.507026	yahoo	purchase	chardonei
+2019-06-08 23:18:55.507142	google	add_to_cart	boots
+2019-06-08 23:18:55.507258	google	purchase	boots
+2019-06-08 23:18:55.507373	facebook	purchase	sword
+2019-06-08 23:18:55.507486	facebook	page_view	wine
+2019-06-08 23:18:55.507599	bing	add_to_cart	steak
+2019-06-08 23:18:55.507738	facebook	add_to_cart	chair
+2019-06-08 23:18:55.507910	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.508098	google	add_to_cart	wine
+2019-06-08 23:18:55.508216	facebook	purchase	chardonei
+2019-06-08 23:18:55.508451	google	purchase	steak
+2019-06-08 23:18:55.508571	yahoo	purchase	bruhkfest
+2019-06-08 23:18:55.508790	google	purchase	flour
+2019-06-08 23:18:55.508980	bing	purchase	steak
+2019-06-08 23:18:55.509187	facebook	add_to_cart	wine
+2019-06-08 23:18:55.509574	google	page_view	steak
+2019-06-08 23:18:55.509732	bing	add_to_cart	table
+2019-06-08 23:18:55.509919	google	purchase	chicken
+2019-06-08 23:18:55.510073	bing	purchase	rocket fire
+2019-06-08 23:18:55.510280	facebook	page_view	werehouse
+2019-06-08 23:18:55.510445	twitter	page_view	chair
+2019-06-08 23:18:55.510731	bing	add_to_cart	not water
+2019-06-08 23:18:55.510939	facebook	page_view	coat
+2019-06-08 23:18:55.511129	twitter	page_view	shirt
+2019-06-08 23:18:55.511246	bing	page_view	sword
+2019-06-08 23:18:55.511413	facebook	page_view	chicken
+2019-06-08 23:18:55.511529	yahoo	add_to_cart	chair
+2019-06-08 23:18:55.511735	facebook	add_to_cart	fire rocket
+2019-06-08 23:18:55.511982	twitter	add_to_cart	house
+2019-06-08 23:18:55.512097	yahoo	purchase	bruhkfest
+2019-06-08 23:18:55.512325	yahoo	page_view	werehouse
+2019-06-08 23:18:55.512453	google	purchase	table
+2019-06-08 23:18:55.512653	google	page_view	boots
+2019-06-08 23:18:55.512806	twitter	page_view	sword
+2019-06-08 23:18:55.513028	twitter	add_to_cart	rocket fire
+2019-06-08 23:18:55.513158	facebook	page_view	wheet
+2019-06-08 23:18:55.513269	facebook	add_to_cart	fire rocket
+2019-06-08 23:18:55.513382	twitter	page_view	flour
+2019-06-08 23:18:55.513499	twitter	purchase	steak
+2019-06-08 23:18:55.513604	google	add_to_cart	boots
+2019-06-08 23:18:55.513705	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.513807	bing	add_to_cart	chardonei
+2019-06-08 23:18:55.513910	facebook	purchase	house
+2019-06-08 23:18:55.514012	google	purchase	a table
+2019-06-08 23:18:55.514113	facebook	purchase	werehouse
+2019-06-08 23:18:55.514213	bing	page_view	steak
+2019-06-08 23:18:55.514314	yahoo	add_to_cart	table
+2019-06-08 23:18:55.514415	bing	add_to_cart	fire rocket
+2019-06-08 23:18:55.514516	yahoo	page_view	wine
+2019-06-08 23:18:55.514621	yahoo	purchase	wine
+2019-06-08 23:18:55.514722	facebook	add_to_cart	boots
+2019-06-08 23:18:55.514823	google	purchase	pants
+2019-06-08 23:18:55.514923	google	purchase	chicken
+2019-06-08 23:18:55.515024	google	purchase	house
+2019-06-08 23:18:55.515126	yahoo	purchase	axe
+2019-06-08 23:18:55.515227	twitter	page_view	house
+2019-06-08 23:18:55.515331	facebook	page_view	a table
+2019-06-08 23:18:55.515433	yahoo	add_to_cart	chardonei
+2019-06-08 23:18:55.515533	yahoo	purchase	rocket fire
+2019-06-08 23:18:55.515634	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.515735	twitter	purchase	werehouse
+2019-06-08 23:18:55.515836	facebook	page_view	axe
+2019-06-08 23:18:55.515938	yahoo	purchase	wheet
+2019-06-08 23:18:55.516042	facebook	purchase	water
+2019-06-08 23:18:55.516143	twitter	purchase	boots
+2019-06-08 23:18:55.516290	google	add_to_cart	water
+2019-06-08 23:18:55.516442	twitter	purchase	a table
+2019-06-08 23:18:55.516603	yahoo	purchase	chardonei
+2019-06-08 23:18:55.516714	yahoo	add_to_cart	pants
+2019-06-08 23:18:55.516821	twitter	page_view	not water
+2019-06-08 23:18:55.516929	facebook	add_to_cart	pants
+2019-06-08 23:18:55.517034	yahoo	purchase	shirt
+2019-06-08 23:18:55.517137	facebook	page_view	fire rocket
+2019-06-08 23:18:55.517241	google	page_view	chicken
+2019-06-08 23:18:55.517344	bing	page_view	chardonei
+2019-06-08 23:18:55.517447	facebook	purchase	coat
+2019-06-08 23:18:55.517550	yahoo	purchase	fire rocket
+2019-06-08 23:18:55.517656	bing	page_view	rocket fire
+2019-06-08 23:18:55.517759	facebook	add_to_cart	werehouse
+2019-06-08 23:18:55.517864	twitter	page_view	rug
+2019-06-08 23:18:55.517968	bing	purchase	flour
+2019-06-08 23:18:55.518073	twitter	purchase	chardonei
+2019-06-08 23:18:55.518177	facebook	page_view	sword
+2019-06-08 23:18:55.518281	google	page_view	chair
+2019-06-08 23:18:55.518388	facebook	page_view	table
+2019-06-08 23:18:55.518491	twitter	add_to_cart	chardonei
+2019-06-08 23:18:55.518595	facebook	page_view	flour
+2019-06-08 23:18:55.518699	facebook	page_view	chicken
+2019-06-08 23:18:55.518802	twitter	add_to_cart	chardonei
+2019-06-08 23:18:55.518906	yahoo	page_view	table
+2019-06-08 23:18:55.519011	facebook	page_view	boots
+2019-06-08 23:18:55.519117	twitter	purchase	steak
+2019-06-08 23:18:55.519219	yahoo	purchase	werehouse
+2019-06-08 23:18:55.519323	google	add_to_cart	chicken
+2019-06-08 23:18:55.519503	twitter	add_to_cart	not water
+2019-06-08 23:18:55.519609	yahoo	purchase	pants
+2019-06-08 23:18:55.519714	google	page_view	sword
+2019-06-08 23:18:55.519820	google	page_view	sword
+2019-06-08 23:18:55.519924	facebook	add_to_cart	pants
+2019-06-08 23:18:55.520028	twitter	page_view	wheet
+2019-06-08 23:18:55.520132	facebook	add_to_cart	steak
+2019-06-08 23:18:55.520235	twitter	add_to_cart	house
+2019-06-08 23:18:55.520341	yahoo	page_view	flour
+2019-06-08 23:18:55.520445	bing	add_to_cart	chair
+2019-06-08 23:18:55.520550	twitter	add_to_cart	boots
+2019-06-08 23:18:55.520653	twitter	add_to_cart	flour
+2019-06-08 23:18:55.520757	twitter	purchase	chardonei
+2019-06-08 23:18:55.520860	facebook	add_to_cart	shirt
+2019-06-08 23:18:55.520963	twitter	add_to_cart	table
+2019-06-08 23:18:55.521067	bing	purchase	wine
+2019-06-08 23:18:55.521170	bing	page_view	boots
+2019-06-08 23:18:55.521276	facebook	add_to_cart	a table
+2019-06-08 23:18:55.521380	twitter	page_view	axe
+2019-06-08 23:18:55.521531	yahoo	page_view	werehouse
+2019-06-08 23:18:55.521754	google	purchase	sword
+2019-06-08 23:18:55.521886	bing	page_view	chardonei
+2019-06-08 23:18:55.522001	google	purchase	bruhkfest
+2019-06-08 23:18:55.522110	facebook	purchase	chair
+2019-06-08 23:18:55.522220	facebook	purchase	chardonei
+2019-06-08 23:18:55.522326	facebook	add_to_cart	not water
+2019-06-08 23:18:55.522431	google	page_view	table
+2019-06-08 23:18:55.522537	google	page_view	axe
+2019-06-08 23:18:55.522642	yahoo	purchase	water
+2019-06-08 23:18:55.522746	facebook	add_to_cart	rocket fire
+2019-06-08 23:18:55.522851	facebook	purchase	boots
+2019-06-08 23:18:55.522957	google	purchase	pants
+2019-06-08 23:18:55.523061	facebook	page_view	wheet
+2019-06-08 23:18:55.523166	yahoo	page_view	flour
+2019-06-08 23:18:55.523270	twitter	add_to_cart	bread
+2019-06-08 23:18:55.523373	facebook	add_to_cart	table
+2019-06-08 23:18:55.523476	twitter	purchase	rocket fire
+2019-06-08 23:18:55.523581	twitter	page_view	not water
+2019-06-08 23:18:55.523687	facebook	add_to_cart	bread
+2019-06-08 23:18:55.523820	twitter	purchase	shirt
+2019-06-08 23:18:55.524049	yahoo	purchase	sword
+2019-06-08 23:18:55.524164	twitter	add_to_cart	chicken
+2019-06-08 23:18:55.524271	twitter	page_view	boots
+2019-06-08 23:18:55.524374	google	purchase	rocket fire
+2019-06-08 23:18:55.524476	google	page_view	chair
+2019-06-08 23:18:55.524581	facebook	page_view	wine
+2019-06-08 23:18:55.524682	bing	add_to_cart	coat
+2019-06-08 23:18:55.524784	facebook	add_to_cart	not water
+2019-06-08 23:18:55.524886	google	page_view	sword
+2019-06-08 23:18:55.524987	twitter	page_view	wheet
+2019-06-08 23:18:55.525088	twitter	purchase	house
+2019-06-08 23:18:55.525190	twitter	page_view	not water
+2019-06-08 23:18:55.525294	facebook	add_to_cart	steak
+2019-06-08 23:18:55.525396	twitter	purchase	werehouse
+2019-06-08 23:18:55.525501	twitter	add_to_cart	wheet
+2019-06-08 23:18:55.525604	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.525704	google	add_to_cart	table
+2019-06-08 23:18:55.525806	facebook	page_view	house
+2019-06-08 23:18:55.525908	google	purchase	sword
+2019-06-08 23:18:55.526020	facebook	add_to_cart	rocket fire
+2019-06-08 23:18:55.526121	yahoo	page_view	chair
+2019-06-08 23:18:55.526223	facebook	add_to_cart	shirt
+2019-06-08 23:18:55.526324	bing	page_view	water
+2019-06-08 23:18:55.526426	yahoo	page_view	shirt
+2019-06-08 23:18:55.526530	twitter	page_view	bread
+2019-06-08 23:18:55.526631	bing	page_view	werehouse
+2019-06-08 23:18:55.526735	yahoo	add_to_cart	chardonei
+2019-06-08 23:18:55.526836	facebook	purchase	chicken
+2019-06-08 23:18:55.526937	bing	add_to_cart	flour
+2019-06-08 23:18:55.527039	yahoo	purchase	table
+2019-06-08 23:18:55.527141	twitter	purchase	chardonei
+2019-06-08 23:18:55.527243	facebook	page_view	bread
+2019-06-08 23:18:55.527344	facebook	page_view	wheet
+2019-06-08 23:18:55.527490	twitter	page_view	water
+2019-06-08 23:18:55.527595	yahoo	add_to_cart	chair
+2019-06-08 23:18:55.527697	google	purchase	sword
+2019-06-08 23:18:55.527799	facebook	page_view	chardonei
+2019-06-08 23:18:55.527901	google	add_to_cart	wine
+2019-06-08 23:18:55.528002	google	purchase	sword
+2019-06-08 23:18:55.528166	yahoo	add_to_cart	table
+2019-06-08 23:18:55.528267	facebook	page_view	chardonei
+2019-06-08 23:18:55.528367	google	purchase	chicken
+2019-06-08 23:18:55.528467	google	add_to_cart	wheet
+2019-06-08 23:18:55.528566	yahoo	add_to_cart	not water
+2019-06-08 23:18:55.528665	facebook	purchase	bread
+2019-06-08 23:18:55.528765	facebook	add_to_cart	a table
+2019-06-08 23:18:55.528870	google	purchase	not water
+2019-06-08 23:18:55.528970	yahoo	purchase	sword
+2019-06-08 23:18:55.529070	bing	purchase	a table
+2019-06-08 23:18:55.529169	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.529269	google	purchase	bruhkfest
+2019-06-08 23:18:55.529368	bing	page_view	werehouse
+2019-06-08 23:18:55.529467	bing	purchase	coat
+2019-06-08 23:18:55.529576	yahoo	add_to_cart	sword
+2019-06-08 23:18:55.529675	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.529774	yahoo	page_view	not water
+2019-06-08 23:18:55.529901	yahoo	add_to_cart	werehouse
+2019-06-08 23:18:55.530032	facebook	purchase	bread
+2019-06-08 23:18:55.530197	google	page_view	a table
+2019-06-08 23:18:55.530307	yahoo	page_view	coat
+2019-06-08 23:18:55.530418	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.530521	twitter	purchase	rug
+2019-06-08 23:18:55.530624	yahoo	purchase	bruhkfest
+2019-06-08 23:18:55.530725	bing	purchase	boots
+2019-06-08 23:18:55.530825	google	purchase	werehouse
+2019-06-08 23:18:55.530926	twitter	page_view	werehouse
+2019-06-08 23:18:55.531028	yahoo	add_to_cart	flour
+2019-06-08 23:18:55.531131	twitter	add_to_cart	bruhkfest
+2019-06-08 23:18:55.531232	twitter	add_to_cart	house
+2019-06-08 23:18:55.531334	twitter	purchase	axe
+2019-06-08 23:18:55.531436	twitter	purchase	shirt
+2019-06-08 23:18:55.531538	google	purchase	house
+2019-06-08 23:18:55.531640	google	add_to_cart	chicken
+2019-06-08 23:18:55.531743	google	page_view	rug
+2019-06-08 23:18:55.531847	bing	add_to_cart	rug
+2019-06-08 23:18:55.531949	google	page_view	shirt
+2019-06-08 23:18:55.532050	bing	page_view	rug
+2019-06-08 23:18:55.532152	facebook	page_view	fire rocket
+2019-06-08 23:18:55.532255	twitter	add_to_cart	bread
+2019-06-08 23:18:55.532356	google	purchase	bruhkfest
+2019-06-08 23:18:55.532457	twitter	page_view	coat
+2019-06-08 23:18:55.532570	bing	add_to_cart	a table
+2019-06-08 23:18:55.532671	yahoo	page_view	rocket fire
+2019-06-08 23:18:55.532773	bing	purchase	sword
+2019-06-08 23:18:55.532875	bing	add_to_cart	axe
+2019-06-08 23:18:55.532976	twitter	add_to_cart	pants
+2019-06-08 23:18:55.533078	yahoo	add_to_cart	not water
+2019-06-08 23:18:55.533179	facebook	purchase	wine
+2019-06-08 23:18:55.533283	google	page_view	a table
+2019-06-08 23:18:55.533384	yahoo	page_view	house
+2019-06-08 23:18:55.533485	google	add_to_cart	pants
+2019-06-08 23:18:55.533586	bing	add_to_cart	table
+2019-06-08 23:18:55.533688	twitter	purchase	pants
+2019-06-08 23:18:55.533790	facebook	purchase	flour
+2019-06-08 23:18:55.533892	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.533997	bing	purchase	house
+2019-06-08 23:18:55.534100	facebook	purchase	bruhkfest
+2019-06-08 23:18:55.534201	facebook	page_view	house
+2019-06-08 23:18:55.534302	yahoo	page_view	chicken
+2019-06-08 23:18:55.534404	yahoo	purchase	a table
+2019-06-08 23:18:55.534505	twitter	add_to_cart	a table
+2019-06-08 23:18:55.534606	google	purchase	coat
+2019-06-08 23:18:55.534709	bing	page_view	wine
+2019-06-08 23:18:55.534811	google	purchase	sword
+2019-06-08 23:18:55.534912	yahoo	add_to_cart	steak
+2019-06-08 23:18:55.535013	facebook	page_view	chardonei
+2019-06-08 23:18:55.535114	bing	page_view	steak
+2019-06-08 23:18:55.535216	facebook	purchase	axe
+2019-06-08 23:18:55.535316	twitter	purchase	pants
+2019-06-08 23:18:55.535430	twitter	page_view	axe
+2019-06-08 23:18:55.535532	facebook	add_to_cart	chardonei
+2019-06-08 23:18:55.535633	yahoo	purchase	chair
+2019-06-08 23:18:55.535735	twitter	purchase	not water
+2019-06-08 23:18:55.535835	yahoo	purchase	chair
+2019-06-08 23:18:55.535936	bing	purchase	bread
+2019-06-08 23:18:55.536038	google	page_view	werehouse
+2019-06-08 23:18:55.536142	twitter	purchase	steak
+2019-06-08 23:18:55.536243	twitter	purchase	bread
+2019-06-08 23:18:55.536346	facebook	add_to_cart	coat
+2019-06-08 23:18:55.536511	google	page_view	chair
+2019-06-08 23:18:55.536615	bing	purchase	house
+2019-06-08 23:18:55.536717	google	add_to_cart	fire rocket
+2019-06-08 23:18:55.536821	google	page_view	not water
+2019-06-08 23:18:55.536922	twitter	add_to_cart	fire rocket
+2019-06-08 23:18:55.537024	google	page_view	bread
+2019-06-08 23:18:55.537125	facebook	purchase	a table
+2019-06-08 23:18:55.537226	google	page_view	table
+2019-06-08 23:18:55.537328	twitter	add_to_cart	house
+2019-06-08 23:18:55.537430	bing	purchase	wheet
+2019-06-08 23:18:55.537533	twitter	purchase	shirt
+2019-06-08 23:18:55.537634	google	purchase	pants
+2019-06-08 23:18:55.537736	bing	page_view	water
+2019-06-08 23:18:55.537838	yahoo	purchase	rocket fire
+2019-06-08 23:18:55.537939	bing	add_to_cart	water
+2019-06-08 23:18:55.538040	yahoo	page_view	steak
+2019-06-08 23:18:55.538142	facebook	page_view	bruhkfest
+2019-06-08 23:18:55.538246	bing	page_view	rocket fire
+2019-06-08 23:18:55.538347	facebook	page_view	chicken
+2019-06-08 23:18:55.538466	twitter	add_to_cart	shirt
+2019-06-08 23:18:55.538640	google	page_view	shirt
+2019-06-08 23:18:55.538835	yahoo	page_view	chardonei
+2019-06-08 23:18:55.538941	google	page_view	steak
+2019-06-08 23:18:55.539043	bing	page_view	sword
+2019-06-08 23:18:55.539149	twitter	page_view	rug
+2019-06-08 23:18:55.539248	facebook	purchase	pants
+2019-06-08 23:18:55.539360	bing	add_to_cart	chardonei
+2019-06-08 23:18:55.539509	yahoo	add_to_cart	fire rocket
+2019-06-08 23:18:55.539739	facebook	purchase	water
+2019-06-08 23:18:55.539858	bing	add_to_cart	chair
+2019-06-08 23:18:55.540100	bing	purchase	bruhkfest
+2019-06-08 23:18:55.540225	yahoo	page_view	chicken
+2019-06-08 23:18:55.540338	facebook	purchase	flour
+2019-06-08 23:18:55.540447	yahoo	page_view	chair
+2019-06-08 23:18:55.540556	bing	page_view	wine
+2019-06-08 23:18:55.540662	facebook	purchase	rug
+2019-06-08 23:18:55.540768	twitter	page_view	chair
+2019-06-08 23:18:55.540874	google	page_view	axe
+2019-06-08 23:18:55.540990	bing	purchase	house
+2019-06-08 23:18:55.541096	yahoo	page_view	pants
+2019-06-08 23:18:55.541200	bing	purchase	werehouse
+2019-06-08 23:18:55.541306	google	purchase	rocket fire
+2019-06-08 23:18:55.541411	bing	purchase	water
+2019-06-08 23:18:55.541516	twitter	add_to_cart	coat
+2019-06-08 23:18:55.541620	facebook	purchase	shirt
+2019-06-08 23:18:55.541727	google	add_to_cart	chicken
+2019-06-08 23:18:55.541832	bing	purchase	chicken
+2019-06-08 23:18:55.541937	twitter	page_view	werehouse
+2019-06-08 23:18:55.542042	bing	purchase	table
+2019-06-08 23:18:55.542146	facebook	page_view	werehouse
+2019-06-08 23:18:55.542251	google	page_view	table
+2019-06-08 23:18:55.542355	google	purchase	water
+2019-06-08 23:18:55.542468	google	page_view	fire rocket
+2019-06-08 23:18:55.542573	facebook	purchase	fire rocket
+2019-06-08 23:18:55.542678	twitter	purchase	werehouse
+2019-06-08 23:18:55.542784	twitter	page_view	a table
+2019-06-08 23:18:55.542887	twitter	add_to_cart	werehouse
+2019-06-08 23:18:55.542992	twitter	add_to_cart	flour
+2019-06-08 23:18:55.543123	google	page_view	wine
+2019-06-08 23:18:55.543230	yahoo	add_to_cart	shirt
+2019-06-08 23:18:55.543330	twitter	purchase	not water
+2019-06-08 23:18:55.543429	facebook	page_view	steak
+2019-06-08 23:18:55.543527	yahoo	add_to_cart	chardonei
+2019-06-08 23:18:55.543625	google	purchase	boots
+2019-06-08 23:18:55.543724	twitter	add_to_cart	chicken
+2019-06-08 23:18:55.543823	twitter	page_view	flour
+2019-06-08 23:18:55.543923	facebook	add_to_cart	wine
+2019-06-08 23:18:55.544020	twitter	page_view	fire rocket
+2019-06-08 23:18:55.544118	bing	purchase	axe
+2019-06-08 23:18:55.544218	twitter	page_view	rug
+2019-06-08 23:18:55.544316	google	purchase	coat
+2019-06-08 23:18:55.544412	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.544509	twitter	page_view	table
+2019-06-08 23:18:55.544615	bing	add_to_cart	coat
+2019-06-08 23:18:55.544714	facebook	purchase	wheet
+2019-06-08 23:18:55.544840	google	purchase	water
+2019-06-08 23:18:55.544966	google	page_view	coat
+2019-06-08 23:18:55.545134	bing	purchase	bruhkfest
+2019-06-08 23:18:55.545241	bing	page_view	chair
+2019-06-08 23:18:55.545412	yahoo	purchase	fire rocket
+2019-06-08 23:18:55.545519	twitter	add_to_cart	wheet
+2019-06-08 23:18:55.545622	bing	purchase	sword
+2019-06-08 23:18:55.545732	facebook	page_view	bread
+2019-06-08 23:18:55.545834	facebook	page_view	wine
+2019-06-08 23:18:55.545938	twitter	add_to_cart	axe
+2019-06-08 23:18:55.546042	yahoo	add_to_cart	house
+2019-06-08 23:18:55.546145	twitter	purchase	chicken
+2019-06-08 23:18:55.546248	twitter	page_view	water
+2019-06-08 23:18:55.546350	yahoo	page_view	rocket fire
+2019-06-08 23:18:55.546452	twitter	page_view	bruhkfest
+2019-06-08 23:18:55.546554	bing	purchase	rug
+2019-06-08 23:18:55.546655	twitter	purchase	sword
+2019-06-08 23:18:55.546763	bing	purchase	water
+2019-06-08 23:18:55.546865	yahoo	add_to_cart	pants
+2019-06-08 23:18:55.546966	bing	page_view	sword
+2019-06-08 23:18:55.547068	google	purchase	pants
+2019-06-08 23:18:55.547169	bing	add_to_cart	house
+2019-06-08 23:18:55.547271	bing	add_to_cart	not water
+2019-06-08 23:18:55.547373	bing	page_view	wine
+2019-06-08 23:18:55.547478	yahoo	page_view	sword
+2019-06-08 23:18:55.547579	google	add_to_cart	werehouse
+2019-06-08 23:18:55.547680	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.547781	google	purchase	house
+2019-06-08 23:18:55.547884	google	add_to_cart	table
+2019-06-08 23:18:55.547986	google	purchase	rug
+2019-06-08 23:18:55.548087	twitter	add_to_cart	pants
+2019-06-08 23:18:55.548191	google	add_to_cart	sword
+2019-06-08 23:18:55.548292	google	purchase	chicken
+2019-06-08 23:18:55.548393	twitter	purchase	wheet
+2019-06-08 23:18:55.548495	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.548597	google	purchase	sword
+2019-06-08 23:18:55.548698	twitter	add_to_cart	pants
+2019-06-08 23:18:55.548800	twitter	page_view	wine
+2019-06-08 23:18:55.548912	bing	add_to_cart	chair
+2019-06-08 23:18:55.549014	bing	add_to_cart	pants
+2019-06-08 23:18:55.549114	yahoo	add_to_cart	flour
+2019-06-08 23:18:55.549215	google	add_to_cart	a table
+2019-06-08 23:18:55.549316	twitter	page_view	house
+2019-06-08 23:18:55.549417	twitter	page_view	sword
+2019-06-08 23:18:55.549518	twitter	page_view	bread
+2019-06-08 23:18:55.549671	yahoo	add_to_cart	rug
+2019-06-08 23:18:55.549780	google	add_to_cart	a table
+2019-06-08 23:18:55.550007	facebook	purchase	sword
+2019-06-08 23:18:55.550123	facebook	add_to_cart	pants
+2019-06-08 23:18:55.550229	yahoo	add_to_cart	not water
+2019-06-08 23:18:55.550330	yahoo	page_view	wine
+2019-06-08 23:18:55.550430	yahoo	page_view	pants
+2019-06-08 23:18:55.550531	twitter	purchase	chair
+2019-06-08 23:18:55.550630	google	add_to_cart	bread
+2019-06-08 23:18:55.550729	google	page_view	flour
+2019-06-08 23:18:55.550828	facebook	add_to_cart	flour
+2019-06-08 23:18:55.550926	twitter	page_view	house
+2019-06-08 23:18:55.551024	facebook	add_to_cart	axe
+2019-06-08 23:18:55.551121	facebook	add_to_cart	steak
+2019-06-08 23:18:55.551222	google	add_to_cart	shirt
+2019-06-08 23:18:55.551322	yahoo	purchase	chardonei
+2019-06-08 23:18:55.551422	google	page_view	house
+2019-06-08 23:18:55.551520	bing	add_to_cart	water
+2019-06-08 23:18:55.551619	bing	add_to_cart	water
+2019-06-08 23:18:55.551718	yahoo	purchase	axe
+2019-06-08 23:18:55.551817	google	add_to_cart	bread
+2019-06-08 23:18:55.551917	facebook	add_to_cart	axe
+2019-06-08 23:18:55.552017	bing	purchase	flour
+2019-06-08 23:18:55.552115	facebook	page_view	table
+2019-06-08 23:18:55.552213	yahoo	add_to_cart	water
+2019-06-08 23:18:55.552311	facebook	purchase	chair
+2019-06-08 23:18:55.552410	bing	add_to_cart	sword
+2019-06-08 23:18:55.552508	facebook	add_to_cart	not water
+2019-06-08 23:18:55.552613	twitter	purchase	pants
+2019-06-08 23:18:55.552711	facebook	page_view	water
+2019-06-08 23:18:55.552810	bing	add_to_cart	sword
+2019-06-08 23:18:55.552907	bing	page_view	chicken
+2019-06-08 23:18:55.553007	facebook	purchase	fire rocket
+2019-06-08 23:18:55.553106	bing	page_view	bruhkfest
+2019-06-08 23:18:55.553204	facebook	purchase	werehouse
+2019-06-08 23:18:55.553304	yahoo	add_to_cart	chicken
+2019-06-08 23:18:55.553403	bing	purchase	not water
+2019-06-08 23:18:55.553500	google	add_to_cart	not water
+2019-06-08 23:18:55.553598	twitter	page_view	fire rocket
+2019-06-08 23:18:55.553763	facebook	page_view	pants
+2019-06-08 23:18:55.553866	facebook	page_view	water
+2019-06-08 23:18:55.553978	twitter	page_view	werehouse
+2019-06-08 23:18:55.554079	facebook	purchase	a table
+2019-06-08 23:18:55.554181	google	add_to_cart	a table
+2019-06-08 23:18:55.554283	bing	add_to_cart	rocket fire
+2019-06-08 23:18:55.554384	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.554485	yahoo	page_view	flour
+2019-06-08 23:18:55.554586	facebook	add_to_cart	not water
+2019-06-08 23:18:55.554689	google	add_to_cart	wine
+2019-06-08 23:18:55.554789	yahoo	purchase	table
+2019-06-08 23:18:55.554891	google	add_to_cart	a table
+2019-06-08 23:18:55.554992	twitter	page_view	wine
+2019-06-08 23:18:55.555093	google	page_view	chicken
+2019-06-08 23:18:55.555194	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.555295	twitter	add_to_cart	a table
+2019-06-08 23:18:55.555398	google	add_to_cart	boots
+2019-06-08 23:18:55.555500	bing	purchase	chicken
+2019-06-08 23:18:55.555602	yahoo	add_to_cart	house
+2019-06-08 23:18:55.555702	facebook	purchase	wheet
+2019-06-08 23:18:55.555804	bing	purchase	fire rocket
+2019-06-08 23:18:55.555906	google	page_view	coat
+2019-06-08 23:18:55.556007	facebook	purchase	bread
+2019-06-08 23:18:55.556110	google	add_to_cart	wheet
+2019-06-08 23:18:55.556210	bing	page_view	not water
+2019-06-08 23:18:55.556312	google	page_view	a table
+2019-06-08 23:18:55.556412	facebook	add_to_cart	sword
+2019-06-08 23:18:55.556514	bing	page_view	bruhkfest
+2019-06-08 23:18:55.556614	twitter	add_to_cart	coat
+2019-06-08 23:18:55.556716	yahoo	add_to_cart	boots
+2019-06-08 23:18:55.556820	yahoo	purchase	flour
+2019-06-08 23:18:55.556921	yahoo	page_view	werehouse
+2019-06-08 23:18:55.557022	bing	add_to_cart	wheet
+2019-06-08 23:18:55.557123	yahoo	page_view	boots
+2019-06-08 23:18:55.557224	twitter	add_to_cart	a table
+2019-06-08 23:18:55.557325	bing	add_to_cart	flour
+2019-06-08 23:18:55.557426	twitter	purchase	coat
+2019-06-08 23:18:55.557530	bing	purchase	bruhkfest
+2019-06-08 23:18:55.557631	yahoo	add_to_cart	pants
+2019-06-08 23:18:55.557733	facebook	add_to_cart	rug
+2019-06-08 23:18:55.557835	yahoo	page_view	steak
+2019-06-08 23:18:55.557936	facebook	add_to_cart	not water
+2019-06-08 23:18:55.558036	twitter	add_to_cart	pants
+2019-06-08 23:18:55.558138	bing	purchase	steak
+2019-06-08 23:18:55.558241	twitter	purchase	wheet
+2019-06-08 23:18:55.558342	google	purchase	coat
+2019-06-08 23:18:55.558442	facebook	add_to_cart	coat
+2019-06-08 23:18:55.558544	google	add_to_cart	steak
+2019-06-08 23:18:55.558644	yahoo	purchase	steak
+2019-06-08 23:18:55.558746	facebook	add_to_cart	water
+2019-06-08 23:18:55.558847	twitter	page_view	wine
+2019-06-08 23:18:55.558960	facebook	purchase	bruhkfest
+2019-06-08 23:18:55.559060	facebook	page_view	axe
+2019-06-08 23:18:55.559161	bing	purchase	coat
+2019-06-08 23:18:55.559262	bing	page_view	wheet
+2019-06-08 23:18:55.559364	twitter	add_to_cart	fire rocket
+2019-06-08 23:18:55.559464	bing	page_view	boots
+2019-06-08 23:18:55.559565	bing	purchase	house
+2019-06-08 23:18:55.559668	facebook	purchase	chicken
+2019-06-08 23:18:55.559768	twitter	purchase	bruhkfest
+2019-06-08 23:18:55.559931	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.560067	bing	add_to_cart	chicken
+2019-06-08 23:18:55.560232	twitter	page_view	fire rocket
+2019-06-08 23:18:55.560344	twitter	add_to_cart	axe
+2019-06-08 23:18:55.560452	bing	page_view	rocket fire
+2019-06-08 23:18:55.560560	bing	add_to_cart	werehouse
+2019-06-08 23:18:55.560664	twitter	add_to_cart	coat
+2019-06-08 23:18:55.560768	twitter	purchase	fire rocket
+2019-06-08 23:18:55.560870	google	page_view	shirt
+2019-06-08 23:18:55.560974	google	add_to_cart	not water
+2019-06-08 23:18:55.561078	yahoo	page_view	chicken
+2019-06-08 23:18:55.561182	google	purchase	not water
+2019-06-08 23:18:55.561288	twitter	page_view	sword
+2019-06-08 23:18:55.561393	google	add_to_cart	werehouse
+2019-06-08 23:18:55.561498	bing	purchase	werehouse
+2019-06-08 23:18:55.561603	bing	page_view	chicken
+2019-06-08 23:18:55.561706	bing	purchase	chardonei
+2019-06-08 23:18:55.561810	facebook	purchase	pants
+2019-06-08 23:18:55.561914	facebook	page_view	chair
+2019-06-08 23:18:55.562088	facebook	add_to_cart	coat
+2019-06-08 23:18:55.562195	google	page_view	a table
+2019-06-08 23:18:55.562300	bing	page_view	not water
+2019-06-08 23:18:55.562405	google	add_to_cart	rug
+2019-06-08 23:18:55.562509	yahoo	page_view	wheet
+2019-06-08 23:18:55.562613	facebook	add_to_cart	a table
+2019-06-08 23:18:55.562724	yahoo	purchase	werehouse
+2019-06-08 23:18:55.562828	bing	add_to_cart	sword
+2019-06-08 23:18:55.562933	twitter	page_view	shirt
+2019-06-08 23:18:55.563036	google	page_view	boots
+2019-06-08 23:18:55.563140	twitter	page_view	water
+2019-06-08 23:18:55.563245	google	page_view	axe
+2019-06-08 23:18:55.563348	facebook	page_view	boots
+2019-06-08 23:18:55.563464	facebook	purchase	flour
+2019-06-08 23:18:55.563568	twitter	page_view	chair
+2019-06-08 23:18:55.563672	google	add_to_cart	coat
+2019-06-08 23:18:55.563776	bing	purchase	rug
+2019-06-08 23:18:55.563881	bing	add_to_cart	chardonei
+2019-06-08 23:18:55.563986	twitter	purchase	flour
+2019-06-08 23:18:55.564093	twitter	page_view	house
+2019-06-08 23:18:55.564204	bing	add_to_cart	fire rocket
+2019-06-08 23:18:55.564308	bing	page_view	coat
+2019-06-08 23:18:55.564413	yahoo	add_to_cart	werehouse
+2019-06-08 23:18:55.564516	twitter	purchase	axe
+2019-06-08 23:18:55.564620	yahoo	purchase	chicken
+2019-06-08 23:18:55.564724	yahoo	page_view	water
+2019-06-08 23:18:55.564828	google	page_view	chair
+2019-06-08 23:18:55.564934	google	add_to_cart	not water
+2019-06-08 23:18:55.565038	facebook	add_to_cart	fire rocket
+2019-06-08 23:18:55.565143	bing	page_view	rocket fire
+2019-06-08 23:18:55.565246	google	purchase	flour
+2019-06-08 23:18:55.565349	twitter	add_to_cart	wheet
+2019-06-08 23:18:55.565453	google	page_view	pants
+2019-06-08 23:18:55.565557	twitter	add_to_cart	axe
+2019-06-08 23:18:55.565662	google	add_to_cart	axe
+2019-06-08 23:18:55.565766	facebook	purchase	axe
+2019-06-08 23:18:55.565869	bing	page_view	not water
+2019-06-08 23:18:55.565972	google	purchase	chicken
+2019-06-08 23:18:55.566076	bing	page_view	axe
+2019-06-08 23:18:55.566179	yahoo	purchase	wine
+2019-06-08 23:18:55.566283	facebook	page_view	table
+2019-06-08 23:18:55.566391	facebook	page_view	chardonei
+2019-06-08 23:18:55.566495	twitter	purchase	rug
+2019-06-08 23:18:55.566599	facebook	page_view	rocket fire
+2019-06-08 23:18:55.566703	twitter	page_view	rocket fire
+2019-06-08 23:18:55.566806	facebook	purchase	house
+2019-06-08 23:18:55.566910	google	add_to_cart	table
+2019-06-08 23:18:55.567014	yahoo	add_to_cart	fire rocket
+2019-06-08 23:18:55.567120	bing	add_to_cart	wine
+2019-06-08 23:18:55.567224	facebook	add_to_cart	werehouse
+2019-06-08 23:18:55.567328	google	page_view	bread
+2019-06-08 23:18:55.567433	google	page_view	flour
+2019-06-08 23:18:55.567536	google	purchase	not water
+2019-06-08 23:18:55.567639	bing	purchase	werehouse
+2019-06-08 23:18:55.567743	twitter	page_view	a table
+2019-06-08 23:18:55.567849	twitter	add_to_cart	bread
+2019-06-08 23:18:55.567952	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.568055	yahoo	page_view	chair
+2019-06-08 23:18:55.568160	facebook	page_view	wine
+2019-06-08 23:18:55.568263	twitter	purchase	coat
+2019-06-08 23:18:55.568367	yahoo	purchase	chicken
+2019-06-08 23:18:55.568470	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.568578	bing	page_view	chardonei
+2019-06-08 23:18:55.568682	facebook	add_to_cart	water
+2019-06-08 23:18:55.568784	bing	add_to_cart	coat
+2019-06-08 23:18:55.568887	yahoo	add_to_cart	fire rocket
+2019-06-08 23:18:55.568990	google	page_view	chicken
+2019-06-08 23:18:55.569094	bing	add_to_cart	water
+2019-06-08 23:18:55.569198	twitter	purchase	flour
+2019-06-08 23:18:55.569303	twitter	page_view	axe
+2019-06-08 23:18:55.569406	twitter	add_to_cart	coat
+2019-06-08 23:18:55.569509	facebook	purchase	not water
+2019-06-08 23:18:55.569614	twitter	purchase	rocket fire
+2019-06-08 23:18:55.569716	bing	page_view	water
+2019-06-08 23:18:55.569819	yahoo	page_view	chicken
+2019-06-08 23:18:55.569923	google	add_to_cart	fire rocket
+2019-06-08 23:18:55.570029	facebook	add_to_cart	house
+2019-06-08 23:18:55.570133	bing	add_to_cart	chair
+2019-06-08 23:18:55.570240	facebook	page_view	house
+2019-06-08 23:18:55.570344	yahoo	add_to_cart	pants
+2019-06-08 23:18:55.570510	facebook	page_view	water
+2019-06-08 23:18:55.570615	bing	purchase	table
+2019-06-08 23:18:55.570722	twitter	page_view	pants
+2019-06-08 23:18:55.570826	facebook	purchase	rug
+2019-06-08 23:18:55.570930	twitter	add_to_cart	water
+2019-06-08 23:18:55.571075	twitter	page_view	rug
+2019-06-08 23:18:55.571191	yahoo	add_to_cart	rug
+2019-06-08 23:18:55.571427	google	add_to_cart	bread
+2019-06-08 23:18:55.571547	facebook	add_to_cart	steak
+2019-06-08 23:18:55.571749	yahoo	purchase	axe
+2019-06-08 23:18:55.571856	twitter	purchase	fire rocket
+2019-06-08 23:18:55.571960	yahoo	add_to_cart	chicken
+2019-06-08 23:18:55.572062	bing	page_view	not water
+2019-06-08 23:18:55.572164	twitter	page_view	coat
+2019-06-08 23:18:55.572265	bing	add_to_cart	rug
+2019-06-08 23:18:55.572365	twitter	purchase	water
+2019-06-08 23:18:55.572477	bing	page_view	steak
+2019-06-08 23:18:55.572578	google	add_to_cart	wheet
+2019-06-08 23:18:55.572679	google	add_to_cart	chicken
+2019-06-08 23:18:55.572779	bing	page_view	chardonei
+2019-06-08 23:18:55.572881	twitter	add_to_cart	werehouse
+2019-06-08 23:18:55.572983	google	page_view	boots
+2019-06-08 23:18:55.573085	facebook	add_to_cart	wine
+2019-06-08 23:18:55.573187	bing	purchase	flour
+2019-06-08 23:18:55.573289	facebook	page_view	steak
+2019-06-08 23:18:55.573391	yahoo	purchase	wheet
+2019-06-08 23:18:55.573492	twitter	page_view	steak
+2019-06-08 23:18:55.573594	yahoo	page_view	bread
+2019-06-08 23:18:55.573695	yahoo	add_to_cart	rug
+2019-06-08 23:18:55.573797	twitter	purchase	flour
+2019-06-08 23:18:55.573901	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.574002	bing	add_to_cart	axe
+2019-06-08 23:18:55.574104	google	page_view	axe
+2019-06-08 23:18:55.574205	yahoo	add_to_cart	table
+2019-06-08 23:18:55.574305	twitter	page_view	table
+2019-06-08 23:18:55.574438	twitter	purchase	a table
+2019-06-08 23:18:55.574606	bing	page_view	water
+2019-06-08 23:18:55.574900	twitter	add_to_cart	boots
+2019-06-08 23:18:55.575047	google	add_to_cart	werehouse
+2019-06-08 23:18:55.575294	twitter	purchase	water
+2019-06-08 23:18:55.575409	yahoo	page_view	chardonei
+2019-06-08 23:18:55.575595	google	add_to_cart	steak
+2019-06-08 23:18:55.575711	twitter	purchase	a table
+2019-06-08 23:18:55.575820	twitter	page_view	sword
+2019-06-08 23:18:55.575948	facebook	purchase	chardonei
+2019-06-08 23:18:55.576071	facebook	page_view	shirt
+2019-06-08 23:18:55.576223	google	add_to_cart	fire rocket
+2019-06-08 23:18:55.576441	twitter	page_view	wheet
+2019-06-08 23:18:55.576582	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.576696	bing	purchase	coat
+2019-06-08 23:18:55.576806	google	add_to_cart	bruhkfest
+2019-06-08 23:18:55.576947	facebook	add_to_cart	chicken
+2019-06-08 23:18:55.577056	google	add_to_cart	chardonei
+2019-06-08 23:18:55.577164	facebook	purchase	fire rocket
+2019-06-08 23:18:55.577271	google	purchase	a table
+2019-06-08 23:18:55.577427	yahoo	purchase	boots
+2019-06-08 23:18:55.577536	yahoo	page_view	steak
+2019-06-08 23:18:55.577705	bing	purchase	bruhkfest
+2019-06-08 23:18:55.577813	twitter	purchase	pants
+2019-06-08 23:18:55.577918	yahoo	add_to_cart	wine
+2019-06-08 23:18:55.578021	google	purchase	water
+2019-06-08 23:18:55.578125	google	add_to_cart	rug
+2019-06-08 23:18:55.578229	bing	add_to_cart	table
+2019-06-08 23:18:55.578332	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.578436	google	purchase	boots
+2019-06-08 23:18:55.578541	yahoo	purchase	bruhkfest
+2019-06-08 23:18:55.578645	google	add_to_cart	chair
+2019-06-08 23:18:55.578749	yahoo	purchase	bread
+2019-06-08 23:18:55.578853	twitter	purchase	wine
+2019-06-08 23:18:55.578957	twitter	purchase	water
+2019-06-08 23:18:55.579061	twitter	add_to_cart	sword
+2019-06-08 23:18:55.579165	bing	add_to_cart	chair
+2019-06-08 23:18:55.579270	yahoo	add_to_cart	chardonei
+2019-06-08 23:18:55.579374	facebook	page_view	not water
+2019-06-08 23:18:55.579477	google	page_view	bruhkfest
+2019-06-08 23:18:55.579580	twitter	page_view	table
+2019-06-08 23:18:55.579684	google	add_to_cart	not water
+2019-06-08 23:18:55.579789	twitter	add_to_cart	rug
+2019-06-08 23:18:55.579892	yahoo	purchase	shirt
+2019-06-08 23:18:55.580080	yahoo	add_to_cart	wheet
+2019-06-08 23:18:55.580186	facebook	page_view	bruhkfest
+2019-06-08 23:18:55.580291	twitter	page_view	wine
+2019-06-08 23:18:55.580395	yahoo	page_view	pants
+2019-06-08 23:18:55.580500	yahoo	add_to_cart	house
+2019-06-08 23:18:55.580605	google	purchase	a table
+2019-06-08 23:18:55.580714	yahoo	purchase	water
+2019-06-08 23:18:55.580818	facebook	page_view	fire rocket
+2019-06-08 23:18:55.580922	google	purchase	sword
+2019-06-08 23:18:55.581025	twitter	add_to_cart	wheet
+2019-06-08 23:18:55.581128	facebook	add_to_cart	werehouse
+2019-06-08 23:18:55.581270	facebook	add_to_cart	water
+2019-06-08 23:18:55.581390	twitter	purchase	sword
+2019-06-08 23:18:55.581625	twitter	page_view	not water
+2019-06-08 23:18:55.581747	bing	page_view	rocket fire
+2019-06-08 23:18:55.581952	twitter	add_to_cart	pants
+2019-06-08 23:18:55.582058	twitter	page_view	sword
+2019-06-08 23:18:55.582162	yahoo	purchase	chardonei
+2019-06-08 23:18:55.582265	twitter	purchase	chicken
+2019-06-08 23:18:55.582367	yahoo	purchase	wine
+2019-06-08 23:18:55.582470	facebook	purchase	rocket fire
+2019-06-08 23:18:55.582571	twitter	add_to_cart	rocket fire
+2019-06-08 23:18:55.582672	google	purchase	steak
+2019-06-08 23:18:55.582772	bing	purchase	wheet
+2019-06-08 23:18:55.582873	yahoo	add_to_cart	bread
+2019-06-08 23:18:55.582974	yahoo	page_view	fire rocket
+2019-06-08 23:18:55.583075	facebook	purchase	wheet
+2019-06-08 23:18:55.583178	google	purchase	flour
+2019-06-08 23:18:55.583280	google	page_view	sword
+2019-06-08 23:18:55.583382	twitter	purchase	house
+2019-06-08 23:18:55.583483	yahoo	add_to_cart	shirt
+2019-06-08 23:18:55.583583	twitter	purchase	sword
+2019-06-08 23:18:55.583684	twitter	page_view	chair
+2019-06-08 23:18:55.583785	bing	purchase	a table
+2019-06-08 23:18:55.583888	yahoo	purchase	axe
+2019-06-08 23:18:55.583989	facebook	page_view	fire rocket
+2019-06-08 23:18:55.584090	facebook	purchase	shirt
+2019-06-08 23:18:55.584191	yahoo	page_view	coat
+2019-06-08 23:18:55.584318	bing	add_to_cart	sword
+2019-06-08 23:18:55.584420	facebook	add_to_cart	chair
+2019-06-08 23:18:55.584521	twitter	purchase	house
+2019-06-08 23:18:55.584623	bing	add_to_cart	fire rocket
+2019-06-08 23:18:55.584724	yahoo	add_to_cart	chair
+2019-06-08 23:18:55.584825	bing	purchase	chicken
+2019-06-08 23:18:55.584925	bing	page_view	rug
+2019-06-08 23:18:55.585026	twitter	add_to_cart	house
+2019-06-08 23:18:55.585126	google	purchase	bruhkfest
+2019-06-08 23:18:55.585227	google	page_view	bread
+2019-06-08 23:18:55.585329	twitter	page_view	chair
+2019-06-08 23:18:55.585430	yahoo	page_view	table
+2019-06-08 23:18:55.585531	facebook	page_view	rocket fire
+2019-06-08 23:18:55.585632	google	page_view	shirt
+2019-06-08 23:18:55.585733	google	add_to_cart	bruhkfest
+2019-06-08 23:18:55.585833	facebook	page_view	sword
+2019-06-08 23:18:55.585934	facebook	purchase	bread
+2019-06-08 23:18:55.586037	bing	purchase	table
+2019-06-08 23:18:55.586137	twitter	purchase	coat
+2019-06-08 23:18:55.586239	yahoo	add_to_cart	pants
+2019-06-08 23:18:55.586340	twitter	purchase	chardonei
+2019-06-08 23:18:55.586440	facebook	page_view	axe
+2019-06-08 23:18:55.586541	bing	page_view	bruhkfest
+2019-06-08 23:18:55.586642	google	page_view	wine
+2019-06-08 23:18:55.586745	bing	add_to_cart	a table
+2019-06-08 23:18:55.586845	google	add_to_cart	table
+2019-06-08 23:18:55.586946	yahoo	page_view	flour
+2019-06-08 23:18:55.587046	twitter	add_to_cart	flour
+2019-06-08 23:18:55.587147	google	page_view	flour
+2019-06-08 23:18:55.587249	facebook	purchase	pants
+2019-06-08 23:18:55.587351	twitter	page_view	coat
+2019-06-08 23:18:55.587453	bing	purchase	wine
+2019-06-08 23:18:55.587554	facebook	page_view	flour
+2019-06-08 23:18:55.587654	google	purchase	sword
+2019-06-08 23:18:55.587785	google	purchase	rug
+2019-06-08 23:18:55.587887	bing	page_view	pants
+2019-06-08 23:18:55.588080	bing	add_to_cart	bruhkfest
+2019-06-08 23:18:55.588236	twitter	page_view	bread
+2019-06-08 23:18:55.588465	twitter	page_view	fire rocket
+2019-06-08 23:18:55.588577	google	add_to_cart	fire rocket
+2019-06-08 23:18:55.588683	twitter	add_to_cart	coat
+2019-06-08 23:18:55.588789	twitter	purchase	a table
+2019-06-08 23:18:55.588966	google	page_view	chardonei
+2019-06-08 23:18:55.589073	bing	add_to_cart	rug
+2019-06-08 23:18:55.589180	facebook	purchase	pants
+2019-06-08 23:18:55.589285	twitter	add_to_cart	steak
+2019-06-08 23:18:55.589388	yahoo	purchase	shirt
+2019-06-08 23:18:55.589489	twitter	add_to_cart	bruhkfest
+2019-06-08 23:18:55.589591	google	add_to_cart	bread
+2019-06-08 23:18:55.589695	facebook	add_to_cart	rocket fire
+2019-06-08 23:18:55.589799	yahoo	purchase	not water
+2019-06-08 23:18:55.589905	google	purchase	shirt
+2019-06-08 23:18:55.590009	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.590113	facebook	add_to_cart	flour
+2019-06-08 23:18:55.590217	google	purchase	boots
+2019-06-08 23:18:55.590320	bing	purchase	wine
+2019-06-08 23:18:55.590424	yahoo	purchase	rug
+2019-06-08 23:18:55.590528	bing	page_view	sword
+2019-06-08 23:18:55.590633	google	add_to_cart	coat
+2019-06-08 23:18:55.590737	yahoo	add_to_cart	boots
+2019-06-08 23:18:55.590841	google	purchase	axe
+2019-06-08 23:18:55.590945	bing	add_to_cart	chardonei
+2019-06-08 23:18:55.591049	yahoo	purchase	sword
+2019-06-08 23:18:55.591153	twitter	page_view	flour
+2019-06-08 23:18:55.591256	twitter	purchase	chicken
+2019-06-08 23:18:55.591367	google	page_view	rug
+2019-06-08 23:18:55.591532	google	add_to_cart	a table
+2019-06-08 23:18:55.591643	yahoo	page_view	chair
+2019-06-08 23:18:55.591867	facebook	page_view	rug
+2019-06-08 23:18:55.591986	twitter	add_to_cart	flour
+2019-06-08 23:18:55.592112	twitter	add_to_cart	shirt
+2019-06-08 23:18:55.592218	facebook	page_view	wine
+2019-06-08 23:18:55.592323	google	add_to_cart	boots
+2019-06-08 23:18:55.592426	google	add_to_cart	table
+2019-06-08 23:18:55.592527	bing	page_view	axe
+2019-06-08 23:18:55.592629	yahoo	add_to_cart	bruhkfest
+2019-06-08 23:18:55.592728	yahoo	add_to_cart	water
+2019-06-08 23:18:55.592827	google	page_view	chair
+2019-06-08 23:18:55.592927	twitter	page_view	steak
+2019-06-08 23:18:55.593029	yahoo	page_view	wheet
+2019-06-08 23:18:55.593130	google	add_to_cart	chardonei
+2019-06-08 23:18:55.593232	google	page_view	a table
+2019-06-08 23:18:55.593334	google	purchase	boots
+2019-06-08 23:18:55.593435	google	purchase	chardonei
+2019-06-08 23:18:55.593537	yahoo	add_to_cart	shirt
+2019-06-08 23:18:55.593638	twitter	purchase	a table
+2019-06-08 23:18:55.593741	google	page_view	rocket fire

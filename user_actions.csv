@@ -1,0 +1,1001 @@
+,timestamp,referrer,product,action
+0,2019-06-08 20:16:23.921250,  yahoo, sword,purchase
+1,2019-06-08 20:16:23.921272,  twitter, house,purchase
+2,2019-06-08 20:16:23.921279, bing, chardonei,purchase
+3,2019-06-08 20:16:23.921285,  twitter, rocket fire,purchase
+4,2019-06-08 20:16:23.921291,  twitter,water,purchase
+5,2019-06-08 20:16:23.921297,facebook, rocket fire, page_view
+6,2019-06-08 20:16:23.921303,  google, bruhkfest, page_view
+7,2019-06-08 20:16:23.921309,facebook, axe, add_to_cart
+8,2019-06-08 20:16:23.921316,  google, table, page_view
+9,2019-06-08 20:16:23.921322,  google, rocket fire,purchase
+10,2019-06-08 20:16:23.921328, bing, steak, add_to_cart
+11,2019-06-08 20:16:23.921334,  twitter, a table, add_to_cart
+12,2019-06-08 20:16:23.921340,facebook, not water, add_to_cart
+13,2019-06-08 20:16:23.921346,  google, wheet, add_to_cart
+14,2019-06-08 20:16:23.921351,  google, fire rocket, add_to_cart
+15,2019-06-08 20:16:23.921357,  yahoo, rocket fire, page_view
+16,2019-06-08 20:16:23.921363,  yahoo, bruhkfest,purchase
+17,2019-06-08 20:16:23.921369,  twitter, boots,purchase
+18,2019-06-08 20:16:23.921375,facebook, bruhkfest, page_view
+19,2019-06-08 20:16:23.921381,facebook, chardonei,purchase
+20,2019-06-08 20:16:23.921387,  yahoo, table,purchase
+21,2019-06-08 20:16:23.921393,  yahoo, wheet, add_to_cart
+22,2019-06-08 20:16:23.921399, bing, fire rocket, page_view
+23,2019-06-08 20:16:23.921405,  google, chicken,purchase
+24,2019-06-08 20:16:23.921411,  twitter, axe, page_view
+25,2019-06-08 20:16:23.921416,  twitter, rug, add_to_cart
+26,2019-06-08 20:16:23.921422,  google, chicken, add_to_cart
+27,2019-06-08 20:16:23.921429,  yahoo, sword, page_view
+28,2019-06-08 20:16:23.921434,  yahoo, rocket fire, add_to_cart
+29,2019-06-08 20:16:23.921440, bing, rug, page_view
+30,2019-06-08 20:16:23.921445,  google, boots, page_view
+31,2019-06-08 20:16:23.921451, bing, shirt, page_view
+32,2019-06-08 20:16:23.921457,  google, chair,purchase
+33,2019-06-08 20:16:23.921463,  twitter, boots, page_view
+34,2019-06-08 20:16:23.921469, bing, sword, add_to_cart
+35,2019-06-08 20:16:23.921475,  google, shirt,purchase
+36,2019-06-08 20:16:23.921481,facebook, pants,purchase
+37,2019-06-08 20:16:23.921487,  yahoo, a table,purchase
+38,2019-06-08 20:16:23.921493,  twitter, rug, page_view
+39,2019-06-08 20:16:23.921499,  yahoo, wheet,purchase
+40,2019-06-08 20:16:23.921504,  google, bread, add_to_cart
+41,2019-06-08 20:16:23.921511, bing, not water, add_to_cart
+42,2019-06-08 20:16:23.921516,  yahoo, pants, page_view
+43,2019-06-08 20:16:23.921522,facebook, fire rocket, add_to_cart
+44,2019-06-08 20:16:23.921528,  google, chair,purchase
+45,2019-06-08 20:16:23.921534,  yahoo, bruhkfest, page_view
+46,2019-06-08 20:16:23.921539,facebook, steak,purchase
+47,2019-06-08 20:16:23.921545,  google, bruhkfest, add_to_cart
+48,2019-06-08 20:16:23.921551,facebook,water, page_view
+49,2019-06-08 20:16:23.921556, bing, house, add_to_cart
+50,2019-06-08 20:16:23.921562,  twitter, steak, page_view
+51,2019-06-08 20:16:23.921568,  yahoo, axe,purchase
+52,2019-06-08 20:16:23.921573,  yahoo, shirt, add_to_cart
+53,2019-06-08 20:16:23.921579,facebook, rug, page_view
+54,2019-06-08 20:16:23.921585,facebook, shirt, page_view
+55,2019-06-08 20:16:23.921590, bing, rocket fire,purchase
+56,2019-06-08 20:16:23.921596,  twitter, house, page_view
+57,2019-06-08 20:16:23.921602,  google, sword, add_to_cart
+58,2019-06-08 20:16:23.921608,facebook, not water, add_to_cart
+59,2019-06-08 20:16:23.921615,  twitter, rug, page_view
+60,2019-06-08 20:16:23.921621, bing, rug, page_view
+61,2019-06-08 20:16:23.921626,facebook, table,purchase
+62,2019-06-08 20:16:23.921633,  google, bruhkfest, page_view
+63,2019-06-08 20:16:23.921638, bing,water,purchase
+64,2019-06-08 20:16:23.921644, bing, chicken, page_view
+65,2019-06-08 20:16:23.921649, bing, chicken, page_view
+66,2019-06-08 20:16:23.921655,  google, bruhkfest,purchase
+67,2019-06-08 20:16:23.921661,facebook, rocket fire, add_to_cart
+68,2019-06-08 20:16:23.921666,  google, rocket fire,purchase
+69,2019-06-08 20:16:23.921672,  google, fire rocket, page_view
+70,2019-06-08 20:16:23.921678,  google, boots, add_to_cart
+71,2019-06-08 20:16:23.921683,  google, bread,purchase
+72,2019-06-08 20:16:23.921689, bing, wine, add_to_cart
+73,2019-06-08 20:16:23.921706,  google, table, add_to_cart
+74,2019-06-08 20:16:23.921712,  yahoo, wine, add_to_cart
+75,2019-06-08 20:16:23.921719, bing, house, page_view
+76,2019-06-08 20:16:23.921725,  twitter, sword,purchase
+77,2019-06-08 20:16:23.921731, bing, coat,purchase
+78,2019-06-08 20:16:23.921737,  twitter, rocket fire, page_view
+79,2019-06-08 20:16:23.921742,  google, sword, add_to_cart
+80,2019-06-08 20:16:23.921748,  twitter, axe, add_to_cart
+81,2019-06-08 20:16:23.921754,  google, rug, add_to_cart
+82,2019-06-08 20:16:23.921760,  yahoo, chicken, add_to_cart
+83,2019-06-08 20:16:23.921765,  google, bruhkfest,purchase
+84,2019-06-08 20:16:23.921771, bing, coat, add_to_cart
+85,2019-06-08 20:16:23.921776, bing, axe,purchase
+86,2019-06-08 20:16:23.921782,  yahoo, chicken, page_view
+87,2019-06-08 20:16:23.921788, bing, house,purchase
+88,2019-06-08 20:16:23.921793,  twitter, axe, add_to_cart
+89,2019-06-08 20:16:23.921800,  google, axe, page_view
+90,2019-06-08 20:16:23.921806,  yahoo, house, add_to_cart
+91,2019-06-08 20:16:23.921813,  google, rocket fire, page_view
+92,2019-06-08 20:16:23.921818, bing, sword, add_to_cart
+93,2019-06-08 20:16:23.921824,  google, steak, page_view
+94,2019-06-08 20:16:23.921829, bing, chair, add_to_cart
+95,2019-06-08 20:16:23.921836,  yahoo, flour, add_to_cart
+96,2019-06-08 20:16:23.921841,  yahoo, fire rocket, page_view
+97,2019-06-08 20:16:23.921847,  yahoo, table,purchase
+98,2019-06-08 20:16:23.921853, bing, bruhkfest,purchase
+99,2019-06-08 20:16:23.921859,  google, bread, page_view
+100,2019-06-08 20:16:23.921865, bing, a table,purchase
+101,2019-06-08 20:16:23.921871,facebook, shirt, add_to_cart
+102,2019-06-08 20:16:23.921877, bing, chair, page_view
+103,2019-06-08 20:16:23.921882, bing, a table,purchase
+104,2019-06-08 20:16:23.921889, bing, flour,purchase
+105,2019-06-08 20:16:23.921895,  yahoo, shirt, add_to_cart
+106,2019-06-08 20:16:23.921900,  twitter, rug, page_view
+107,2019-06-08 20:16:23.921907,  twitter, flour, page_view
+108,2019-06-08 20:16:23.921913, bing, table,purchase
+109,2019-06-08 20:16:23.921919, bing, chardonei, page_view
+110,2019-06-08 20:16:23.921925,facebook, house, add_to_cart
+111,2019-06-08 20:16:23.921930,facebook, house,purchase
+112,2019-06-08 20:16:23.921936,  yahoo, bruhkfest, page_view
+113,2019-06-08 20:16:23.921942,  twitter, flour, add_to_cart
+114,2019-06-08 20:16:23.921948, bing, boots,purchase
+115,2019-06-08 20:16:23.921954,  yahoo, werehouse, add_to_cart
+116,2019-06-08 20:16:23.921959,  twitter, not water, page_view
+117,2019-06-08 20:16:23.921965,  twitter, a table,purchase
+118,2019-06-08 20:16:23.921974,facebook, rocket fire, add_to_cart
+119,2019-06-08 20:16:23.921979,  yahoo, axe, page_view
+120,2019-06-08 20:16:23.921985, bing, table, add_to_cart
+121,2019-06-08 20:16:23.921991,  twitter, axe,purchase
+122,2019-06-08 20:16:23.921996,  google, shirt, add_to_cart
+123,2019-06-08 20:16:23.922002,  twitter, shirt,purchase
+124,2019-06-08 20:16:23.922008,  twitter, axe, add_to_cart
+125,2019-06-08 20:16:23.922014,  yahoo, fire rocket, page_view
+126,2019-06-08 20:16:23.922020,facebook, steak, page_view
+127,2019-06-08 20:16:23.922028,facebook, sword,purchase
+128,2019-06-08 20:16:23.922034,  yahoo, bruhkfest, page_view
+129,2019-06-08 20:16:23.922039,  twitter, pants, page_view
+130,2019-06-08 20:16:23.922045,  yahoo, chardonei, page_view
+131,2019-06-08 20:16:23.922050,  twitter, not water, page_view
+132,2019-06-08 20:16:23.922056, bing, rocket fire, add_to_cart
+133,2019-06-08 20:16:23.922061,  google, bruhkfest, page_view
+134,2019-06-08 20:16:23.922067, bing, chardonei,purchase
+135,2019-06-08 20:16:23.922073,  twitter, not water, page_view
+136,2019-06-08 20:16:23.922078,  twitter, chardonei, add_to_cart
+137,2019-06-08 20:16:23.922084,facebook, werehouse,purchase
+138,2019-06-08 20:16:23.922090,  twitter, bread,purchase
+139,2019-06-08 20:16:23.922095, bing, rug,purchase
+140,2019-06-08 20:16:23.922101,  yahoo, fire rocket,purchase
+141,2019-06-08 20:16:23.922107,  twitter, bruhkfest, page_view
+142,2019-06-08 20:16:23.922113,  google, a table, add_to_cart
+143,2019-06-08 20:16:23.922119,  yahoo, axe, add_to_cart
+144,2019-06-08 20:16:23.922125,facebook, a table, add_to_cart
+145,2019-06-08 20:16:23.922131,facebook, table,purchase
+146,2019-06-08 20:16:23.922136,  twitter, a table,purchase
+147,2019-06-08 20:16:23.922142,  yahoo, a table,purchase
+148,2019-06-08 20:16:23.922148,  google, rocket fire,purchase
+149,2019-06-08 20:16:23.922154, bing, chicken, add_to_cart
+150,2019-06-08 20:16:23.922161,facebook, werehouse, add_to_cart
+151,2019-06-08 20:16:23.922166,  google, a table, add_to_cart
+152,2019-06-08 20:16:23.922172,  twitter, chicken, page_view
+153,2019-06-08 20:16:23.922177,  twitter, steak, add_to_cart
+154,2019-06-08 20:16:23.922183,facebook, steak, add_to_cart
+155,2019-06-08 20:16:23.922189, bing, rug,purchase
+156,2019-06-08 20:16:23.922195,  google, house, page_view
+157,2019-06-08 20:16:23.922200,  yahoo, flour,purchase
+158,2019-06-08 20:16:23.922206,facebook, steak, page_view
+159,2019-06-08 20:16:23.922212,  twitter, pants, add_to_cart
+160,2019-06-08 20:16:23.922218,  google, chair, add_to_cart
+161,2019-06-08 20:16:23.922223,  google, house, page_view
+162,2019-06-08 20:16:23.922229, bing, bruhkfest, page_view
+163,2019-06-08 20:16:23.922235,  yahoo, pants, page_view
+164,2019-06-08 20:16:23.922240,  google, pants, page_view
+165,2019-06-08 20:16:23.922246, bing, shirt,purchase
+166,2019-06-08 20:16:23.922251,  google, flour,purchase
+167,2019-06-08 20:16:23.922258,  twitter, shirt,purchase
+168,2019-06-08 20:16:23.922264,  twitter, pants, page_view
+169,2019-06-08 20:16:23.922270,  twitter, wine,purchase
+170,2019-06-08 20:16:23.922275,  twitter, wheet, add_to_cart
+171,2019-06-08 20:16:23.922282, bing, house, add_to_cart
+172,2019-06-08 20:16:23.922287,facebook, bruhkfest,purchase
+173,2019-06-08 20:16:23.922293, bing, boots, page_view
+174,2019-06-08 20:16:23.922300,  google, bruhkfest, add_to_cart
+175,2019-06-08 20:16:23.922306,  yahoo, werehouse,purchase
+176,2019-06-08 20:16:23.922312,  yahoo, boots,purchase
+177,2019-06-08 20:16:23.922318,facebook, table, add_to_cart
+178,2019-06-08 20:16:23.922324, bing, bread,purchase
+179,2019-06-08 20:16:23.922330,  yahoo, boots, page_view
+180,2019-06-08 20:16:23.922336,facebook, chardonei, page_view
+181,2019-06-08 20:16:23.922342,  yahoo, bruhkfest, add_to_cart
+182,2019-06-08 20:16:23.922348,facebook, wheet, page_view
+183,2019-06-08 20:16:23.922354,  twitter, fire rocket, page_view
+184,2019-06-08 20:16:23.922359,facebook, boots, page_view
+185,2019-06-08 20:16:23.922365,  google, chardonei, add_to_cart
+186,2019-06-08 20:16:23.922371,  yahoo, axe, add_to_cart
+187,2019-06-08 20:16:23.922377, bing, flour, add_to_cart
+188,2019-06-08 20:16:23.922382,  twitter, table, page_view
+189,2019-06-08 20:16:23.922389,  twitter, steak, page_view
+190,2019-06-08 20:16:23.922394,  yahoo, shirt, page_view
+191,2019-06-08 20:16:23.922400,facebook, coat, page_view
+192,2019-06-08 20:16:23.922405,facebook, boots, page_view
+193,2019-06-08 20:16:23.922411,facebook, boots, add_to_cart
+194,2019-06-08 20:16:23.922417,facebook, coat, page_view
+195,2019-06-08 20:16:23.922423,  twitter, chardonei, page_view
+196,2019-06-08 20:16:23.922428,  google, bread, page_view
+197,2019-06-08 20:16:23.922434,  google, bruhkfest, page_view
+198,2019-06-08 20:16:23.922440,  yahoo, wheet, page_view
+199,2019-06-08 20:16:23.922446,  google, steak,purchase
+200,2019-06-08 20:16:23.922452,  google, a table, add_to_cart
+201,2019-06-08 20:16:23.922457, bing, chardonei, page_view
+202,2019-06-08 20:16:23.922463, bing, a table, page_view
+203,2019-06-08 20:16:23.922470,facebook, chicken,purchase
+204,2019-06-08 20:16:23.922476, bing, werehouse, add_to_cart
+205,2019-06-08 20:16:23.922481,  twitter, chicken, page_view
+206,2019-06-08 20:16:23.922487, bing, fire rocket, page_view
+207,2019-06-08 20:16:23.922493,facebook, not water, add_to_cart
+208,2019-06-08 20:16:23.922499,facebook, rocket fire,purchase
+209,2019-06-08 20:16:23.922505,  google, chair, page_view
+210,2019-06-08 20:16:23.922511, bing, shirt, page_view
+211,2019-06-08 20:16:23.922516,  twitter, not water, page_view
+212,2019-06-08 20:16:23.922522,facebook, flour,purchase
+213,2019-06-08 20:16:23.922528,facebook, flour,purchase
+214,2019-06-08 20:16:23.922534, bing, rug, page_view
+215,2019-06-08 20:16:23.922540,  twitter, steak,purchase
+216,2019-06-08 20:16:23.922546,facebook, bruhkfest, add_to_cart
+217,2019-06-08 20:16:23.922551,  yahoo, table,purchase
+218,2019-06-08 20:16:23.922557,facebook, rug, add_to_cart
+219,2019-06-08 20:16:23.922563,facebook, boots, add_to_cart
+220,2019-06-08 20:16:23.922569,  google, not water, page_view
+221,2019-06-08 20:16:23.922575,  twitter, chicken,purchase
+222,2019-06-08 20:16:23.922581,  twitter, bruhkfest,purchase
+223,2019-06-08 20:16:23.922586,facebook, steak, add_to_cart
+224,2019-06-08 20:16:23.922592,facebook, table, page_view
+225,2019-06-08 20:16:23.922598,  yahoo, werehouse, page_view
+226,2019-06-08 20:16:23.922604,  yahoo, chicken, page_view
+227,2019-06-08 20:16:23.922609,facebook, bruhkfest, add_to_cart
+228,2019-06-08 20:16:23.922615,facebook, table,purchase
+229,2019-06-08 20:16:23.922621,facebook, table,purchase
+230,2019-06-08 20:16:23.922632,  google, shirt, page_view
+231,2019-06-08 20:16:23.922638,  twitter, rug,purchase
+232,2019-06-08 20:16:23.922644,facebook, chair, page_view
+233,2019-06-08 20:16:23.922649,  yahoo, bruhkfest, page_view
+234,2019-06-08 20:16:23.922656,  twitter, rug, add_to_cart
+235,2019-06-08 20:16:23.922662,  twitter, bruhkfest,purchase
+236,2019-06-08 20:16:23.922668,  google, coat, add_to_cart
+237,2019-06-08 20:16:23.922674,facebook, table,purchase
+238,2019-06-08 20:16:23.922680,  google, wine, page_view
+239,2019-06-08 20:16:23.922685,  google, chair, page_view
+240,2019-06-08 20:16:23.922691,facebook, fire rocket, page_view
+241,2019-06-08 20:16:23.922696, bing, steak,purchase
+242,2019-06-08 20:16:23.922702,facebook, chardonei,purchase
+243,2019-06-08 20:16:23.922708,facebook, flour, add_to_cart
+244,2019-06-08 20:16:23.922714, bing, rug, page_view
+245,2019-06-08 20:16:23.922720, bing, house, add_to_cart
+246,2019-06-08 20:16:23.922726,facebook, not water, add_to_cart
+247,2019-06-08 20:16:23.922732,  yahoo, flour, page_view
+248,2019-06-08 20:16:23.922738, bing, chardonei, add_to_cart
+249,2019-06-08 20:16:23.922743,facebook, axe, page_view
+250,2019-06-08 20:16:23.922749,  google, a table, page_view
+251,2019-06-08 20:16:23.922778,  twitter, coat,purchase
+252,2019-06-08 20:16:23.922789,  google, a table, add_to_cart
+253,2019-06-08 20:16:23.922794,facebook, chicken,purchase
+254,2019-06-08 20:16:23.922800,  twitter, chair, page_view
+255,2019-06-08 20:16:23.922806,  google, bread, page_view
+256,2019-06-08 20:16:23.922812, bing, chicken,purchase
+257,2019-06-08 20:16:23.922818, bing, table,purchase
+258,2019-06-08 20:16:23.922824,  yahoo, a table,purchase
+259,2019-06-08 20:16:23.922830,  google, fire rocket, add_to_cart
+260,2019-06-08 20:16:23.922836,  twitter, wheet, add_to_cart
+261,2019-06-08 20:16:23.922841,  twitter, wheet, page_view
+262,2019-06-08 20:16:23.922847,facebook, bread, page_view
+263,2019-06-08 20:16:23.922853,  twitter, shirt, page_view
+264,2019-06-08 20:16:23.922859,  twitter, sword,purchase
+265,2019-06-08 20:16:23.922865,  yahoo, rocket fire, page_view
+266,2019-06-08 20:16:23.922870,  google,water, add_to_cart
+267,2019-06-08 20:16:23.922876,  twitter, house,purchase
+268,2019-06-08 20:16:23.922882,facebook, sword,purchase
+269,2019-06-08 20:16:23.922888,  yahoo, chair, page_view
+270,2019-06-08 20:16:23.922907,facebook, sword,purchase
+271,2019-06-08 20:16:23.922912, bing, rocket fire, add_to_cart
+272,2019-06-08 20:16:23.922917,  yahoo, table, add_to_cart
+273,2019-06-08 20:16:23.922922,  google, chicken, page_view
+274,2019-06-08 20:16:23.922927,  twitter, fire rocket, page_view
+275,2019-06-08 20:16:23.922932, bing, house, add_to_cart
+276,2019-06-08 20:16:23.922937,  google, rocket fire, page_view
+277,2019-06-08 20:16:23.922942,  google, rug, add_to_cart
+278,2019-06-08 20:16:23.922947,  yahoo, steak,purchase
+279,2019-06-08 20:16:23.922952,  twitter, a table, page_view
+280,2019-06-08 20:16:23.922957,  google, axe, add_to_cart
+281,2019-06-08 20:16:23.922962,  yahoo, rug,purchase
+282,2019-06-08 20:16:23.922968,  yahoo, axe, page_view
+283,2019-06-08 20:16:23.922973,facebook, a table, page_view
+284,2019-06-08 20:16:23.922978,  google,water, add_to_cart
+285,2019-06-08 20:16:23.922983,  google,water,purchase
+286,2019-06-08 20:16:23.922988,  twitter, coat, add_to_cart
+287,2019-06-08 20:16:23.922993,  twitter, coat,purchase
+288,2019-06-08 20:16:23.922998, bing, bread,purchase
+289,2019-06-08 20:16:23.923003,  yahoo, shirt, add_to_cart
+290,2019-06-08 20:16:23.923007,facebook, pants, add_to_cart
+291,2019-06-08 20:16:23.923013,facebook, flour,purchase
+292,2019-06-08 20:16:23.923017,  twitter, house, page_view
+293,2019-06-08 20:16:23.923022,  yahoo, wheet,purchase
+294,2019-06-08 20:16:23.923027, bing, rug,purchase
+295,2019-06-08 20:16:23.923033,facebook, fire rocket,purchase
+296,2019-06-08 20:16:23.923037,  google, wheet,purchase
+297,2019-06-08 20:16:23.923042,facebook, fire rocket, add_to_cart
+298,2019-06-08 20:16:23.923047,facebook, wheet,purchase
+299,2019-06-08 20:16:23.923052,facebook, table, page_view
+300,2019-06-08 20:16:23.923058, bing, coat, page_view
+301,2019-06-08 20:16:23.923063,  google, shirt, page_view
+302,2019-06-08 20:16:23.923068,  yahoo, werehouse, page_view
+303,2019-06-08 20:16:23.923072,  google, coat,purchase
+304,2019-06-08 20:16:23.923077,  yahoo, bread, page_view
+305,2019-06-08 20:16:23.923082, bing, chardonei, page_view
+306,2019-06-08 20:16:23.923087,  yahoo, chair,purchase
+307,2019-06-08 20:16:23.923092,  yahoo, house,purchase
+308,2019-06-08 20:16:23.923097,  twitter, rug, page_view
+309,2019-06-08 20:16:23.923102,  google, werehouse,purchase
+310,2019-06-08 20:16:23.923109,  google, wheet,purchase
+311,2019-06-08 20:16:23.923115,  twitter, axe, page_view
+312,2019-06-08 20:16:23.923120,facebook, wheet,purchase
+313,2019-06-08 20:16:23.923125,facebook, coat, add_to_cart
+314,2019-06-08 20:16:23.923130, bing, not water,purchase
+315,2019-06-08 20:16:23.923135,  twitter, pants,purchase
+316,2019-06-08 20:16:23.923140,  yahoo, bruhkfest, add_to_cart
+317,2019-06-08 20:16:23.923148,facebook, wine, add_to_cart
+318,2019-06-08 20:16:23.923153,  google, fire rocket,purchase
+319,2019-06-08 20:16:23.923158,  google, bread, add_to_cart
+320,2019-06-08 20:16:23.923163,  twitter, coat, page_view
+321,2019-06-08 20:16:23.923168, bing, fire rocket, add_to_cart
+322,2019-06-08 20:16:23.923173,  twitter, table, page_view
+323,2019-06-08 20:16:23.923178,  twitter, a table, add_to_cart
+324,2019-06-08 20:16:23.923182,facebook, bruhkfest,purchase
+325,2019-06-08 20:16:23.923187,  yahoo, flour, add_to_cart
+326,2019-06-08 20:16:23.923192,facebook, wheet, page_view
+327,2019-06-08 20:16:23.923197,facebook, bread, page_view
+328,2019-06-08 20:16:23.923202, bing, bread, page_view
+329,2019-06-08 20:16:23.923207,  google, werehouse,purchase
+330,2019-06-08 20:16:23.923212,  google, house, add_to_cart
+331,2019-06-08 20:16:23.923217,  google, fire rocket,purchase
+332,2019-06-08 20:16:23.923222,  twitter, chicken, page_view
+333,2019-06-08 20:16:23.923227,facebook, bruhkfest, add_to_cart
+334,2019-06-08 20:16:23.923232,  yahoo, boots,purchase
+335,2019-06-08 20:16:23.923237, bing, boots,purchase
+336,2019-06-08 20:16:23.923242,  google, not water,purchase
+337,2019-06-08 20:16:23.923248,facebook, fire rocket, add_to_cart
+338,2019-06-08 20:16:23.923253,facebook, a table, page_view
+339,2019-06-08 20:16:23.923258,  twitter, bread, page_view
+340,2019-06-08 20:16:23.923263,  twitter, wine, add_to_cart
+341,2019-06-08 20:16:23.923268,facebook, werehouse, add_to_cart
+342,2019-06-08 20:16:23.923273,  twitter, coat, page_view
+343,2019-06-08 20:16:23.923278,  twitter, steak, add_to_cart
+344,2019-06-08 20:16:23.923283,  twitter, table,purchase
+345,2019-06-08 20:16:23.923287,facebook, coat, page_view
+346,2019-06-08 20:16:23.923293,  yahoo, not water,purchase
+347,2019-06-08 20:16:23.923298,facebook, a table, page_view
+348,2019-06-08 20:16:23.923303,facebook, sword,purchase
+349,2019-06-08 20:16:23.923309,  yahoo, chair, page_view
+350,2019-06-08 20:16:23.923313,  twitter, sword, page_view
+351,2019-06-08 20:16:23.923318,  twitter, werehouse,purchase
+352,2019-06-08 20:16:23.923323,  google, steak, add_to_cart
+353,2019-06-08 20:16:23.923329,  yahoo, rug, add_to_cart
+354,2019-06-08 20:16:23.923334,  google, bread, page_view
+355,2019-06-08 20:16:23.923341, bing, steak,purchase
+356,2019-06-08 20:16:23.923346,  twitter, shirt, add_to_cart
+357,2019-06-08 20:16:23.923352,  yahoo, flour, add_to_cart
+358,2019-06-08 20:16:23.923357,  twitter, fire rocket, page_view
+359,2019-06-08 20:16:23.923362,  google, chicken,purchase
+360,2019-06-08 20:16:23.923367,  google, rug, add_to_cart
+361,2019-06-08 20:16:23.923372,  yahoo, fire rocket, page_view
+362,2019-06-08 20:16:23.923377,  google, a table, page_view
+363,2019-06-08 20:16:23.923382, bing, not water, page_view
+364,2019-06-08 20:16:23.923386,  twitter, sword, add_to_cart
+365,2019-06-08 20:16:23.923391, bing, fire rocket,purchase
+366,2019-06-08 20:16:23.923396,  twitter, coat,purchase
+367,2019-06-08 20:16:23.923401,facebook, steak, add_to_cart
+368,2019-06-08 20:16:23.923406,  google, not water, add_to_cart
+369,2019-06-08 20:16:23.923411,  yahoo, wine, add_to_cart
+370,2019-06-08 20:16:23.923416,  twitter, chicken,purchase
+371,2019-06-08 20:16:23.923421,facebook, sword,purchase
+372,2019-06-08 20:16:23.923426,  twitter, axe,purchase
+373,2019-06-08 20:16:23.923432,  google, wheet, page_view
+374,2019-06-08 20:16:23.923437, bing, table, add_to_cart
+375,2019-06-08 20:16:23.923442,facebook, house, add_to_cart
+376,2019-06-08 20:16:23.923446,  twitter, fire rocket,purchase
+377,2019-06-08 20:16:23.923451,  twitter, shirt,purchase
+378,2019-06-08 20:16:23.923456,  twitter, werehouse,purchase
+379,2019-06-08 20:16:23.923461,facebook, sword, page_view
+380,2019-06-08 20:16:23.923466, bing, axe, add_to_cart
+381,2019-06-08 20:16:23.923471, bing, sword,purchase
+382,2019-06-08 20:16:23.923476,  yahoo, house, add_to_cart
+383,2019-06-08 20:16:23.923481,facebook, fire rocket, page_view
+384,2019-06-08 20:16:23.923486,facebook, a table, add_to_cart
+385,2019-06-08 20:16:23.923491,  google, wine, page_view
+386,2019-06-08 20:16:23.923496, bing,water, page_view
+387,2019-06-08 20:16:23.923501,facebook, bruhkfest, add_to_cart
+388,2019-06-08 20:16:23.923506, bing, wheet, page_view
+389,2019-06-08 20:16:23.923511,  twitter, table, add_to_cart
+390,2019-06-08 20:16:23.923516,facebook, house,purchase
+391,2019-06-08 20:16:23.923522, bing, not water, add_to_cart
+392,2019-06-08 20:16:23.923527, bing, table, add_to_cart
+393,2019-06-08 20:16:23.923532,  yahoo, wine, page_view
+394,2019-06-08 20:16:23.923537,  google,water, page_view
+395,2019-06-08 20:16:23.923542,  yahoo, chicken,purchase
+396,2019-06-08 20:16:23.923547,  twitter, wine, page_view
+397,2019-06-08 20:16:23.923552,  google, boots, add_to_cart
+398,2019-06-08 20:16:23.923556,facebook, axe, add_to_cart
+399,2019-06-08 20:16:23.923562,  yahoo, pants, add_to_cart
+400,2019-06-08 20:16:23.923567,  google, werehouse,purchase
+401,2019-06-08 20:16:23.923572,  google, axe, add_to_cart
+402,2019-06-08 20:16:23.923576,  google, flour, add_to_cart
+403,2019-06-08 20:16:23.923581,  google, coat,purchase
+404,2019-06-08 20:16:23.923586,  twitter, not water, page_view
+405,2019-06-08 20:16:23.923592,facebook, rug, add_to_cart
+406,2019-06-08 20:16:23.923598,facebook, axe, add_to_cart
+407,2019-06-08 20:16:23.923603,  google, chardonei, page_view
+408,2019-06-08 20:16:23.923608,  yahoo, steak, add_to_cart
+409,2019-06-08 20:16:23.923613,  google, rocket fire, page_view
+410,2019-06-08 20:16:23.923618,  twitter,water, page_view
+411,2019-06-08 20:16:23.923623,  twitter, boots, page_view
+412,2019-06-08 20:16:23.923628,facebook, boots, page_view
+413,2019-06-08 20:16:23.923633, bing,water,purchase
+414,2019-06-08 20:16:23.923638,facebook, chicken, add_to_cart
+415,2019-06-08 20:16:23.923643,  twitter, house, page_view
+416,2019-06-08 20:16:23.923648,facebook, werehouse, add_to_cart
+417,2019-06-08 20:16:23.923653,  yahoo, chardonei,purchase
+418,2019-06-08 20:16:23.923658,  google, axe, page_view
+419,2019-06-08 20:16:23.923663,  twitter, wine, page_view
+420,2019-06-08 20:16:23.923668,  google, axe,purchase
+421,2019-06-08 20:16:23.923673,  google, coat, add_to_cart
+422,2019-06-08 20:16:23.923678,facebook, werehouse, page_view
+423,2019-06-08 20:16:23.923683,  google, sword, page_view
+424,2019-06-08 20:16:23.923688,  twitter, house, add_to_cart
+425,2019-06-08 20:16:23.923692, bing, sword, add_to_cart
+426,2019-06-08 20:16:23.923697,  yahoo, wine, page_view
+427,2019-06-08 20:16:23.923702,  google, boots, page_view
+428,2019-06-08 20:16:23.923707,  twitter, bread, page_view
+429,2019-06-08 20:16:23.923712,facebook, chicken,purchase
+430,2019-06-08 20:16:23.923717,  google, wine,purchase
+431,2019-06-08 20:16:23.923722,  yahoo, wheet,purchase
+432,2019-06-08 20:16:23.923727,  google, coat,purchase
+433,2019-06-08 20:16:23.923732,  yahoo, shirt, page_view
+434,2019-06-08 20:16:23.923737, bing, rug, add_to_cart
+435,2019-06-08 20:16:23.923743,  yahoo, flour, add_to_cart
+436,2019-06-08 20:16:23.923748,  yahoo, coat, add_to_cart
+437,2019-06-08 20:16:23.923753,  twitter, flour, add_to_cart
+438,2019-06-08 20:16:23.923758, bing, bruhkfest, page_view
+439,2019-06-08 20:16:23.923763,  twitter, wine, add_to_cart
+440,2019-06-08 20:16:23.923768, bing, shirt,purchase
+441,2019-06-08 20:16:23.923773,  google, boots, page_view
+442,2019-06-08 20:16:23.923778,facebook, werehouse, add_to_cart
+443,2019-06-08 20:16:23.923784,  yahoo, sword, add_to_cart
+444,2019-06-08 20:16:23.923789, bing, steak,purchase
+445,2019-06-08 20:16:23.923794, bing, pants,purchase
+446,2019-06-08 20:16:23.923799,  yahoo, pants,purchase
+447,2019-06-08 20:16:23.923804, bing, sword, add_to_cart
+448,2019-06-08 20:16:23.923809,  google, boots, page_view
+449,2019-06-08 20:16:23.923814,  twitter, fire rocket, add_to_cart
+450,2019-06-08 20:16:23.923819, bing, a table,purchase
+451,2019-06-08 20:16:23.923824, bing,water,purchase
+452,2019-06-08 20:16:23.923829,  google, bruhkfest, page_view
+453,2019-06-08 20:16:23.923834,  google, pants, page_view
+454,2019-06-08 20:16:23.923839,  twitter, table, page_view
+455,2019-06-08 20:16:23.923844, bing, fire rocket,purchase
+456,2019-06-08 20:16:23.923849,  twitter, axe, page_view
+457,2019-06-08 20:16:23.923854,  yahoo, wine, add_to_cart
+458,2019-06-08 20:16:23.923859, bing, wheet, page_view
+459,2019-06-08 20:16:23.923864, bing, house, page_view
+460,2019-06-08 20:16:23.923870,  google, rug, add_to_cart
+461,2019-06-08 20:16:23.923875,  yahoo, pants, page_view
+462,2019-06-08 20:16:23.923880, bing, table, add_to_cart
+463,2019-06-08 20:16:23.923885, bing, sword,purchase
+464,2019-06-08 20:16:23.923890,  yahoo, flour, add_to_cart
+465,2019-06-08 20:16:23.923896, bing, not water, page_view
+466,2019-06-08 20:16:23.923901,facebook, shirt,purchase
+467,2019-06-08 20:16:23.923906,facebook, wine, page_view
+468,2019-06-08 20:16:23.923911,  google, boots,purchase
+469,2019-06-08 20:16:23.923916,facebook,water, add_to_cart
+470,2019-06-08 20:16:23.923922,  twitter, not water,purchase
+471,2019-06-08 20:16:23.923927, bing, chardonei,purchase
+472,2019-06-08 20:16:23.923932,facebook, chair, page_view
+473,2019-06-08 20:16:23.923936,  google, axe, add_to_cart
+474,2019-06-08 20:16:23.923942,  twitter, rocket fire, add_to_cart
+475,2019-06-08 20:16:23.923947, bing, rug,purchase
+476,2019-06-08 20:16:23.923952,facebook, pants, add_to_cart
+477,2019-06-08 20:16:23.923957, bing, bread,purchase
+478,2019-06-08 20:16:23.923962,  twitter, chicken, page_view
+479,2019-06-08 20:16:23.923967,  twitter, chardonei,purchase
+480,2019-06-08 20:16:23.923971,  twitter, steak, page_view
+481,2019-06-08 20:16:23.923976,  yahoo, coat,purchase
+482,2019-06-08 20:16:23.923981,facebook, wine, page_view
+483,2019-06-08 20:16:23.923986, bing, werehouse,purchase
+484,2019-06-08 20:16:23.923991,facebook, steak, page_view
+485,2019-06-08 20:16:23.923996,  yahoo, fire rocket, page_view
+486,2019-06-08 20:16:23.924002,  google, werehouse,purchase
+487,2019-06-08 20:16:23.924007, bing, table,purchase
+488,2019-06-08 20:16:23.924012,facebook, shirt, page_view
+489,2019-06-08 20:16:23.924017,facebook, axe, add_to_cart
+490,2019-06-08 20:16:23.924022,facebook, coat, add_to_cart
+491,2019-06-08 20:16:23.924027, bing, coat, page_view
+492,2019-06-08 20:16:23.924032,  google, chair, add_to_cart
+493,2019-06-08 20:16:23.924037,  yahoo, bread, page_view
+494,2019-06-08 20:16:23.924042,  twitter, a table,purchase
+495,2019-06-08 20:16:23.924047,facebook,water, page_view
+496,2019-06-08 20:16:23.924052,facebook, rug,purchase
+497,2019-06-08 20:16:23.924057,  yahoo, steak, add_to_cart
+498,2019-06-08 20:16:23.924062,  google, rocket fire,purchase
+499,2019-06-08 20:16:23.924067,facebook, axe, add_to_cart
+500,2019-06-08 20:16:23.924072, bing, bread,purchase
+501,2019-06-08 20:16:23.924077, bing, sword, add_to_cart
+502,2019-06-08 20:16:23.924082,  yahoo, a table,purchase
+503,2019-06-08 20:16:23.924087,  yahoo, rug,purchase
+504,2019-06-08 20:16:23.924092,  yahoo, rug,purchase
+505,2019-06-08 20:16:23.924097,  yahoo, rug, page_view
+506,2019-06-08 20:16:23.924102, bing, table, page_view
+507,2019-06-08 20:16:23.924107, bing, bread,purchase
+508,2019-06-08 20:16:23.924112, bing, werehouse, add_to_cart
+509,2019-06-08 20:16:23.924118,  twitter, wheet,purchase
+510,2019-06-08 20:16:23.924123, bing, rug,purchase
+511,2019-06-08 20:16:23.924128,  google, table,purchase
+512,2019-06-08 20:16:23.924133,  twitter, chair,purchase
+513,2019-06-08 20:16:23.924138, bing, axe, page_view
+514,2019-06-08 20:16:23.924143,  google, bruhkfest,purchase
+515,2019-06-08 20:16:23.924148,  google, chair, page_view
+516,2019-06-08 20:16:23.924153,  google, a table, page_view
+517,2019-06-08 20:16:23.924158, bing, coat,purchase
+518,2019-06-08 20:16:23.924163, bing, not water, add_to_cart
+519,2019-06-08 20:16:23.924168,facebook,water, page_view
+520,2019-06-08 20:16:23.924173,  google, steak, add_to_cart
+521,2019-06-08 20:16:23.924178,  google,water, page_view
+522,2019-06-08 20:16:23.924183,  google, steak, page_view
+523,2019-06-08 20:16:23.924188,  twitter, steak, page_view
+524,2019-06-08 20:16:23.924193,  yahoo, a table,purchase
+525,2019-06-08 20:16:23.924198,  google, chair,purchase
+526,2019-06-08 20:16:23.924203,  twitter, steak, page_view
+527,2019-06-08 20:16:23.924224,  yahoo, axe,purchase
+528,2019-06-08 20:16:23.924229,  yahoo, sword, add_to_cart
+529,2019-06-08 20:16:23.924236,  twitter, table, add_to_cart
+530,2019-06-08 20:16:23.924242,facebook, axe,purchase
+531,2019-06-08 20:16:23.924248, bing, fire rocket, add_to_cart
+532,2019-06-08 20:16:23.924254,  yahoo, shirt,purchase
+533,2019-06-08 20:16:23.924259,facebook, table,purchase
+534,2019-06-08 20:16:23.924266,  twitter, bread,purchase
+535,2019-06-08 20:16:23.924271,  twitter,water,purchase
+536,2019-06-08 20:16:23.924277,  yahoo, chicken,purchase
+537,2019-06-08 20:16:23.924283, bing, bread,purchase
+538,2019-06-08 20:16:23.924289,  google, not water, add_to_cart
+539,2019-06-08 20:16:23.924295,  yahoo, chicken, add_to_cart
+540,2019-06-08 20:16:23.924301,  google, not water, add_to_cart
+541,2019-06-08 20:16:23.924306,facebook, table, add_to_cart
+542,2019-06-08 20:16:23.924313,  yahoo, coat, add_to_cart
+543,2019-06-08 20:16:23.924318, bing, chicken,purchase
+544,2019-06-08 20:16:23.924325,  yahoo, sword, add_to_cart
+545,2019-06-08 20:16:23.924330,  yahoo, shirt, page_view
+546,2019-06-08 20:16:23.924336,  yahoo, table, add_to_cart
+547,2019-06-08 20:16:23.924342,facebook, coat, page_view
+548,2019-06-08 20:16:23.924348, bing, rug, page_view
+549,2019-06-08 20:16:23.924354,  google, sword,purchase
+550,2019-06-08 20:16:23.924359,  yahoo, table, page_view
+551,2019-06-08 20:16:23.924365,  google, fire rocket, page_view
+552,2019-06-08 20:16:23.924371,  yahoo, rocket fire,purchase
+553,2019-06-08 20:16:23.924377,  google, boots, page_view
+554,2019-06-08 20:16:23.924383,facebook, a table, add_to_cart
+555,2019-06-08 20:16:23.924388,  yahoo, axe,purchase
+556,2019-06-08 20:16:23.924394, bing, shirt,purchase
+557,2019-06-08 20:16:23.924400, bing, shirt, add_to_cart
+558,2019-06-08 20:16:23.924406,  google, not water, page_view
+559,2019-06-08 20:16:23.924412,  yahoo, steak, page_view
+560,2019-06-08 20:16:23.924418,facebook, fire rocket,purchase
+561,2019-06-08 20:16:23.924424,facebook, fire rocket, add_to_cart
+562,2019-06-08 20:16:23.924431,  yahoo, coat, page_view
+563,2019-06-08 20:16:23.924436, bing, werehouse, add_to_cart
+564,2019-06-08 20:16:23.924442,facebook, bruhkfest, add_to_cart
+565,2019-06-08 20:16:23.924448,  google, house, add_to_cart
+566,2019-06-08 20:16:23.924454,  twitter, bread,purchase
+567,2019-06-08 20:16:23.924459,facebook, wheet,purchase
+568,2019-06-08 20:16:23.924465, bing, werehouse, page_view
+569,2019-06-08 20:16:23.924471,facebook, coat, add_to_cart
+570,2019-06-08 20:16:23.924477,  yahoo, a table,purchase
+571,2019-06-08 20:16:23.924483,  twitter, pants, add_to_cart
+572,2019-06-08 20:16:23.924489,facebook, fire rocket,purchase
+573,2019-06-08 20:16:23.924494,  google, wheet,purchase
+574,2019-06-08 20:16:23.924500,  yahoo, bread, page_view
+575,2019-06-08 20:16:23.924506, bing, wine,purchase
+576,2019-06-08 20:16:23.924511,  google, sword,purchase
+577,2019-06-08 20:16:23.924517, bing, chardonei, add_to_cart
+578,2019-06-08 20:16:23.924523,  yahoo, flour,purchase
+579,2019-06-08 20:16:23.924529,facebook, not water, add_to_cart
+580,2019-06-08 20:16:23.924535,  yahoo, chair, page_view
+581,2019-06-08 20:16:23.924541,  yahoo, flour, add_to_cart
+582,2019-06-08 20:16:23.924547,facebook, sword, page_view
+583,2019-06-08 20:16:23.924553,  google, sword, page_view
+584,2019-06-08 20:16:23.924558,  yahoo, a table, page_view
+585,2019-06-08 20:16:23.924564,  yahoo, pants, add_to_cart
+586,2019-06-08 20:16:23.924571,  google, chair,purchase
+587,2019-06-08 20:16:23.924577, bing, coat,purchase
+588,2019-06-08 20:16:23.924582,  google, chardonei,purchase
+589,2019-06-08 20:16:23.924588,  google, house, page_view
+590,2019-06-08 20:16:23.924594,  yahoo, rug,purchase
+591,2019-06-08 20:16:23.924599, bing, chardonei, page_view
+592,2019-06-08 20:16:23.924605,  yahoo, rug, add_to_cart
+593,2019-06-08 20:16:23.924611,  yahoo, house, page_view
+594,2019-06-08 20:16:23.924617,  twitter, fire rocket, add_to_cart
+595,2019-06-08 20:16:23.924622, bing, shirt, page_view
+596,2019-06-08 20:16:23.924628,  twitter, chair,purchase
+597,2019-06-08 20:16:23.924635,  twitter, boots, page_view
+598,2019-06-08 20:16:23.924640, bing, bread, add_to_cart
+599,2019-06-08 20:16:23.924648,  twitter, rocket fire,purchase
+600,2019-06-08 20:16:23.924654, bing, boots, page_view
+601,2019-06-08 20:16:23.924659,  google, rug, add_to_cart
+602,2019-06-08 20:16:23.924665,  yahoo, wine, page_view
+603,2019-06-08 20:16:23.924671,facebook, axe, page_view
+604,2019-06-08 20:16:23.924676,  twitter, rug,purchase
+605,2019-06-08 20:16:23.924682, bing, chardonei, page_view
+606,2019-06-08 20:16:23.924688, bing, axe, add_to_cart
+607,2019-06-08 20:16:23.924694, bing, table, page_view
+608,2019-06-08 20:16:23.924700,  google, wheet, page_view
+609,2019-06-08 20:16:23.924705,facebook,water, add_to_cart
+610,2019-06-08 20:16:23.924711,facebook, fire rocket,purchase
+611,2019-06-08 20:16:23.924717, bing, rug,purchase
+612,2019-06-08 20:16:23.924723,facebook, fire rocket, add_to_cart
+613,2019-06-08 20:16:23.924729,facebook, coat, add_to_cart
+614,2019-06-08 20:16:23.924735,facebook, chicken,purchase
+615,2019-06-08 20:16:23.924740,  twitter, steak, add_to_cart
+616,2019-06-08 20:16:23.924746,facebook, boots,purchase
+617,2019-06-08 20:16:23.924752,  twitter, pants,purchase
+618,2019-06-08 20:16:23.924758,facebook, not water, add_to_cart
+619,2019-06-08 20:16:23.924763, bing, house,purchase
+620,2019-06-08 20:16:23.924769,facebook, boots, add_to_cart
+621,2019-06-08 20:16:23.924775,  google, rug, page_view
+622,2019-06-08 20:16:23.924780,facebook, bread, page_view
+623,2019-06-08 20:16:23.924786,  google, not water, page_view
+624,2019-06-08 20:16:23.924792,  twitter, coat, add_to_cart
+625,2019-06-08 20:16:23.924797,facebook, axe,purchase
+626,2019-06-08 20:16:23.924804,facebook, table, page_view
+627,2019-06-08 20:16:23.924809, bing, shirt, add_to_cart
+628,2019-06-08 20:16:23.924815,  twitter,water, page_view
+629,2019-06-08 20:16:23.924820, bing, axe,purchase
+630,2019-06-08 20:16:23.924826,  yahoo, not water, page_view
+631,2019-06-08 20:16:23.924832,  twitter, boots,purchase
+632,2019-06-08 20:16:23.924838,  twitter, rocket fire, add_to_cart
+633,2019-06-08 20:16:23.924843,  twitter, pants, add_to_cart
+634,2019-06-08 20:16:23.924849,  yahoo, axe, add_to_cart
+635,2019-06-08 20:16:23.924854,  google, table, add_to_cart
+636,2019-06-08 20:16:23.924860,facebook, chardonei,purchase
+637,2019-06-08 20:16:23.924866,  twitter, flour, add_to_cart
+638,2019-06-08 20:16:23.924872, bing, house, page_view
+639,2019-06-08 20:16:23.924877, bing, a table, page_view
+640,2019-06-08 20:16:23.924883,  google, chardonei, page_view
+641,2019-06-08 20:16:23.924889,  yahoo, coat,purchase
+642,2019-06-08 20:16:23.924894,  twitter, rug, add_to_cart
+643,2019-06-08 20:16:23.924900,  twitter, a table, page_view
+644,2019-06-08 20:16:23.924906,  yahoo, house, page_view
+645,2019-06-08 20:16:23.924911,  yahoo, sword, add_to_cart
+646,2019-06-08 20:16:23.924917, bing, flour, page_view
+647,2019-06-08 20:16:23.924923,  twitter,water,purchase
+648,2019-06-08 20:16:23.924929,  twitter, steak,purchase
+649,2019-06-08 20:16:23.924935,  google, house, page_view
+650,2019-06-08 20:16:23.924941,facebook, bruhkfest,purchase
+651,2019-06-08 20:16:23.924946,facebook,water,purchase
+652,2019-06-08 20:16:23.924952,  twitter, werehouse,purchase
+653,2019-06-08 20:16:23.924958,  twitter, axe, page_view
+654,2019-06-08 20:16:23.924964,  google, wine,purchase
+655,2019-06-08 20:16:23.924969,facebook, shirt,purchase
+656,2019-06-08 20:16:23.924975,  yahoo, bruhkfest, add_to_cart
+657,2019-06-08 20:16:23.924981, bing, shirt,purchase
+658,2019-06-08 20:16:23.924986,  google, bread,purchase
+659,2019-06-08 20:16:23.924992, bing, coat, add_to_cart
+660,2019-06-08 20:16:23.924998,  twitter, bruhkfest, add_to_cart
+661,2019-06-08 20:16:23.925004,  google, werehouse,purchase
+662,2019-06-08 20:16:23.925010, bing, table,purchase
+663,2019-06-08 20:16:23.925015,  yahoo, chair, add_to_cart
+664,2019-06-08 20:16:23.925022,  twitter, steak, add_to_cart
+665,2019-06-08 20:16:23.925027,  google, werehouse, add_to_cart
+666,2019-06-08 20:16:23.925033, bing, chardonei,purchase
+667,2019-06-08 20:16:23.925039, bing, chardonei, page_view
+668,2019-06-08 20:16:23.925045,  twitter,water,purchase
+669,2019-06-08 20:16:23.925051,  google, a table, page_view
+670,2019-06-08 20:16:23.925057, bing, axe, page_view
+671,2019-06-08 20:16:23.925063,facebook, flour,purchase
+672,2019-06-08 20:16:23.925069, bing, a table, add_to_cart
+673,2019-06-08 20:16:23.925075,  twitter, bruhkfest, page_view
+674,2019-06-08 20:16:23.925080,  twitter, pants,purchase
+675,2019-06-08 20:16:23.925086,  yahoo, not water, add_to_cart
+676,2019-06-08 20:16:23.925091,  google, table, add_to_cart
+677,2019-06-08 20:16:23.925097,  yahoo, table, add_to_cart
+678,2019-06-08 20:16:23.925103,facebook, not water, add_to_cart
+679,2019-06-08 20:16:23.925109,facebook, pants, page_view
+680,2019-06-08 20:16:23.925117,  yahoo, house, page_view
+681,2019-06-08 20:16:23.925123,  google, flour,purchase
+682,2019-06-08 20:16:23.925129,facebook,water, page_view
+683,2019-06-08 20:16:23.925135, bing, table, page_view
+684,2019-06-08 20:16:23.925141,  yahoo, rocket fire, page_view
+685,2019-06-08 20:16:23.925146,  yahoo, pants, page_view
+686,2019-06-08 20:16:23.925152,  google, wine, page_view
+687,2019-06-08 20:16:23.925158,facebook, sword, add_to_cart
+688,2019-06-08 20:16:23.925164, bing, fire rocket, page_view
+689,2019-06-08 20:16:23.925170,  twitter, rug, page_view
+690,2019-06-08 20:16:23.925175,  yahoo, coat,purchase
+691,2019-06-08 20:16:23.925181,  google,water, page_view
+692,2019-06-08 20:16:23.925186,  yahoo, not water, add_to_cart
+693,2019-06-08 20:16:23.925192,  google, rocket fire, page_view
+694,2019-06-08 20:16:23.925198,  yahoo,water,purchase
+695,2019-06-08 20:16:23.925204,  yahoo,water,purchase
+696,2019-06-08 20:16:23.925210,  yahoo, bruhkfest,purchase
+697,2019-06-08 20:16:23.925216, bing, flour, page_view
+698,2019-06-08 20:16:23.925222,  twitter, coat, page_view
+699,2019-06-08 20:16:23.925228,  google, rug,purchase
+700,2019-06-08 20:16:23.925233,facebook, rug,purchase
+701,2019-06-08 20:16:23.925239,  google, chardonei, add_to_cart
+702,2019-06-08 20:16:23.925244,  google, rocket fire, add_to_cart
+703,2019-06-08 20:16:23.925250,  twitter, wheet,purchase
+704,2019-06-08 20:16:23.925256,facebook, shirt, page_view
+705,2019-06-08 20:16:23.925262, bing, steak, add_to_cart
+706,2019-06-08 20:16:23.925269,  google, chardonei,purchase
+707,2019-06-08 20:16:23.925274,  yahoo, rug, add_to_cart
+708,2019-06-08 20:16:23.925280,  yahoo, coat,purchase
+709,2019-06-08 20:16:23.925286, bing, house, page_view
+710,2019-06-08 20:16:23.925292,  yahoo, bread, page_view
+711,2019-06-08 20:16:23.925297,facebook, flour, page_view
+712,2019-06-08 20:16:23.925304,  google, steak, page_view
+713,2019-06-08 20:16:23.925310,  twitter, sword, add_to_cart
+714,2019-06-08 20:16:23.925316,  google, fire rocket,purchase
+715,2019-06-08 20:16:23.925321, bing, axe,purchase
+716,2019-06-08 20:16:23.925327,facebook, bread,purchase
+717,2019-06-08 20:16:23.925333,  twitter, flour, add_to_cart
+718,2019-06-08 20:16:23.925339, bing, chair,purchase
+719,2019-06-08 20:16:23.925344,  twitter, a table, page_view
+720,2019-06-08 20:16:23.925351, bing, a table,purchase
+721,2019-06-08 20:16:23.925356,  google, chair,purchase
+722,2019-06-08 20:16:23.925362,  google, flour,purchase
+723,2019-06-08 20:16:23.925368,  twitter, chair,purchase
+724,2019-06-08 20:16:23.925374,  google, chardonei, add_to_cart
+725,2019-06-08 20:16:23.925379, bing, bread,purchase
+726,2019-06-08 20:16:23.925385,  yahoo, fire rocket, add_to_cart
+727,2019-06-08 20:16:23.925391,  google, rocket fire, page_view
+728,2019-06-08 20:16:23.925396, bing, fire rocket,purchase
+729,2019-06-08 20:16:23.925402,  yahoo, sword, add_to_cart
+730,2019-06-08 20:16:23.925407,  yahoo, sword, page_view
+731,2019-06-08 20:16:23.925413,  twitter, werehouse, add_to_cart
+732,2019-06-08 20:16:23.925419,  twitter, sword, add_to_cart
+733,2019-06-08 20:16:23.925424,  google, chair, page_view
+734,2019-06-08 20:16:23.925430,  google, axe,purchase
+735,2019-06-08 20:16:23.925436,  twitter, coat, add_to_cart
+736,2019-06-08 20:16:23.925443, bing, rug, add_to_cart
+737,2019-06-08 20:16:23.925449,  twitter, shirt,purchase
+738,2019-06-08 20:16:23.925454,facebook, house, page_view
+739,2019-06-08 20:16:23.925460, bing, not water, page_view
+740,2019-06-08 20:16:23.925466,  yahoo, house, add_to_cart
+741,2019-06-08 20:16:23.925472,  twitter, pants, page_view
+742,2019-06-08 20:16:23.925477,  google, not water, page_view
+743,2019-06-08 20:16:23.925483,  twitter, fire rocket,purchase
+744,2019-06-08 20:16:23.925489,  yahoo, flour, add_to_cart
+745,2019-06-08 20:16:23.925495, bing, table, page_view
+746,2019-06-08 20:16:23.925502,  twitter, bruhkfest,purchase
+747,2019-06-08 20:16:23.925508,  yahoo, rocket fire, page_view
+748,2019-06-08 20:16:23.925513,facebook, rocket fire, add_to_cart
+749,2019-06-08 20:16:23.925520,  twitter, house,purchase
+750,2019-06-08 20:16:23.925525,  google, not water, add_to_cart
+751,2019-06-08 20:16:23.925531,  yahoo, shirt,purchase
+752,2019-06-08 20:16:23.925537,  yahoo, rug, add_to_cart
+753,2019-06-08 20:16:23.925542,  google, table, page_view
+754,2019-06-08 20:16:23.925548,  google, sword, add_to_cart
+755,2019-06-08 20:16:23.925554,  yahoo, flour, page_view
+756,2019-06-08 20:16:23.925559,  twitter, house, add_to_cart
+757,2019-06-08 20:16:23.925565,  twitter, wheet,purchase
+758,2019-06-08 20:16:23.925571,facebook, rocket fire, add_to_cart
+759,2019-06-08 20:16:23.925578,facebook, rocket fire, add_to_cart
+760,2019-06-08 20:16:23.925583,  yahoo,water,purchase
+761,2019-06-08 20:16:23.925589,  google, flour, page_view
+762,2019-06-08 20:16:23.925595,facebook, bruhkfest, add_to_cart
+763,2019-06-08 20:16:23.925601,  yahoo, pants, add_to_cart
+764,2019-06-08 20:16:23.925607,  twitter, bruhkfest, page_view
+765,2019-06-08 20:16:23.925613, bing, boots, page_view
+766,2019-06-08 20:16:23.925618,  yahoo, rug,purchase
+767,2019-06-08 20:16:23.925624,  google, rocket fire, add_to_cart
+768,2019-06-08 20:16:23.925630,  google, chair, add_to_cart
+769,2019-06-08 20:16:23.925636,  google, rocket fire,purchase
+770,2019-06-08 20:16:23.925642,  google, flour, add_to_cart
+771,2019-06-08 20:16:23.925648,  google, coat, add_to_cart
+772,2019-06-08 20:16:23.925655,  yahoo, chardonei,purchase
+773,2019-06-08 20:16:23.925661,  yahoo, table, page_view
+774,2019-06-08 20:16:23.925667,facebook, shirt,purchase
+775,2019-06-08 20:16:23.925672, bing, boots,purchase
+776,2019-06-08 20:16:23.925679,  twitter, bread,purchase
+777,2019-06-08 20:16:23.925685,  google, rug, page_view
+778,2019-06-08 20:16:23.925690,facebook, fire rocket, page_view
+779,2019-06-08 20:16:23.925696,  twitter, table,purchase
+780,2019-06-08 20:16:23.925702,  yahoo, chicken, add_to_cart
+781,2019-06-08 20:16:23.925708,facebook, fire rocket, add_to_cart
+782,2019-06-08 20:16:23.925713, bing, not water, page_view
+783,2019-06-08 20:16:23.925719,  twitter, shirt, page_view
+784,2019-06-08 20:16:23.925725,  twitter, chicken, add_to_cart
+785,2019-06-08 20:16:23.925730,  yahoo, flour,purchase
+786,2019-06-08 20:16:23.925736, bing,water, page_view
+787,2019-06-08 20:16:23.925743,  google, a table, add_to_cart
+788,2019-06-08 20:16:23.925748,  google, werehouse, add_to_cart
+789,2019-06-08 20:16:23.925754,facebook, pants,purchase
+790,2019-06-08 20:16:23.925760,  twitter, a table, add_to_cart
+791,2019-06-08 20:16:23.925765,  yahoo, coat, page_view
+792,2019-06-08 20:16:23.925771, bing, werehouse,purchase
+793,2019-06-08 20:16:23.925777, bing, chair,purchase
+794,2019-06-08 20:16:23.925782, bing, chicken, page_view
+795,2019-06-08 20:16:23.925788,facebook, chicken,purchase
+796,2019-06-08 20:16:23.925793,  twitter, boots, page_view
+797,2019-06-08 20:16:23.925799,  google, bruhkfest, add_to_cart
+798,2019-06-08 20:16:23.925805,facebook, a table, page_view
+799,2019-06-08 20:16:23.925811,  yahoo, chair, add_to_cart
+800,2019-06-08 20:16:23.925817,  google,water, page_view
+801,2019-06-08 20:16:23.925823,  google, sword,purchase
+802,2019-06-08 20:16:23.925829,facebook, rocket fire,purchase
+803,2019-06-08 20:16:23.925835, bing, boots,purchase
+804,2019-06-08 20:16:23.925841,  twitter, fire rocket,purchase
+805,2019-06-08 20:16:23.925847,  twitter, shirt, add_to_cart
+806,2019-06-08 20:16:23.925853,facebook, boots,purchase
+807,2019-06-08 20:16:23.925859,  twitter, boots, page_view
+808,2019-06-08 20:16:23.925864,  yahoo, a table, page_view
+809,2019-06-08 20:16:23.925870,  yahoo, axe,purchase
+810,2019-06-08 20:16:23.925876,  twitter, shirt, add_to_cart
+811,2019-06-08 20:16:23.925882, bing, wine, add_to_cart
+812,2019-06-08 20:16:23.925888,  google, fire rocket, add_to_cart
+813,2019-06-08 20:16:23.925894,  yahoo, chicken,purchase
+814,2019-06-08 20:16:23.925899, bing, pants, page_view
+815,2019-06-08 20:16:23.925905,  yahoo, rug, add_to_cart
+816,2019-06-08 20:16:23.925910,facebook, rug,purchase
+817,2019-06-08 20:16:23.925917, bing, flour, add_to_cart
+818,2019-06-08 20:16:23.925922,  yahoo, house, add_to_cart
+819,2019-06-08 20:16:23.925928,  google, chardonei,purchase
+820,2019-06-08 20:16:23.925934,  yahoo, steak,purchase
+821,2019-06-08 20:16:23.925940, bing, axe,purchase
+822,2019-06-08 20:16:23.925945,  google, chair, add_to_cart
+823,2019-06-08 20:16:23.925951,  twitter, rocket fire,purchase
+824,2019-06-08 20:16:23.925957,  yahoo, not water, add_to_cart
+825,2019-06-08 20:16:23.925963,  google, fire rocket, page_view
+826,2019-06-08 20:16:23.925968,  google, flour, page_view
+827,2019-06-08 20:16:23.925974,facebook, pants,purchase
+828,2019-06-08 20:16:23.925980,  twitter, axe, page_view
+829,2019-06-08 20:16:23.925985, bing, not water, page_view
+830,2019-06-08 20:16:23.925991,  yahoo, coat, page_view
+831,2019-06-08 20:16:23.925997,  twitter, chair,purchase
+832,2019-06-08 20:16:23.926003,  google, table, add_to_cart
+833,2019-06-08 20:16:23.926009, bing, chicken, add_to_cart
+834,2019-06-08 20:16:23.926015,  twitter, wine, page_view
+835,2019-06-08 20:16:23.926020,facebook, fire rocket, add_to_cart
+836,2019-06-08 20:16:23.926026,facebook, sword,purchase
+837,2019-06-08 20:16:23.926031,  google, bruhkfest, add_to_cart
+838,2019-06-08 20:16:23.926037,  yahoo, table,purchase
+839,2019-06-08 20:16:23.926043, bing, table,purchase
+840,2019-06-08 20:16:23.926048,  yahoo, axe, add_to_cart
+841,2019-06-08 20:16:23.926055,  twitter, shirt,purchase
+842,2019-06-08 20:16:23.926060, bing, coat,purchase
+843,2019-06-08 20:16:23.926066,  twitter, a table,purchase
+844,2019-06-08 20:16:23.926072, bing, boots, add_to_cart
+845,2019-06-08 20:16:23.926077,  yahoo, axe, add_to_cart
+846,2019-06-08 20:16:23.926083, bing, house, add_to_cart
+847,2019-06-08 20:16:23.926089,  twitter, coat, add_to_cart
+848,2019-06-08 20:16:23.926094,  yahoo, flour, page_view
+849,2019-06-08 20:16:23.926100, bing, chair, page_view
+850,2019-06-08 20:16:23.926106,facebook, rocket fire, add_to_cart
+851,2019-06-08 20:16:23.926112,  twitter, flour, add_to_cart
+852,2019-06-08 20:16:23.926118,  twitter, house,purchase
+853,2019-06-08 20:16:23.926124,  yahoo, steak, page_view
+854,2019-06-08 20:16:23.926129,  twitter, axe, add_to_cart
+855,2019-06-08 20:16:23.926135,  twitter, coat, add_to_cart
+856,2019-06-08 20:16:23.926141,  yahoo, chair,purchase
+857,2019-06-08 20:16:23.926147,facebook, pants,purchase
+858,2019-06-08 20:16:23.926152,  google, chardonei, add_to_cart
+859,2019-06-08 20:16:23.926158,facebook, sword, add_to_cart
+860,2019-06-08 20:16:23.926164,facebook, table, add_to_cart
+861,2019-06-08 20:16:23.926169, bing, bread,purchase
+862,2019-06-08 20:16:23.926175,  google, rocket fire,purchase
+863,2019-06-08 20:16:23.926181,  google, chardonei,purchase
+864,2019-06-08 20:16:23.926187,  google, a table,purchase
+865,2019-06-08 20:16:23.926193,facebook, wheet, page_view
+866,2019-06-08 20:16:23.926198,  twitter, not water, add_to_cart
+867,2019-06-08 20:16:23.926204,  yahoo, wine, page_view
+868,2019-06-08 20:16:23.926210,  google, chicken, page_view
+869,2019-06-08 20:16:23.926215,  twitter, chicken,purchase
+870,2019-06-08 20:16:23.926221,  yahoo, pants, page_view
+871,2019-06-08 20:16:23.926227,  google, werehouse, add_to_cart
+872,2019-06-08 20:16:23.926233,  twitter, sword, page_view
+873,2019-06-08 20:16:23.926238,  google, sword,purchase
+874,2019-06-08 20:16:23.926244,  yahoo, shirt, add_to_cart
+875,2019-06-08 20:16:23.926251,  yahoo, rug, page_view
+876,2019-06-08 20:16:23.926257,  yahoo, a table, add_to_cart
+877,2019-06-08 20:16:23.926262, bing, table,purchase
+878,2019-06-08 20:16:23.926268,  yahoo, not water, page_view
+879,2019-06-08 20:16:23.926274,  google, wheet,purchase
+880,2019-06-08 20:16:23.926280,  twitter, werehouse, page_view
+881,2019-06-08 20:16:23.926285, bing, shirt, page_view
+882,2019-06-08 20:16:23.926291,  yahoo, wheet, add_to_cart
+883,2019-06-08 20:16:23.926297, bing, chair, page_view
+884,2019-06-08 20:16:23.926303, bing, steak, page_view
+885,2019-06-08 20:16:23.926309,  yahoo, a table,purchase
+886,2019-06-08 20:16:23.926315,  google, shirt, add_to_cart
+887,2019-06-08 20:16:23.926320,  twitter, wine, add_to_cart
+888,2019-06-08 20:16:23.926326,  google, bruhkfest,purchase
+889,2019-06-08 20:16:23.926332,  google, bruhkfest, page_view
+890,2019-06-08 20:16:23.926338,facebook, axe, add_to_cart
+891,2019-06-08 20:16:23.926344,  yahoo, bruhkfest, add_to_cart
+892,2019-06-08 20:16:23.926350,facebook, fire rocket, page_view
+893,2019-06-08 20:16:23.926356, bing, table, add_to_cart
+894,2019-06-08 20:16:23.926361,  google, rug, page_view
+895,2019-06-08 20:16:23.926367,  twitter, a table,purchase
+896,2019-06-08 20:16:23.926373,  yahoo, flour, add_to_cart
+897,2019-06-08 20:16:23.926378,facebook,water,purchase
+898,2019-06-08 20:16:23.926384,  google, wheet,purchase
+899,2019-06-08 20:16:23.926390,facebook, sword,purchase
+900,2019-06-08 20:16:23.926396,  twitter, chicken,purchase
+901,2019-06-08 20:16:23.926403,facebook, coat, add_to_cart
+902,2019-06-08 20:16:23.926409, bing, chair, add_to_cart
+903,2019-06-08 20:16:23.926415,facebook, coat,purchase
+904,2019-06-08 20:16:23.926420, bing, rocket fire,purchase
+905,2019-06-08 20:16:23.926427,  yahoo, werehouse, page_view
+906,2019-06-08 20:16:23.926433,  google, flour, add_to_cart
+907,2019-06-08 20:16:23.926438, bing, pants, page_view
+908,2019-06-08 20:16:23.926444,  google, bread, page_view
+909,2019-06-08 20:16:23.926450,facebook, fire rocket, add_to_cart
+910,2019-06-08 20:16:23.926455,  google, rocket fire, add_to_cart
+911,2019-06-08 20:16:23.926461,  google, wheet, page_view
+912,2019-06-08 20:16:23.926467,  yahoo, steak, page_view
+913,2019-06-08 20:16:23.926472,  twitter, shirt, page_view
+914,2019-06-08 20:16:23.926478,facebook, wine, page_view
+915,2019-06-08 20:16:23.926484,  google, coat, page_view
+916,2019-06-08 20:16:23.926489, bing, sword, page_view
+917,2019-06-08 20:16:23.926495,  twitter, flour, page_view
+918,2019-06-08 20:16:23.926501,facebook, rocket fire, add_to_cart
+919,2019-06-08 20:16:23.926507,  google, house, add_to_cart
+920,2019-06-08 20:16:23.926513,  yahoo, shirt, page_view
+921,2019-06-08 20:16:23.926518,  yahoo, chair, add_to_cart
+922,2019-06-08 20:16:23.926524,facebook, wheet, add_to_cart
+923,2019-06-08 20:16:23.926530,  yahoo, chardonei, page_view
+924,2019-06-08 20:16:23.926536,  twitter, rug, add_to_cart
+925,2019-06-08 20:16:23.926542, bing, fire rocket,purchase
+926,2019-06-08 20:16:23.926548, bing, pants,purchase
+927,2019-06-08 20:16:23.926554,  yahoo, steak, add_to_cart
+928,2019-06-08 20:16:23.926561,  twitter, chicken, page_view
+929,2019-06-08 20:16:23.926567,  twitter, not water, add_to_cart
+930,2019-06-08 20:16:23.926573,  google, chair,purchase
+931,2019-06-08 20:16:23.926579,  google, chair, add_to_cart
+932,2019-06-08 20:16:23.926584,  yahoo, rocket fire, page_view
+933,2019-06-08 20:16:23.926590, bing, werehouse, page_view
+934,2019-06-08 20:16:23.926597, bing, fire rocket,purchase
+935,2019-06-08 20:16:23.926602,  google, bread, page_view
+936,2019-06-08 20:16:23.926608,  twitter, wheet, add_to_cart
+937,2019-06-08 20:16:23.926614, bing, chicken,purchase
+938,2019-06-08 20:16:23.926619,  twitter, bruhkfest, page_view
+939,2019-06-08 20:16:23.926625,  twitter, rocket fire, page_view
+940,2019-06-08 20:16:23.926631, bing, flour, page_view
+941,2019-06-08 20:16:23.926637,  twitter, sword,purchase
+942,2019-06-08 20:16:23.926643,  google, boots, add_to_cart
+943,2019-06-08 20:16:23.926649,  google, chicken,purchase
+944,2019-06-08 20:16:23.926654, bing, pants, page_view
+945,2019-06-08 20:16:23.926660,  google, boots, page_view
+946,2019-06-08 20:16:23.926666,facebook, table, add_to_cart
+947,2019-06-08 20:16:23.926671,facebook, bruhkfest,purchase
+948,2019-06-08 20:16:23.926677,  twitter, sword, page_view
+949,2019-06-08 20:16:23.926683,facebook, table,purchase
+950,2019-06-08 20:16:23.926688,  google, chardonei,purchase
+951,2019-06-08 20:16:23.926694,  twitter, fire rocket,purchase
+952,2019-06-08 20:16:23.926707, bing, boots, add_to_cart
+953,2019-06-08 20:16:23.926712,facebook, shirt, page_view
+954,2019-06-08 20:16:23.926718,  twitter, axe, page_view
+955,2019-06-08 20:16:23.926724,  google, chicken, add_to_cart
+956,2019-06-08 20:16:23.926730,  yahoo, steak, add_to_cart
+957,2019-06-08 20:16:23.926735, bing, chair, add_to_cart
+958,2019-06-08 20:16:23.926741, bing, steak,purchase
+959,2019-06-08 20:16:23.926747, bing, wheet,purchase
+960,2019-06-08 20:16:23.926753, bing, flour, add_to_cart
+961,2019-06-08 20:16:23.926758,  yahoo, fire rocket,purchase
+962,2019-06-08 20:16:23.926764, bing, rocket fire, add_to_cart
+963,2019-06-08 20:16:23.926770, bing, sword, page_view
+964,2019-06-08 20:16:23.926775,  twitter, flour, add_to_cart
+965,2019-06-08 20:16:23.926781, bing, not water, page_view
+966,2019-06-08 20:16:23.926787,facebook, fire rocket,purchase
+967,2019-06-08 20:16:23.926793,  yahoo,water, add_to_cart
+968,2019-06-08 20:16:23.926799, bing, boots, add_to_cart
+969,2019-06-08 20:16:23.926804,  twitter, chardonei, add_to_cart
+970,2019-06-08 20:16:23.926810,  yahoo, fire rocket, page_view
+971,2019-06-08 20:16:23.926815,  google, not water, add_to_cart
+972,2019-06-08 20:16:23.926821,  twitter, werehouse,purchase
+973,2019-06-08 20:16:23.926827, bing, chicken, add_to_cart
+974,2019-06-08 20:16:23.926832,  yahoo, bruhkfest, page_view
+975,2019-06-08 20:16:23.926838,  yahoo, shirt,purchase
+976,2019-06-08 20:16:23.926844,facebook, shirt, page_view
+977,2019-06-08 20:16:23.926849,  twitter, rocket fire, add_to_cart
+978,2019-06-08 20:16:23.926855,  twitter, a table,purchase
+979,2019-06-08 20:16:23.926860,facebook, sword, add_to_cart
+980,2019-06-08 20:16:23.926866,  yahoo, boots, page_view
+981,2019-06-08 20:16:23.926872,  google, steak, page_view
+982,2019-06-08 20:16:23.926877,  google, steak, page_view
+983,2019-06-08 20:16:23.926883,  twitter, wine,purchase
+984,2019-06-08 20:16:23.926889,  google, chair,purchase
+985,2019-06-08 20:16:23.926896,  google, table, add_to_cart
+986,2019-06-08 20:16:23.926901,  google, wine, page_view
+987,2019-06-08 20:16:23.926907,  yahoo, fire rocket,purchase
+988,2019-06-08 20:16:23.926913,  twitter, a table,purchase
+989,2019-06-08 20:16:23.926919,  yahoo, shirt, add_to_cart
+990,2019-06-08 20:16:23.926924, bing, steak, page_view
+991,2019-06-08 20:16:23.926932,  yahoo, wheet, add_to_cart
+992,2019-06-08 20:16:23.926938, bing, table, add_to_cart
+993,2019-06-08 20:16:23.926944,  yahoo, chicken, add_to_cart
+994,2019-06-08 20:16:23.926949,  yahoo, shirt, page_view
+995,2019-06-08 20:16:23.926955,  yahoo, boots,purchase
+996,2019-06-08 20:16:23.926960,  google, not water, page_view
+997,2019-06-08 20:16:23.926966,  yahoo, axe,purchase
+998,2019-06-08 20:16:23.926972,facebook, pants, add_to_cart
+999,2019-06-08 20:16:23.926978,  google, rocket fire, add_to_cart
